@@ -1,0 +1,4643 @@
+id,name,restaurant_id,category_id
+0,Blue Raspberry Slushee,1,1
+1,Blue Raspberry Slushee,1,1
+2,Blue Raspberry Slushee,1,1
+3,Blue Raspberry Slushee,1,1
+4,Breaded Onion Rings (Large),1,3
+5,Breaded Onion Rings (Regular),1,3
+6,Caramel Sundae,1,4
+7,Cheese Curds (Large),1,3
+8,Cheese Curds (Regular),1,3
+9,Cheese Fries,1,6
+10,Cheeseburger,1,7
+11,Cherry Limeade,1,1
+12,Cherry Limeade,1,1
+13,Cherry Limeade,1,1
+14,Cherry Limeade,1,1
+15,Cherry Slushee,1,1
+16,Cherry Slushee,1,1
+17,Cherry Slushee,1,1
+18,Cherry Slushee,1,1
+19,Chicken Strips- 3 pieces,1,8
+20,Chili,1,3
+21,Chili Cheese Fries,1,6
+22,Chili Fries,1,6
+23,Chocolate Fudge Blendrrr,1,4
+24,Chocolate Fudge Blendrrr,1,4
+25,Chocolate Fudge Blendrrr,1,4
+26,Chocolate Milkshake (medium),1,2
+27,Chocolate Milkshake (small),1,2
+28,Chocolate Sundae,1,4
+29,Crispy Chicken Sandwich,1,8
+30,Crunchy Shrimp,1,9
+31,Extra Burger Patty,1,3
+32,French Fries (Large),1,6
+33,French Fries (Regular),1,6
+34,French Fries (Small/ Kids),1,6
+35,Grilled Chicken Sandwich,1,8
+36,Hot Fudge Sundae,1,4
+37,Lemon Slushee,1,1
+38,Lemon Slushee,1,1
+39,Lemon Slushee,1,1
+40,Lemon Slushee,1,1
+41,Lime Slushee,1,1
+42,Lime Slushee,1,1
+43,Lime Slushee,1,1
+44,Lime Slushee,1,1
+45,Limeade,1,1
+46,Limeade,1,1
+47,Limeade,1,1
+48,Limeade,1,1
+49,M&M’s® Polar Swirl®,1,4
+50,Orange Float (large),1,2
+51,Orange Float (medium),1,2
+52,Orange Float (small),1,2
+53,Orange Freeze (medium),1,2
+54,Orange Freeze (medium),1,2
+55,Orange Freeze (small),1,2
+56,Oreo® Cookies & Cream Blendrrr,1,4
+57,Oreo® Cookies & Cream Blendrrr,1,4
+58,Oreo® Cookies & Cream Blendrrr,1,4
+59,Oreo® Polar Swirl®,1,4
+60,Original Double Cheeseburger,1,7
+61,Papa Burger®,1,7
+62,Papa Single Burger,1,7
+63,Pineapple Banana Smoothee,1,2
+64,Pineapple Banana Smoothee,1,2
+65,Pineapple Banana Smoothee,1,2
+66,Reese’s® Peanut Butter Fudge Blendrrr,1,4
+67,Reese’s® Peanut Butter Fudge Blendrrr,1,4
+68,Reese’s® Peanut Butter Fudge Blendrrr,1,4
+69,Reese’s® Polar Swirl®,1,4
+70,Strawberry Banana Smoothee,1,2
+71,Strawberry Banana Smoothee,1,2
+72,Strawberry Banana Smoothee,1,2
+73,Strawberry Limeade,1,1
+74,Strawberry Limeade,1,1
+75,Strawberry Limeade,1,1
+76,Strawberry Limeade,1,1
+77,Strawberry Milkshake (medium),1,2
+78,Strawberry Milkshake (small),1,2
+79,Strawberry Smoothee,1,2
+80,Strawberry Smoothee,1,2
+81,Strawberry Smoothee,1,2
+82,Strawberry Sundae,1,4
+83,Vanilla Cone (large),1,4
+84,Vanilla Cone (regular),1,4
+85,Vanilla Milkshake (medium,1,2
+86,Vanilla Milkshake (small),1,2
+87,Watermelon Slushee,1,1
+88,Watermelon Slushee,1,1
+89,Watermelon Slushee,1,1
+90,Watermelon Slushee,1,1
+91,Add Fried Shrimp,2,3
+92,Add Grilled Shrimp,2,3
+93,Appetizer Sampler,2,10
+94,"Apple Walnut Chicken Salad, Half",2,11
+95,"Apple Walnut Chicken Salad, Half w/o dressing",2,11
+96,"Apple Walnut Chicken Salad, Regular",2,11
+97,"Apple Walnut Chicken Salad, Regular w/o dressing",2,11
+98,Applebee’s House Salad,2,11
+99,Applebee’s House Salad (without dressing),2,11
+100,Applebee’s Limeades,2,1
+101,Applebee’s Reuben,2,12
+102,Applebee’s Reuben,2,12
+103,Applebee’s Riblets Basket,2,13
+104,Applebee’s Riblets Platter,2,13
+105,Asiago Peppercorn Steak,2,5
+106,Asiago Peppercorn Steak w/sides,2,5
+107,Baked Potato,2,3
+108,Baked Potato Soup,2,14
+109,Baked Potato Soup,2,14
+110,Black Bean Soup,2,14
+111,Blackened Tilapia Sandwich,2,12
+112,Blue Ribbon Brownie,2,4
+113,"Boneless Wings, Classic Buffalo",2,10
+114,"Boneless Wings, Honey BBQ",2,10
+115,"Boneless Wings, Hot Buffalo",2,10
+116,"Boneless Wings, Southern BBQ",2,10
+117,"Boneless Wings, Sweet & spicy sauce",2,10
+118,Bourbon Street Chicken & Shrimp,2,5
+119,Bourbon Street Steak,2,5
+120,Breadstick,2,3
+121,Broccoli Cheddar Soup,2,14
+122,Broccoli Cheddar Soup,2,14
+123,Brownie Bite,2,4
+124,Bruschetta Chicken,2,8
+125,"Bruschetta Chicken Salad, Half",2,11
+126,"Bruschetta Chicken Salad, Half w/o dressing",2,11
+127,"Bruschetta Chicken Salad, Regular",2,11
+128,"Bruschetta Chicken Salad, Regular w/o dressing",2,11
+129,Caesar Salad,2,11
+130,Cajun Shrimp Pasta,2,5
+131,"California Shrimp Salad, Half",2,11
+132,"California Shrimp Salad, Half w/o dressing",2,11
+133,"California Shrimp Salad, Regular",2,11
+134,"California Shrimp Salad, Regular w/o dressing",2,11
+135,California Turkey Club,2,12
+136,Cheese Quesadilla Grande,2,10
+137,Cheeseburger,2,7
+138,Cheeseburger Sliders,2,7
+139,Cheesy Corn,2,3
+140,Chicken Broccoli Pasta Alfredo,2,5
+141,Chicken Caesar Salad,2,11
+142,Chicken Fajita Rollup,2,12
+143,Chicken Fajita Rollup,2,12
+144,Chicken Fettuccine Carbonara,2,5
+145,Chicken Fried Chicken,2,8
+146,"Chicken Fried Steak (includes mashed potato, gravy & vegetable)",2,5
+147,Chicken Noodle Soup,2,14
+148,Chicken Noodle Soup,2,14
+149,Chicken Parmesan Stack,2,8
+150,Chicken Quesadilla Grande,2,10
+151,Chicken Tenders Basket,2,8
+152,Chicken Tenders Platter,2,8
+153,Chicken Tortilla Soup,2,14
+154,Chicken Tortilla Soup,2,14
+155,Chili,2,14
+156,Chili,2,14
+157,"Chili Cheese Fries, Side",2,6
+158,Chili Cheese Nachos,2,10
+159,Chips and Spicy Chipotle Lime Salsa,2,10
+160,Chocolate Chip Cookie Sundae,2,4
+161,Chocolate Mousse Shooter,2,4
+162,Clam Chowder,2,14
+163,Clam Chowder,2,14
+164,Classic Club House Grill,2,12
+165,"Classic Wings, Classic Buffalo",2,10
+166,"Classic Wings, Honey BBQ",2,10
+167,"Classic Wings, Hot Buffalo",2,10
+168,"Classic Wings, Southern BBQ",2,10
+169,"Classic Wings, Sweet & spicy sauce",2,10
+170,Cole Slaw,2,3
+171,Cowboy Burger,2,7
+172,Crispy Orange Chicken,2,8
+173,Crunchy Onion Rings,2,10
+174,"Crunchy Onion Rings, Side",2,3
+175,Decadent Shakes,2,2
+176,Double Crunch Shrimp,2,9
+177,Double-Glazed Baby Back Ribs,2,13
+178,Double-Glazed Baby Back Ribs – Half Rack,2,13
+179,Fiesta Lime Chicken®,2,8
+180,Florentine Ravioli with Chicken,2,5
+181,French Dip Sliders,2,7
+182,French Dip Sliders,2,7
+183,French Onion Soup,2,14
+184,"Fresh Fruit, Side",2,3
+185,Fried Chicken Salad,2,11
+186,"Fried Chicken Salad, Half",2,11
+187,"Fried Chicken Salad, Half w/o dressing",2,11
+188,"Fried Chicken Salad, Regular",2,11
+189,"Fried Chicken Salad, Regular w/o dressing",2,11
+190,Fried Red Potatoes,2,3
+191,"Fries, Side",2,6
+192,"Fries, Side",2,15
+193,Frozen Lemonades,2,1
+194,Garlic Herb Salmon,2,9
+195,Garlic Mashed Potatoes,2,3
+196,"Grilled Chicken Caesar, Half",2,11
+197,"Grilled Chicken Caesar, Half w/o dressing",2,11
+198,"Grilled Chicken Caesar, Regular",2,11
+199,"Grilled Chicken Caesar, Regular w/o dressing",2,11
+200,Grilled Chicken Wonton Tacos,2,10
+201,Grilled Dijon Chicken & Portobellos,2,5
+202,Grilled Dijon Chicken & Portobellos,2,8
+203,Grilled Shrimp & Island Rice,2,9
+204,Grilled Shrimp ‘N Spinach Salad,2,11
+205,"Grilled Shrimp ‘N Spinach Salad, Half",2,11
+206,"Grilled Shrimp ‘N Spinach Salad, Half w/o dressing",2,11
+207,"Grilled Shrimp ‘N Spinach Salad, Regular",2,11
+208,"Grilled Shrimp ‘N Spinach Salad, Regular w/o dressing",2,11
+209,"Grilled Steak Caesar, Half",2,11
+210,"Grilled Steak Caesar, Half w/o dressing",2,11
+211,"Grilled Steak Caesar, Regular",2,11
+212,"Grilled Steak Caesar, Regular w/o dressing",2,11
+213,Hand-Battered Fish & Chips,2,9
+214,Hand-Battered Fish Sandwich,2,12
+215,Honey BBQ Chicken Sandwich,2,12
+216,Hot Fudge Sundae Shooter,2,4
+217,House Salad,2,11
+218,House Sirloin,2,5
+219,House Sirloin,2,5
+220,Kids 4oz Sirloin Steak,2,15
+221,Kids Apple Juice (6.75 oz),2,15
+222,Kids Applesauce side,2,15
+223,Kids Celery side with Dressing,2,15
+224,Kids Cheese Pizza,2,15
+225,Kids Chicken Tenders,2,15
+226,Kids Chocolate Milk (1% 8oz),2,15
+227,Kids Fried Shrimp,2,15
+228,Kids Grape Juice (6.75 oz),2,15
+229,Kids Grilled Cheese (Hawaiian bread),2,15
+230,Kids Grilled Cheese (sourdough bread),2,15
+231,Kids Grilled Chicken Sandwich,2,15
+232,Kids Hot Fudge Sundae,2,15
+233,Kids Kraft Macaroni and Cheese,2,15
+234,Kids Milk (1% or 2% 8 oz),2,15
+235,Kids Mini Cheeseburger – 1,2,15
+236,Kids Mini Cheeseburgers – 2,2,15
+237,Kids Orange-Tangerine Juice (6.75 oz),2,15
+238,Kids OREO® Cookie Milkshake,2,15
+239,Kids OREO® Cookie Sundae,2,15
+240,Kids Pasta with Marinara Sauce,2,15
+241,Kids Steamed Broccoli Side,2,15
+242,Kids Strawberry Sundae,2,15
+243,Kids Tropicana Fruit Punch (12 oz),2,15
+244,Kids Vanilla Sundae,2,15
+245,Kids Vanilla Sundae with Hershey’s Syrup,2,15
+246,Loaded Baked Potato,2,3
+247,Loaded Mashed Potatoes,2,3
+248,Maple Butter Blondie,2,4
+249,Margherita Chicken,2,8
+250,Mozzarella Sticks,2,10
+251,New England Fish & Chips,2,9
+252,New York Strip,2,5
+253,Orange Glazed Salmon,2,9
+254,Oriental Chicken Rollup,2,12
+255,Oriental Chicken Salad,2,11
+256,"Oriental Chicken Salad, Half",2,11
+257,"Oriental Chicken Salad, Half w/o dressing",2,11
+258,"Oriental Chicken Salad, Regular",2,11
+259,"Oriental Chicken Salad, Regular w/o dressing",2,11
+260,Oriental Grilled Chicken Salad,2,11
+261,"Oriental Grilled Chicken Salad, Half",2,11
+262,"Oriental Grilled Chicken Salad, Half w/o dressing",2,11
+263,"Oriental Grilled Chicken Salad, Regular",2,11
+264,"Oriental Grilled Chicken Salad, Regular w/o dressing",2,11
+265,"Pecan-Crusted Chicken Salad, Half",2,11
+266,"Pecan-Crusted Chicken Salad, Half w/o dressing",2,11
+267,"Pecan-Crusted Chicken Salad, Regular",2,11
+268,"Pecan-Crusted Chicken Salad, Regular w/o dressing",2,11
+269,Philly Burger,2,7
+270,Potato Skins,2,10
+271,Potato Twisters,2,10
+272,Provolone-Stuffed Meatballs with Fettuccine,2,5
+273,Quesadilla Burger,2,7
+274,Queso Blanco,2,10
+275,Queso Blanco with chili,2,10
+276,Red Beans & Rice,2,3
+277,Ribeye,2,5
+278,Riblet and Chicken Tenders Basket,2,8
+279,1% Lowfat Chocolate Milk*,3,15
+280,2% Reduced Fat White Milk*,3,15
+281,Angus Cool Deli Sandwich,3,12
+282,Angus Cool Deli Wrap,3,16
+283,Apple Turnover,3,4
+284,Applesauce,3,15
+285,Arby’s Melt,3,12
+286,Arby’s Sauce® Adds,3,12
+287,Beef’n Cheddar Classic,3,12
+288,Beef’n Cheddar Max,3,12
+289,Beef’n Cheddar Mild,3,12
+290,Buffalo Dipping Sauce Adds,3,3
+291,CapriSun® Fruit Juice,3,15
+292,Cherry Turnover,3,4
+293,Chicken Biscuit*,3,17
+294,Chicken Cordon Bleu – Crispy,3,8
+295,Chicken Cordon Bleu – Roast,3,8
+296,Chocolate Chunk Cookies (2),3,4
+297,Chocolate Shake – Regular,3,2
+298,Chocolate Shake – Small,3,2
+299,Chocolate Turnover,3,4
+300,Chopped Farmhouse Chicken Salad – Crispy,3,11
+301,Chopped Farmhouse Chicken Salad – Roast,3,11
+302,Chopped Side Salad,3,11
+303,Classic Italian Toasted Sub,3,12
+304,Cravin’ Chicken Sandwich – Crispy,3,12
+305,Cravin’ Chicken Sandwich – Roast,3,12
+306,Curly Fries – Kids,3,15
+307,Curly Fries – Large,3,6
+308,Curly Fries – Medium,3,6
+309,Curly Fries – Small,3,6
+310,Curly Fries – Value,3,6
+311,French Dip & Swiss/Au Jus,3,12
+312,Homestyle Fries – Kids,3,15
+313,Homestyle Fries – Large,3,6
+314,Homestyle Fries – Medium,3,6
+315,Homestyle Fries – Small,3,6
+316,Honey Dijon Mustard Sauce Adds,3,3
+317,Horsey Sauce® Adds,3,12
+318,Jalapeno Bites® – (5),3,3
+319,Jalapeno Bites® – (8),3,3
+320,Jamocha Oreo® Shake – Small,3,2
+321,Jamocha Oreo® Swirl Shake – Regular,3,2
+322,Jamocha Shake – Regular,3,2
+323,Jamocha Shake – Small,3,2
+324,Jr Chicken Sandwich,3,12
+325,Jr Chocolate Shake,3,2
+326,Jr Deluxe Sandwich,3,12
+327,Jr Jamocha Shake,3,2
+328,Jr Roast Beef,3,15
+329,Jr Roast Beef Sandwich,3,12
+330,Jr Vanilla Shake,3,2
+331,Loaded Potato Bites® – (5),3,3
+332,Loaded Potato Bites® – (8),3,3
+333,Mozzarella Sticks – (4),3,3
+334,Mozzarella Sticks – (6),3,3
+335,Outside-In Cinnamon Bites™,3,17
+336,Potato Cakes (2),3,15
+337,Potato Cakes (2),3,3
+338,Potato Cakes (3),3,3
+339,Potato Cakes (4),3,3
+340,Prime-Cut™ Chicken Tenders (3),3,8
+341,Prime-Cut™ Chicken Tenders (5),3,8
+342,Prime-Cut™ Chicken Tenders – (2),3,15
+343,Ranch Dipping Sauce Adds,3,3
+344,Reuben Sandwich,3,12
+345,Roast Beef Classic,3,12
+346,Roast Beef Max,3,12
+347,Roast Beef Mild,3,12
+348,Roast Chicken Club,3,12
+349,Roast Turkey & Swiss Sandwich,3,12
+350,Roast Turkey & Swiss Wrap,3,16
+351,Sausage Biscuit,3,17
+352,Sausage Gravy Biscuit,3,17
+353,"Sausage, Egg & Cheese Wrap",3,17
+354,Shroom & Swiss,3,12
+355,Smokin’ Chipotle Chicken*,3,12
+356,Steakhouse Onion Rings (5),3,3
+357,Super Roast Beef,3,12
+358,Tangy Barbeque Sauce Adds,3,3
+359,Vanilla Shake – Regular,3,2
+360,Vanilla Shake – Small,3,2
+361,Abc Special,4,12
+362,Almond Croissant,4,17
+363,Apple Croissant,4,17
+364,Apple Danish,4,17
+365,Apple Spice Bagel,4,17
+366,Asiago Bagel,4,17
+367,Asiago Cream Pasta,4,5
+368,Asiago Focaccia,4,18
+369,Asiago Loaf,4,18
+370,Asiago Strip,4,18
+371,Baja Chicken Enchilada,4,14
+372,Baked Potato,4,14
+373,Balsamic Bleu Salad,4,11
+374,Banana Nut Muffin,4,17
+375,Banana Nut Muffin Top,4,17
+376,Basil Pesto Pasta,4,5
+377,Bbq Chicken Pizza,4,19
+378,Bear Claw,4,17
+379,Belgian Waffle With Maple Syrup & Whipped Cream,4,17
+380,Bella Chicken Sandwich,4,12
+381,Bistro Chicken Press,4,12
+382,Blueberry Muffin,4,17
+383,Blueberry Muffin Top,4,17
+384,Broccoli & Cheese,4,14
+385,Caesar Salad,4,11
+386,California Avocado,4,12
+387,Caramel Nut Cheesecake,4,4
+388,Carrot Cake Cheesecake,4,4
+389,Cheese Croissant,4,17
+390,Cheese Danish,4,17
+391,Chicken & Sausage Gumbo,4,14
+392,Chicken Cordon Bleu Panini,4,12
+393,Chicken Parmesan,4,5
+394,Chicken Peppercorn,4,14
+395,Chicken Pesto Calzone,4,19
+396,Chicken Pesto Panini,4,12
+397,Chicken Salad On Sourdough,4,12
+398,Chicken Waldorf,4,12
+399,Chive Cream Cheese,4,17
+400,Chocolate Chip Muffin,4,17
+401,Chocolate Chip Muffin Top,4,17
+402,Chocolate Chunk Cookie,4,4
+403,Chocolate Croissant,4,17
+404,Chocolate Toffee Cookie,4,4
+405,"Chocolate, Oatmeal And Craisin Cookie",4,4
+406,Chopstix Chicken Salad,4,11
+407,Ciabatta,4,18
+408,Cinnamon Crisp Bagel,4,17
+409,Cinnamon Raisin Bagel,4,17
+410,Cinnamon Raisin Bread,4,18
+411,Cinnamon Roll,4,17
+412,Classic Beef Chili,4,14
+413,Classic Chicken Noodle,4,14
+414,Cookies And Cream Cheesecake,4,4
+415,Creamy Caramel Brownie,4,4
+416,Cubano Panini,4,12
+417,Double Chocolate Brownie,4,4
+418,Egg & Cheese Sandwich,4,17
+419,Everything Bagel,4,17
+420,Fettuccine Salmone,4,5
+421,Florentine Omelette,4,17
+422,Four Cheese Pizza,4,19
+423,French Baguette,4,18
+424,French Croissant,4,17
+425,French Loaf,4,18
+426,French Onion,4,14
+427,French Roll,4,18
+428,French Toast With Maple Syrup,4,17
+429,Frontier Chicken Chili,4,14
+430,Garden Vegetable,4,14
+431,Gooey Butter Danish,4,17
+432,Greek Salad,4,11
+433,Homestyle Chicken & Dumpling,4,14
+434,Honey Raisin Walnut Cream Cheese,4,17
+435,Honey Wheat Bread,4,18
+436,House Salad,4,11
+437,Italian Vegetarian Panini,4,12
+438,Key Lime Pie,4,4
+439,Kid’S Cheese Pizza,4,15
+440,Kid’S Grilled Cheese,4,15
+441,Kid’S Peanut Butter & Jelly,4,15
+442,Kid’S Penne And Cheese,4,15
+443,Low Fat Apple Muffin,4,17
+444,Low Fat Pumpkin Muffin,4,17
+445,Low Fat Pumpkin Muffin Top,4,17
+446,Margherita Pizza,4,19
+447,Mocha Chip Muffin,4,17
+448,Mocha Chip Muffin Top,4,17
+449,Morning Classic With Sausage,4,17
+450,New England Clam Chowder,4,14
+451,Nine Grain Bread,4,18
+452,Ny Hot Pastrami,4,12
+453,Oatmeal Raisin Cookie,4,4
+454,Olive Cream Cheese,4,17
+455,Panini Bread,4,18
+456,Peanut Butter Cookie,4,4
+457,Pecan Roll,4,17
+458,Pecan Turtle Cheesecake,4,4
+459,Penne Bolognese,4,5
+460,Penne Pomodoro,4,5
+461,Pepperoni Pizza,4,19
+462,Plain Bagel,4,17
+463,Plain Cheesecake,4,4
+464,Plain Cream Cheese,4,17
+465,Poppy Seed Bagel,4,17
+466,Pumpernickel Loaf,4,18
+467,Pumpkin Cheesecake,4,4
+468,Pumpkin Muffin,4,17
+469,Raspberry Cheese Croissant,4,17
+470,Raspberry Cheese Danish,4,17
+471,Raspberry Cream Cheese,4,17
+472,Rye Loaf,4,18
+473,Salsa Fresca Salmon Salad,4,11
+474,"Sausage, Egg & Cheese Sandwich",4,17
+475,Scrambled Eggs,4,17
+476,Sesame Seed Bagel,4,17
+477,Shortbread Cookie,4,4
+478,Sourdough Baguette,4,18
+479,Sourdough Bread,4,18
+480,Sourdough Soup Bowl,4,18
+481,Spanish Omelette,4,17
+482,Sticky Bun,4,17
+483,Three Cheese Omelette,4,17
+484,Toffee Chocolate Chunk Cookie,4,4
+485,Tomato Fennel & Dill,4,14
+486,Tuna Salad On French,4,12
+487,Turkey Club Panini,4,12
+488,Turkey On Nine Grain,4,12
+489,Vegetable Cream Cheese,4,17
+490,Veggie On Nine Grain,4,12
+491,Wheat Bagel,4,17
+492,White Chocolate Macadamia Nut Cookie,4,4
+493,White Pizza,4,19
+494,Whole Grain Bagel,4,17
+495,Wisconsin Cheese,4,14
+496,1 Breast Dinner,5,5
+497,1 Breast Dinner,5,5
+498,12 piece & 6 biscuit box (serves 5-7),5,5
+499,12 piece Supremes box (serves 3-5),5,5
+500,2 Breast Dinner,5,5
+501,2 Breast Dinner,5,5
+502,2 piece Dinner (breast & wing),5,5
+503,2 piece Dinner (breast & wing),5,5
+504,2 piece Dinner (leg & thigh),5,5
+505,2 piece Dinner (leg & thigh),5,5
+506,2 Piece Supremes Kids’ Meal,5,15
+507,2 Sausage Biscuits,5,17
+508,20 piece & 10 biscuit box serves 9-11),5,5
+509,3 piece Dinner (leg & 2 thighs),5,5
+510,3 piece Dinner (leg & 2 thighs),5,5
+511,3 wing Dinner,5,5
+512,3 wing Dinner,5,5
+513,8 piece & 4 biscuit box (serves 3-5),5,5
+514,Bo-Berry Biscuit,5,4
+515,Bo-Tato Rounds,5,3
+516,Bo-Tato Rounds,5,3
+517,Bo-Tato Rounds,5,3
+518,Bojangles Cajun Pintos,5,3
+519,Bojangles Cajun Pintos,5,3
+520,Bojangles’ Dirty Rice,5,3
+521,Bojangles’ Dirty Rice,5,3
+522,Breast,5,8
+523,Cajun Filet Biscuit,5,3
+524,Cajun Filet Club Sandwich,5,12
+525,Cajun Filet Sandwich,5,12
+526,Chicken Leg Kids’ meal,5,15
+527,Chicken Supremes Salad,5,11
+528,Cinnamon Pecan Twist,5,4
+529,Coffee (16oz),5,1
+530,Coffee (22oz),5,1
+531,Cole Slaw,5,3
+532,Cole Slaw,5,3
+533,Egg & Cheese Biscuit,5,17
+534,Garden Salad,5,11
+535,Gravy Biscuit,5,17
+536,Green Beans,5,3
+537,Green Beans,5,3
+538,Grilled Chicken Club,5,12
+539,Grilled Chicken Salad,5,11
+540,Grilled Chicken Sandwich,5,12
+541,Leg,5,8
+542,Mac ‘N Cheese Kids’ Meal,5,15
+543,Macaroni ‘N Cheese,5,3
+544,Macaroni ‘N Cheese,5,3
+545,Mashed Potatoes ‘N Gravy,5,3
+546,Mashed Potatoes ‘N Gravy,5,3
+547,Picnic Grits,5,3
+548,Plain Biscuit,5,17
+549,Roasted Chicken Bites,5,8
+550,Sausage & Egg Biscuit,5,17
+551,Sausage Biscuit,5,17
+552,Seasoned Fries,5,3
+553,Seasoned Fries,5,3
+554,Seasoned Fries,5,3
+555,Steak Biscuit,5,3
+556,Supreme,5,8
+557,"Sweet Iced Tea (16oz, with ice)",5,1
+558,"Sweet Iced Tea (22oz, with ice)",5,1
+559,"Sweet Iced Tea (32oz, with ice)",5,1
+560,Sweet Potato Pie,5,4
+561,Thigh,5,8
+562,"Unsweetened Iced Tea (16oz, with ice)",5,1
+563,"Unsweetened Iced Tea (22oz, with ice)",5,1
+564,"Unsweetened Iced Tea (32oz, with ice)",5,1
+565,Wing,5,8
+566,1/2 lb Popcorn Shrimp,6,9
+567,3/4 lb Popcorn Shrimp,6,10
+568,Asian Zing,6,20
+569,Ballpark Sampler,6,10
+570,Big Jack Daddy Burger,6,7
+571,Black & Bleu Burger,6,7
+572,Blazin ®,6,20
+573,Boneless (each),6,21
+574,Boneless Wings &Traditional Wings,6,5
+575,Boneless Wings (4),6,15
+576,Breaded Tenders (each),6,8
+577,Buffalo Chicken Flatbread,6,12
+578,Buffalo Chips Basket,6,3
+579,Buffalo Chips Basket with cheese,6,3
+580,Buffalo Chips Regular,6,3
+581,Buffalo Chips Regular,6,3
+582,Buffalo Chips Regular with cheese,6,3
+583,Buffalo Ranch Chicken Sandwich,6,12
+584,Buffalo Ranch Chicken Wrap,6,16
+585,Caribbean Jerk,6,20
+586,Cheeseburger,6,7
+587,Cheeseburger Slammers,6,10
+588,Chicken Caesar Salad,6,11
+589,Chicken Caesar Wrap,6,16
+590,Chicken Quesadilla,6,10
+591,Chicken Tender Salad,6,11
+592,Chicken Tender Wrap,6,16
+593,Chicken Tenders & Popcorn Shrimp,6,5
+594,Chicken Tenders (3),6,15
+595,Chili Con Queso Dip,6,10
+596,Chili Queso Burger,6,7
+597,Chips & Salsa,6,10
+598,Chocolate Fudge Cake,6,4
+599,Coleslaw,6,3
+600,Crispy Fish Sandwich,6,12
+601,Crispy Southwest Dippers,6,10
+602,Deep-dish Apple Pie,6,4
+603,Desert Heat® Based on 1/2 tsp,6,20
+604,French fries,6,3
+605,French Fries,6,6
+606,French Fries Basket,6,3
+607,French Fries Regular,6,3
+608,French Fries Regular,6,6
+609,French Fries Regular,6,15
+610,Garden Salad,6,11
+611,Gardenburger,6,7
+612,Grilled Blackened Chicken Salad,6,11
+613,Grilled Chicken Buffalitos,6,8
+614,Grilled Chicken Salad,6,11
+615,Grilled Chicken Sandwich,6,12
+616,Honey BBQ,6,20
+617,Honey BBQ Chicken Flatbread,6,12
+618,Honey BBQ Chicken Salad,6,11
+619,Honey Mustard,6,20
+620,Hot,6,20
+621,Hot BBQ,6,20
+622,Jerk Chicken Sandwich,6,12
+623,Kids Cheeseburger Slammer,6,15
+624,Kids’ Ice Cream,6,15
+625,Macaroni & Cheese,6,15
+626,Mango Habanera,6,20
+627,Medium,6,20
+628,Mild,6,20
+629,Mozzarella Sticks,6,10
+630,Naked Tenders (3),6,15
+631,Naked Tenders (6 each),6,10
+632,Naked Tenders (each ),6,8
+633,Naked Tenders Wrap,6,16
+634,New York Cheesecake,6,4
+635,Onion Rings Basket,6,3
+636,Onion Rings Regular,6,3
+637,Onion Rings Regular,6,3
+638,Parmesan Garlic,6,20
+639,Parmesan Garlic Flatbread,6,12
+640,Pepper Infusion ®,6,20
+641,Popcorn Shrimp & Fish,6,5
+642,Potato Wedges Basket,6,3
+643,Potato Wedges Basket with cheese,6,3
+644,Potato Wedges Regular,6,3
+645,Potato Wedges Regular,6,3
+646,Potato Wedges Regular with cheese,6,3
+647,Queso Chili Fries,6,10
+648,Ribs & Boneless Wings,6,5
+649,Ribs & Chicken Tenders,6,5
+650,Ribs & More Ribs,6,5
+651,Ribs & Popcorn Shrimp,6,5
+652,Ribs & Traditional Wings,6,5
+653,Roasted Garlic Mushrooms,6,10
+654,Side Salad,6,3
+655,Side Salad,6,11
+656,Southwest Chicken Queso Wrap,6,16
+657,Spicy garlic,6,20
+658,Sweet BBQ,6,20
+659,Teriyaki,6,20
+660,The Sampler,6,10
+661,Tortilla chips and salsa,6,3
+662,Tortilla chips and salsa,6,3
+663,Traditional Wings (4),6,15
+664,Ultimate Nachos,6,10
+665,Ultimate Nachos With Chicken,6,10
+666,Wild®,6,20
+667,Wings (each),6,21
+668,American Original Chicken Sandwich,7,12
+669,Biscuit – w/ Chicken Fritter (Chicken Biscuit),7,17
+670,Biscuits (2) & Sausage Gravy Platter,7,17
+671,Biscuit‐ w/ Breakfast Steak (Country Fried Steak),7,17
+672,BK Big Fish® Sandwich,7,12
+673,BK Big Fish® Sandwich w/o Tartar Sauce,7,12
+674,BK Toppers™ Deluxe Cheeseburger,7,7
+675,BK Toppers™ Mushroom and Swiss,7,7
+676,BK Toppers™ Western BBQ Cheeseburger,7,7
+677,BK Veggie® Burger,7,7
+678,BK Veggie® Burger  w/ Cheese,7,7
+679,BK Veggie® Burger  w/o Mayo,7,7
+680,BK® Chicken Fries (12 pc),7,3
+681,BK® Chicken Fries (6 pc),7,3
+682,BK® Chicken Fries (9 pc),7,3
+683,BK® Double Stacker,7,7
+684,BK® Fresh Apple Fries,7,3
+685,BK® Kids Breakfast Muffin Sandwich,7,15
+686,BK® Quad Stacker,7,7
+687,BK® Single Stacker,7,7
+688,BK® Triple Stacker,7,7
+689,BK®Chef’s Choice Burger,7,7
+690,BK®Egg and Cheese Muffin,7,17
+691,BK™ Breakfast Bowl,7,17
+692,"BK™ Breakfast Burrito ‐ Potato, Egg, Cheese, & Salsa",7,17
+693,"BK™ Breakfast Burrito ‐ Sausage, Egg, Cheese & Salsa",7,17
+694,BK™ Breakfast Ciabatta Club Sandwich,7,17
+695,BK™ Breakfast Platter,7,17
+696,BK™ Ultimate Breakfast Platter,7,17
+697,Brownie Sundae,7,4
+698,Caramel Sundae,7,4
+699,Cheeseburger,7,7
+700,Chicken Tenders® (20 pc),7,8
+701,Chicken Tenders® (4 pc),7,8
+702,Chicken Tenders® (6 pc),7,8
+703,Chicken Tenders® (8 pc),7,8
+704,Chicken Tenders® Sandwich,7,8
+705,Chocolate Chip Cookies (2),7,4
+706,Chocolate Fudge Sundae,7,4
+707,Chocolate Milk Shake,7,2
+708,Chocolate Milk Shake,7,2
+709,Chocolate Milk Shake,7,2
+710,Cini‐minis (4 minis),7,17
+711,Croissan’wich® Egg & Cheese,7,17
+712,Croissan’wich® Sausage & Cheese,7,17
+713,"Croissan’wich® Sausage, Egg & Cheese",7,17
+714,Double Cheeseburger,7,7
+715,"Double Croissan’wich™ w/ Sausage, Egg, & Cheese",7,17
+716,Double Whopper® Sandwich,7,12
+717,Double Whopper® Sandwich w/o Mayo,7,12
+718,Double Whopper® Sandwich with Cheese,7,12
+719,Double Whopper® Sandwich with Cheese w/o Mayo,7,12
+720,Dutch Apple Pie,7,4
+721,Enormous Omelet Sandwich,7,17
+722,Fanta Cherry frozen concentrated beverage,7,1
+723,Fanta Cherry frozen concentrated beverage,7,1
+724,French Fries – large (Salted),7,6
+725,French Fries – medium (Salted),7,6
+726,French Fries – small (Salted),7,6
+727,French Fries – value (Salted),7,6
+728,French Toast Sticks (3 piece),7,17
+729,French Toast Sticks (5 piece),7,17
+730,French Toast Sticks Platter w/ Sausage & Breakfast Syrup,7,17
+731,Garden Salad (no chicken),7,11
+732,Garlic Parmesan Croutons,7,11
+733,Hash Browns – large,7,17
+734,Hash Browns – medium,7,17
+735,Hash Browns – small,7,17
+736,Hershey®’s Sundae Pie,7,4
+737,Italian Original Chicken Sandiwch,7,12
+738,Ken’s® Creamy Caesar Dressing (2 oz),7,11
+739,Ken’s® Fat Free Ranch Dressing (2 oz),7,11
+740,Ken’s® Honey Mustard Dressing (2 oz),7,11
+741,Ken’s® Light Italian Dressing (2 oz),7,11
+742,Ken’s® Ranch Dressing (2 oz),7,11
+743,Low Fat Caramel Sauce,7,3
+744,Mini Blueberry Biscuits with icing (4pc),7,17
+745,Mini M & M® Sundae,7,4
+746,Motts’® Harvest Plus Applesauce,7,3
+747,Mozzarella Sticks (4 pc),7,3
+748,Mustard Whopper® Sandwich,7,12
+749,Oatmeal Raisin Cookies (2),7,4
+750,Onion Rings – large,7,3
+751,Onion Rings – medium,7,3
+752,Onion Rings – small,7,3
+753,Onion Rings – value,7,3
+754,Oreo® Sundae,7,4
+755,Original Chicken Club Sandwich,7,12
+756,Original Chicken Sandwich,7,12
+757,Original Chicken Sandwich w/o Mayo,7,12
+758,Pancake Platter w/ Sausage & 1 oz Breakfast Syrup,7,17
+759,Pancakes (3) and 1 oz breakfast syrup,7,17
+760,Peach Granola Sundae,7,4
+761,Quaker® Oatmeal Maple and Brown Sugar Flavor,7,17
+762,Quaker® Oatmeal Original,7,17
+763,Rodeo Cheeseburger,7,7
+764,Sausage Biscuit,7,17
+765,"Sausage, Egg, & Cheese Biscuit",7,17
+766,"Scrambled Egg Platter w/ Sausage (Scrambled Eggs, Biscuit, Hashbrowns, Sausage Patty)",7,17
+767,Side of Eggs,7,17
+768,Side of Southwest Potatoes,7,17
+769,Side Salad,7,11
+770,Soft Serve Cone,7,4
+771,Soft Serve Cup,7,4
+772,Spicy Chick’n Crisp® Sandwich,7,12
+773,Spicy Chick’n Crisp® Sandwich w/o Mayo,7,12
+774,Spicy Chicken BK Wrapper™,7,16
+775,Strawberry Milk Shake,7,2
+776,Strawberry Milk Shake,7,2
+777,Strawberry Milk Shake,7,2
+778,Strawberry Sundae,7,4
+779,Strawberry Swirl Cheesecake,7,4
+780,Tacos (2),7,8
+781,Tendercrisp® Chicken Garden Salad,7,11
+782,Tendercrisp® Chicken Sandwich,7,12
+783,Tendercrisp® Chicken Sandwich w/o Mayo,7,12
+784,Tendergrill® Chicken Sandwich,7,12
+785,Tendergrill® Chicken Sandwich w/o Mayo,7,12
+786,Tendergrill™ Chicken Garden Salad,7,11
+787,Texas Double Whopper® Sandwich,7,12
+788,Texas Triple Whopper® Sandwich,7,12
+789,Texas Whopper® Sandwich,7,12
+790,Triple Whopper® Sandwich,7,12
+791,Triple Whopper® Sandwich w/o Mayo,7,12
+792,Triple Whopper® Sandwich With Cheese,7,12
+793,Triple Whopper® Sandwich With Cheese w/o Mayo,7,12
+794,Vanilla Icing,7,17
+795,Vanilla Milk Shake,7,2
+796,Vanilla Milk Shake,7,2
+797,Vanilla Milk Shake,7,2
+798,White Chocolate Macadamia Nut Cookies (2),7,4
+799,Whopper JR.® Sandwich,7,12
+800,Whopper JR.® Sandwich w/o Mayo,7,12
+801,Whopper JR.® Sandwich with Cheese,7,12
+802,Whopper JR.® Sandwich with Cheese w/o Mayo,7,12
+803,Whopper® Sandwich,7,12
+804,Whopper® Sandwich w/o Mayo,7,12
+805,Whopper® Sandwich with Cheese,7,12
+806,Whopper® Sandwich with Cheese w/o Mayo,7,12
+807,1/2 LB Clams,8,5
+808,Baked Potato‐plain,8,3
+809,Batter‐Dipped Fish,8,5
+810,Bite Size Shrimp,8,5
+811,Bite Size Shrimp Salad,8,11
+812,Breadstick,8,3
+813,Broccoli,8,3
+814,Catfish,8,5
+815,Cheese Sticks,8,3
+816,Cheesecake,8,4
+817,Cheesecake with Strawberries,8,4
+818,Chicken Ranch Sandwich,8,12
+819,Chicken Tender,8,5
+820,Chocolate Cake,8,4
+821,Classic Fish Sandwich,8,12
+822,Cocktail Sauce,8,3
+823,Coconut Shrimp,8,5
+824,Cole Slaw,8,3
+825,Corn on the Cob,8,3
+826,Country Style Fish,8,5
+827,Crab Cake,8,5
+828,Cracklins,8,3
+829,French Fries,8,3
+830,Fried Chicken Salad,8,11
+831,Fried Flounder,8,5
+832,Fried Okra,8,3
+833,Ginger Teriyaki Sauce,8,3
+834,Great Little Fish Sandwich,8,12
+835,Green Beans,8,3
+836,Hush Puppies (2),8,3
+837,Jalapeno Poppers,8,3
+838,Macaroni & Cheese,8,3
+839,Oysters,8,5
+840,Pecan Pie,8,4
+841,Pineapple Cream Cheese Pie,8,4
+842,Premium Shrimp,8,5
+843,Roasted Red Potatoes,8,3
+844,Scampi Butter Sauce,8,3
+845,Scampi Shrimp,8,5
+846,Seasoned Rice,8,3
+847,Seasoned Tilapia,8,5
+848,Shrimp Skewers,8,5
+849,Side Salad,8,3
+850,Stuffed Crab Shell,8,5
+851,Sweet Chili Sauce,8,3
+852,Tartar Sauce,8,3
+853,The Captain,8,12
+854,Wild Alaskan Salmon,8,5
+855,Wild Alaskan Salmon Salad,8,11
+856,Wild Alaskan Salmon Sandwich,8,12
+857,Bean & Cheese Burrito,9,24
+858,Bean & Cheese Burrito – Chicken,9,24
+859,Bean & Cheese Burrito – Ground Beef,9,24
+860,Bean & Cheese Burrito – Steak,9,24
+861,Big Country® Breakfast Burrito,9,22
+862,Biscuit ‘N’ Gravy™,9,17
+863,Breakfast Burger™,9,17
+864,Buttermilk Ranch HB Chicken™ Tender Wrapper,9,8
+865,Carl’s Catch Fish Sandwich®,9,12
+866,Carne Asada Burrito,9,24
+867,Charbroiled BBQ Chicken™ Sandwich,9,12
+868,Charbroiled Chicken Club™ Sandwich,9,12
+869,Charbroiled Santa Fe Chicken™ Sandwich,9,12
+870,Chicken Stars™ (4 pieces),9,8
+871,Chicken Stars™ (6 pieces),9,8
+872,Chicken Stars™ (9 pieces),9,8
+873,Chili Cheese Fries,9,6
+874,Chips,9,3
+875,Chips & Cheese,9,3
+876,Chocolate Cake,9,4
+877,Chocolate Chip Cookie,9,4
+878,Chocolate Malt,9,2
+879,Chocolate Shake,9,2
+880,Cranberry Apple Walnut Grilled Chicken Salad w/o Dressing,9,11
+881,Crisp Burritos (3 pieces),9,24
+882,Crisp Burritos (5 pieces),9,24
+883,CrissCut® Fries,9,6
+884,Decaffinated Coffee,9,25
+885,Famous Star® with Cheese,9,7
+886,Fish & Chips,9,5
+887,Fish Taco,9,26
+888,French Toast Dips® – No Syrup (5 pieces),9,17
+889,Fresh Brewed Iced Tea,9,1
+890,Fresh Brewed Iced Tea,9,1
+891,Fresh Brewed Iced Tea,9,1
+892,Fresh Brewed Iced Tea,9,1
+893,Fried Zucchini,9,3
+894,Green Burrito® Taco Salad w/o Dressing,9,11
+895,Grilled Chicken Burrito,9,24
+896,Guacamole,9,3
+897,Guacamole Turkey Burger,9,7
+898,Hand-Breaded Chicken Fillet Sandwich,9,12
+899,"Hand-Breaded Chicken Tenders™ (10pc box; 2, 5pc servings)",9,8
+900,"Hand-Breaded Chicken Tenders™ (15pc box; 3, 5pc servings)",9,8
+901,"Hand-Breaded Chicken Tenders™ (20pc box; 4, 5pc servings)",9,8
+902,Hand-Breaded Chicken Tenders™ (3 pieces),9,8
+903,Hand-Breaded Chicken Tenders™ (5 pieces),9,8
+904,Hard Taco – Chicken,9,26
+905,Hard Taco – Ground Beef,9,26
+906,Hard Taco – Steak,9,26
+907,Hash Brown Nuggets,9,17
+908,Honey Mustard HB Chicken™ Tender Wrapper,9,8
+909,Kid’s Cheeseburger,9,15
+910,Kid’s Hand-Breaded Chicken Tenders™ (2 pieces),9,15
+911,Loaded Breakfast Burrito,9,22
+912,Made From Scratch Biscuit™,9,17
+913,Monster Biscuit®,9,23
+914,Nacho Taco,9,26
+915,Natural-Cut Fries (Kids),9,15
+916,Natural-Cut Fries (Large),9,6
+917,Natural-Cut Fries (Medium),9,6
+918,Natural-Cut Fries (Small),9,6
+919,Onion Rings,9,3
+920,OREO® Cookie Malt,9,2
+921,OREO® Cookie Shake,9,2
+922,Original Grilled Chicken Salad w/o Dressing,9,11
+923,Pinto Beans & Cheese – Family Size,9,3
+924,Pinto Beans & Cheese – Small,9,3
+925,Quesadilla – Cheese,9,27
+926,Quesadilla – Chicken,9,27
+927,Quesadilla – Steak,9,27
+928,Regular Coffee,9,25
+929,Rice – Family Size,9,3
+930,Rice – Small,9,3
+931,"Sausage, Egg & Cheese Biscuit",9,23
+932,Side Salad w/o Dressing,9,11
+933,Soft Taco – Chicken,9,26
+934,Soft Taco – Ground Beef,9,26
+935,Soft Taco – Steak,9,26
+936,Sour Cream,9,3
+937,Sourdough Breakfast Sandwich,9,23
+938,Southwest Chicken Soft Taco,9,26
+939,Spicy Chicken Sandwich,9,12
+940,Steak & Egg Burrito,9,22
+941,Strawberry Biscuit,9,23
+942,Strawberry Malt,9,2
+943,Strawberry Shake,9,2
+944,Strawberry Swirl Cheesecake,9,4
+945,Sunrise Croissant®,9,17
+946,Super Nachos – Chicken,9,27
+947,Super Nachos – Ground Beef,9,27
+948,Super Nachos – Steak,9,27
+949,Super Star® with Cheese,9,7
+950,Sweet & Bold BBQ HB Chicken Tender™ Wrapper,9,8
+951,Taco Salad – Chicken,9,27
+952,Taco Salad – Ground Beef,9,27
+953,Taco Salad – Steak,9,27
+954,Teriyaki Burger™,9,7
+955,Teriyaki Turkey Burger,9,7
+956,The Big Carl®,9,7
+957,The Green Burrito® – Chicken,9,24
+958,The Green Burrito® – Steak,9,24
+959,The Low Carb Six Dollar Burger®,9,7
+960,The Original Six Dollar Burger®,9,7
+961,The Portobello Mushroom Six Dollar Burger™,9,7
+962,Turkey Burger,9,7
+963,Vanilla Malt,9,2
+964,Vanilla Shake,9,2
+965,2 pieces of Toast,10,17
+966,4 oz. Hash Browns,10,17
+967,5 Chicken Fingers,10,8
+968,BBQ Cheddar,10,12
+969,Buffalo Chicken Salad,10,11
+970,Cheddar Fries,10,6
+971,Chicken Buffalo,10,12
+972,Chicken California,10,12
+973,Chicken Cordon Blue,10,12
+974,Chicken Teriyaki,10,12
+975,Chicken Teriyaki Salad,10,11
+976,Egg & Cheese,10,22
+977,Fresh Garden,10,11
+978,Grilled Chicken Salad,10,11
+979,Grilled Steak Salad,10,11
+980,Italian Deli,10,12
+981,Kid’s (3 Chicken Fingers),10,15
+982,Kids Fries,10,15
+983,Large Fries,10,6
+984,Mushroom Swiss Steak,10,12
+985,Philly Cheesesteak,10,12
+986,Philly Chicken,10,12
+987,Philly Steak and Bleu,10,12
+988,Philly Steak Deluxe,10,12
+989,Philly Veggie,10,12
+990,Reg.Fries,10,6
+991,Sausage Omelet,10,17
+992,"Sausage, Egg & Cheese",10,22
+993,Sicilian Steak,10,12
+994,"Steak, Egg & Cheese",10,22
+995,Turkey Cheddar Melt,10,12
+996,Two Eggs Scrambled,10,17
+997,Ultimate Club,10,12
+998,Ultimate Fries,10,6
+999,Veggie Omelet,10,17
+1000,Western Omelet,10,17
+1001,100% Colombian Coffee,11,25
+1002,Banana Pudding Milkshake,11,4
+1003,Carrot & Raisin Salad,11,11
+1004,Chargrilled & Fruit Salad,11,11
+1005,Chargrilled Chicken Club Sandwich,11,12
+1006,Chargrilled Chicken Cool Wrap,11,16
+1007,Chargrilled Chicken Garden Salad,11,11
+1008,Chargrilled Chicken Sandwich,11,12
+1009,Chick-fil-A Chick-n-Minis™,11,17
+1010,Chick-fil-A® Cheesecake,11,4
+1011,Chick-fil-A® Chicken Biscuit,11,17
+1012,Chick-fil-A® Diet Lemonade,11,1
+1013,Chick-fil-A® Lemon Pie,11,4
+1014,Chick-fil-A® Lemonade,11,1
+1015,Chick-fil-A® Spicy Chicken Biscuit,11,17
+1016,Chick-n-Strips,11,8
+1017,Chick-n-Strips Salad,11,11
+1018,Chicken Breakfast Burrito,11,22
+1019,Chicken Caesar Cool Wrap,11,16
+1020,Chicken Salad Cup,11,11
+1021,Chicken Salad Sandwich,11,12
+1022,Chicken Sandwich,11,12
+1023,Chicken Tortilla Soup,11,14
+1024,"Chicken, Egg & Cheese on Sunflower Multigrain Bagel",11,17
+1025,Chocolate Milkshake,11,4
+1026,Cinnamon Brown Sugar,11,17
+1027,Cinnamon Cluster,11,17
+1028,Cole Slaw,11,3
+1029,Cookies & Cream Milkshake,11,4
+1030,Deluxe Chicken Sandwich,11,12
+1031,Fruit Cup,11,3
+1032,Fudge Brownie,11,4
+1033,Hash Browns,11,17
+1034,Hearty Breast of Chicken Soup,11,14
+1035,Iced Tea – Sweetened,11,1
+1036,Iced Tea – Unsweetened,11,1
+1037,Icedream®,11,4
+1038,Mixed Fruit Blend,11,17
+1039,Multigrain Oatmeal,11,17
+1040,Nuggets,11,8
+1041,Plain Biscuit,11,17
+1042,Roasted Nut Topping,11,17
+1043,Sausage Breakfast Burrito,11,22
+1044,"Sausage, Egg, and Cheese Biscuit",11,17
+1045,Side Salad,11,11
+1046,Southwest Chargrilled Salad,11,11
+1047,Spicy Chicken Cool Wrap,11,16
+1048,Spicy Chicken Sandwich,11,12
+1049,Spicy Chicken Sandwich Deluxe,11,12
+1050,Strawberry Milkshake,11,4
+1051,Vanilla Milkshake,11,4
+1052,Waffle Potato Fries,11,6
+1053,Yogurt Parfait,11,17
+1054,Yogurt Parfait with Chocolate Cookie Crumbs,11,17
+1055,Yogurt Parfait with Granola,11,17
+1056,Add Fried Shrimp to any Entrée,12,3
+1057,Add Fried Shrimp to any Entrée,12,3
+1058,Add Rice and Black Beans,12,3
+1059,Add Spicy Garlic & Lime Shrimp to any Entrée,12,3
+1060,Add Spicy Garlic & Lime Shrimp to any Entrée,12,3
+1061,Avocado Burger on Wheat Bun w/ fries,12,7
+1062,Avocado Slices,12,3
+1063,BBQ Sauce (Original),12,3
+1064,Beef Fajitas – w/o Tortillas and Condiments,12,28
+1065,Big Mouth Burger Bites w/ Fries,12,7
+1066,Big Mouth® Bites w/ Ranch with fries,12,7
+1067,Black Bean Patty Only,12,3
+1068,Black Beans,12,3
+1069,Boneless Buffalo Chicken Salad,12,11
+1070,Boneless Buffalo Wings w/ Bleu Cheese,12,10
+1071,Bottomless Tostada Chips w/ Salsa,12,10
+1072,Broccoli Cheese Soup,12,14
+1073,Broccoli Cheese Soup,12,14
+1074,Brownie Sundae,12,4
+1075,Buffalo Chicken Ranch Sandwich on White Bun with fries,12,12
+1076,Cajun Pasta w/ Grilled Chicken,12,5
+1077,Cajun Pasta w/ Grilled Chicken (Lunch Combo),12,5
+1078,Cajun Pasta w/ Grilled Shrimp,12,5
+1079,California Club Sandwich w/ Fries,12,12
+1080,California Club Sandwich w/ fries,12,12
+1081,Caribbean Salad w/ Grilled Chicken,12,11
+1082,Caribbean Salad w/ Grilled Shrimp,12,11
+1083,"Cheese, American",12,3
+1084,"Cheese, Cheddar",12,3
+1085,"Cheese, Provolone",12,3
+1086,"Cheese, Swiss",12,3
+1087,Cheesecake,12,4
+1088,Chicken & Green Chile Soup,12,14
+1089,Chicken & Green Chile Soup,12,14
+1090,Chicken Caesar Salad,12,11
+1091,Chicken Club Tacos,12,26
+1092,Chicken Crispers® w/ Honey Mustard,12,8
+1093,Chicken Enchilada,12,14
+1094,Chicken Enchilada Soup,12,14
+1095,Chicken Enchilada Soup,12,14
+1096,Chicken Fajitas – w/o Tortillas and Condiments,12,28
+1097,Chili’s Terlingua Chili w/ Toppings,12,14
+1098,Chili’s Terlingua Chili w/ Toppings,12,14
+1099,Chocolate Chip Paradise Pie,12,4
+1100,Cinnamon Apples,12,3
+1101,Classic Nachos (12),12,10
+1102,Classic Nachos (8),12,10
+1103,Classic Nachos – Beef (12),12,10
+1104,Classic Nachos – Beef (8),12,10
+1105,Classic Nachos – Chicken (12),12,10
+1106,Classic Nachos – Chicken (8),12,10
+1107,Classic Sirloin,12,5
+1108,Classic Sirloin (Lunch Combo),12,5
+1109,Classic Turkey Sandwich w/ fries,12,12
+1110,Classic Turkey Sandwich w/ Fries (Lunch Combo),12,12
+1111,Cobb Salad,12,11
+1112,Cole Slaw,12,3
+1113,Country-Fried Steak,12,5
+1114,Crispy Chicken Crispers® No Dressing,12,8
+1115,Crispy Chicken Tacos,12,26
+1116,Crispy Honey-Chipotle Chicken Crispers® w/ Ranch,12,8
+1117,Crispy Onion String & Jalapeno Stack w/ Ranch,12,10
+1118,Crispy Shrimp Tacos,12,26
+1119,"Dressing, Ancho Chile Ranch",12,3
+1120,"Dressing, Avocado Ranch",12,3
+1121,"Dressing, Bleu Cheese",12,3
+1122,"Dressing, Citrus Balsamic Vinaigrette",12,3
+1123,"Dressing, Honey Lime",12,3
+1124,"Dressing, Honey Mustard",12,3
+1125,"Dressing, Honey Mustard No Fat",12,3
+1126,"Dressing, Low Fat Ranch",12,3
+1127,"Dressing, Ranch",12,3
+1128,Fajita Chicken Sandwich w/ Fries,12,12
+1129,Fajita Trio – w/o Tortillas and Condiments,12,28
+1130,Fire-Grilled Corn Guacamole w/ Chips,12,10
+1131,Flame-Grilled Ribeye,12,5
+1132,Fried Cheese w/ Marinara Sauce,12,10
+1133,Fried Shrimp w/ Cocktail Sauce,12,5
+1134,Fried Shrimp w/ Cocktail Sauce,12,9
+1135,Frosty Chocolate Shake,12,2
+1136,GG Classic Sirloin,12,5
+1137,GG Grilled Chicken Sandwich w/ Steamed Broccoli & fries,12,12
+1138,GG Salmon w/ Garlic & Herbs,12,9
+1139,GG Santa Fe Chicken Wrap w/ Steamed Broccoli & fries,12,12
+1140,"Gravy, Black Pepper",12,3
+1141,Grilled Chicken Sandwich on White Bun w/ fries,12,12
+1142,Grilled Salmon w/ Garlic & Herbs,12,5
+1143,Grilled Salmon w/ Garlic & Herbs,12,9
+1144,Guacamole,12,3
+1145,Half Rack of Baby Back Ribs,12,5
+1146,Homestyle Fries,12,3
+1147,Honey Chipotle Sauce,12,3
+1148,Hot Spinach & Artichoke Dip w/ Chips,12,10
+1149,House Salad No Dressing,12,11
+1150,Jalapeno Smokehouse Burger w/ Ranch with fries,12,7
+1151,Loaded Baked Potato Soup,12,14
+1152,Loaded Baked Potato Soup,12,14
+1153,Loaded Mashed Potatoes,12,3
+1154,Lunch House Salad No Dressing,12,11
+1155,Margarita Grilled Chicken,12,8
+1156,Margarita Grilled Chicken (Lunch Combo),12,8
+1157,Mashed Potatoes w/ Black Pepper Gravy,12,3
+1158,Memphis Dry Rub Ribs,12,13
+1159,Memphis Dry Rub Ribs (1/2 rack),12,13
+1160,Molten Chocolate Cake,12,4
+1161,Monterey Chicken®,12,8
+1162,Monterey Chicken® (Lunch Combo),12,8
+1163,Mushroom-Swiss Burger w/ fries,12,7
+1164,Oldtimer® Burger w/ fries,12,7
+1165,Original Ribs,12,13
+1166,Original Ribs (1/2 rack),12,13
+1167,Over-The-Top Cobb Salad w/ Avocado Ranch,12,11
+1168,Pepper Pals® Cheese Pizza,12,15
+1169,Pepper Pals® Cheese Quesadilla,12,15
+1170,Pepper Pals® Chocolate Shake,12,15
+1171,Pepper Pals® Crispy Chicken Crispers,12,15
+1172,Pepper Pals® Grilled Cheese Sandwich,12,15
+1173,Pepper Pals® Grilled Chicken Platter,12,15
+1174,Pepper Pals® Grilled Chicken Sandwich,12,15
+1175,Pepper Pals® Little Chicken Crispers,12,15
+1176,Pepper Pals® Little Mouth Burger,12,15
+1177,Pepper Pals® Little Mouth Cheeseburger,12,15
+1178,Pepper Pals® Macaroni & Cheese Kraft,12,15
+1179,Pepper Pals® Side Celery Sticks w/ Ranch,12,15
+1180,Pepper Pals® Side Cinnamon Apples,12,15
+1181,Pepper Pals® Side Corn Cob w/o Butter,12,15
+1182,Pepper Pals® Side Homestyle Fries,12,15
+1183,Pepper Pals® Side Kernel Corn,12,15
+1184,Pepper Pals® Side Mandarin Oranges,12,15
+1185,Pepper Pals® Side Mashed Potatoes – w/o Gravy,12,15
+1186,Pepper Pals® Side Pineapple,12,15
+1187,Pepper Pals® Side Rice,12,15
+1188,Pepper Pals® Side Salad w/ Low Fat Ranch,12,15
+1189,Pepper Pals® Side Steamed Broccoli,12,15
+1190,Quesadilla Explosion Salad,12,11
+1191,Ranch Only as served w/ Chips,12,3
+1192,Rice,12,3
+1193,Salsa Only as served w/ Chips,12,3
+1194,Santa Fe Chicken Wrap w/ Ancho-Chile Ranch & fries,12,12
+1195,Shiner Bock® BBQ Burger w/ fries,12,7
+1196,Shiner Bock® BBQ Ribs,12,13
+1197,Shiner Bock® BBQ Ribs (1/2 rack),12,13
+1198,Skillet Queso w/ Chips,12,10
+1199,Sour Cream,12,3
+1200,Southern Smokehouse Burger w/ Ancho Chile BBQ & fries,12,7
+1201,Southwestern BLT Sandwich w/ Fries,12,12
+1202,Southwestern Eggrolls w/ Avocado Ranch,12,10
+1203,Spicy Garlic & Lime Grilled Shrimp,12,5
+1204,Steakhouse Sandwich w/ fries,12,12
+1205,Steamed Broccoli,12,3
+1206,Sweet Corn,12,14
+1207,Sweet Corn,12,14
+1208,Sweet Corn on the Cob w/ Butter,12,3
+1209,Texas Cheese Fries -1/2 order w/ Chili & Ranch,12,10
+1210,Texas Cheese Fries -1/2 order w/ Ranch,12,10
+1211,Texas Cheese Fries w/ Chili & Ranch,12,10
+1212,Texas Cheese Fries w/ Ranch,12,10
+1213,Triple Dipper™ Big Mouth® Bites w/ Ranch,12,10
+1214,Triple Dipper™ Boneless Buffalo Wings w/ Bleu Cheese,12,10
+1215,Triple Dipper™ Chicken Crispers® No Dressing,12,10
+1216,Triple Dipper™ Fried Cheese w/ Marinara Sauce,12,10
+1217,Triple Dipper™ Hot Spinach & Artichoke Dip w/ Chips,12,10
+1218,Triple Dipper™ Southwestern Eggrolls w/ Avocado Ranch,12,10
+1219,Triple Dipper™ Wings Over Buffalo® w/ Bleu Cheese,12,10
+1220,"Wheat Bun, Plain",12,3
+1221,Wings Over Buffalo® w/ Bleu Cheese,12,10
+1222,Barbacoa,13,5
+1223,Barbacoa,13,5
+1224,Black Beans,13,3
+1225,Black Beans (side),13,3
+1226,Black Beans (taco),13,3
+1227,Carnitas,13,5
+1228,Carnitas,13,5
+1229,Cheese,13,3
+1230,Cheese (small quesadilla),13,3
+1231,Cheese (taco),13,3
+1232,Chicken,13,5
+1233,Chicken,13,5
+1234,Chips,13,3
+1235,Chips,13,3
+1236,Cilantro-Lime Rice,13,3
+1237,Cilantro-Lime Rice (side),13,3
+1238,Cilantro-Lime Rice (taco),13,3
+1239,Crispy Taco Shell,13,29
+1240,Crispy Taco Shell,13,29
+1241,Fajita Vegetables,13,3
+1242,Fajita Vegetables,13,3
+1243,Flour Tortilla (burrito),13,29
+1244,Flour Tortilla (taco),13,29
+1245,Flour Tortilla (taco),13,29
+1246,Fresh Tomato Salsa,13,3
+1247,Fresh Tomato Salsa,13,3
+1248,Green Tomatillo Salsa,13,3
+1249,Green Tomatillo Salsa,13,3
+1250,Guacamole,13,3
+1251,Guacamole,13,3
+1252,Pinto Beans,13,3
+1253,Pinto Beans (side),13,3
+1254,Pinto Beans (taco),13,3
+1255,Red Tomatillo Salsa,13,3
+1256,Red Tomatillo Salsa,13,3
+1257,Roasted Chili – Corn Salsa,13,3
+1258,Roasted Chili – Corn Salsa,13,3
+1259,Romaine Lettuce (salad),13,3
+1260,Romaine Lettuce (taco),13,3
+1261,Romaine Lettuce (tacos),13,3
+1262,Soft Corn Tortilla,13,29
+1263,Soft Corn Tortilla,13,29
+1264,Sour Cream,13,3
+1265,Sour Cream,13,3
+1266,Steak,13,5
+1267,Steak,13,5
+1268,Vinaigrette,13,3
+1269,Apple Pie,14,4
+1270,Boneless Wing – with Sauce,14,21
+1271,Boneless Wing – without Sauce,14,21
+1272,Cajun Rice,14,3
+1273,Chicken Fried Steak,14,5
+1274,Chicken Sandwich with Cheese,14,12
+1275,Cole Slaw,14,3
+1276,Collard Greens,14,3
+1277,Corn,14,3
+1278,Double Chicken N Cheese Sandwich,14,12
+1279,Fish Fillet (1),14,9
+1280,French Fries,14,3
+1281,Green Beans,14,3
+1282,Honey-Butter Biscuit,14,3
+1283,Jalapeño Cheese Bombers® (4),14,3
+1284,Jalapeño Pepper,14,3
+1285,Livers (6),14,9
+1286,Macaroni & Cheese,14,3
+1287,Mashed Potatoes & Gravy,14,3
+1288,Nuggets (5),14,8
+1289,Okra,14,3
+1290,Original Breast,14,8
+1291,Original Chicken Sandwich,14,12
+1292,Original Leg,14,8
+1293,Original Thigh,14,8
+1294,Original Wing,14,8
+1295,Red Beans & Rice,14,3
+1296,Shrimp (8),14,9
+1297,Southern Style Chicken Sandwich,14,12
+1298,Spicy Breast,14,8
+1299,Spicy Chicken Sandwich,14,12
+1300,Spicy Leg,14,8
+1301,Spicy Southern Style Chicken Sandwich,14,12
+1302,Spicy Tender Strips™,14,8
+1303,Spicy Thigh,14,8
+1304,Spicy Wing,14,8
+1305,Strawberry Shortcake,14,4
+1306,Sweet Corn Nuggets (8),14,3
+1307,Sweet Tea – Large,14,1
+1308,Sweet Tea – Medium,14,1
+1309,Sweet Tea – Small,14,1
+1310,Tender Strips™,14,8
+1311,Unsweet Tea – Large,14,1
+1312,Unsweet Tea – Medium,14,1
+1313,Unsweet Tea – Small,14,1
+1314,"8-Grain Bagel – LF, VG",15,17
+1315,Add Spread – Country Dijon Mustard (Combo),15,12
+1316,Add Spread – Mayo (Combo),15,12
+1317,All American Scrambler (with Sausage) (Egg Whites),15,17
+1318,All American Scrambler (with Sausage) (Whole Eggs),15,17
+1319,Anaheim Panini (Egg Whites),15,23
+1320,Anaheim Panini (Whole Eggs),15,23
+1321,Anaheim Scrambler – G (Egg Whites),15,17
+1322,Anaheim Scrambler – G (Whole Eggs),15,17
+1323,Apricot Walnut Rugalach – V,15,4
+1324,Asian Edamame Salad – V (Side),15,11
+1325,Asian Edamame Salad – V (Trio),15,11
+1326,Asian Wonton Salad (Café & Combo),15,11
+1327,Asian Wonton Salad (Entrée),15,11
+1328,Avocado Wedge – VG (Side),15,11
+1329,Avocado Wedge – VG (Trio),15,11
+1330,"Baby Carrots – LF, VG, G",15,3
+1331,Baked French Toast – V,15,17
+1332,Baked French Toast w/Sausage & Fresh Fruit,15,17
+1333,Baked French Toast w/Sausage & Scrambled Eggs (Egg Whites),15,17
+1334,Baked French Toast w/Sausage & Scrambled Eggs (Whole Eggs),15,17
+1335,"Bakery Chips – VG, G",15,3
+1336,Banana – Whole (Kids’ Menu) – G,15,3
+1337,Banana Baby Bundt Cake – V,15,4
+1338,Banana Muffin – V,15,17
+1339,Big Al’s Chili w/Cheddar Cheese (bowl),15,14
+1340,Big Al’s Chili w/Cheddar Cheese (cup),15,14
+1341,"Blueberry Bagel – LF, VG",15,17
+1342,Blueberry Muffin – V,15,17
+1343,"Breakfast Potatoes – VG, G",15,17
+1344,Brioche Flatbread (slice),15,18
+1345,Brioche Flatbread (whole),15,18
+1346,Caesar Salad,15,11
+1347,Caesar Salad (Café & Combo),15,11
+1348,Caesar Salad (Entrée),15,11
+1349,Caesar Salad (side & trio portion),15,11
+1350,Caesar Salad w/Roasted Chicken (Café & Combo),15,11
+1351,Caesar Salad w/Roasted Chicken (Entrée),15,11
+1352,California Grille – V (Combo),15,30
+1353,California Grille – V (Whole),15,30
+1354,Cappuccino – Nonfat,15,25
+1355,Cappuccino – Nonfat,15,25
+1356,Cappuccino – Nonfat,15,25
+1357,Cappuccino – Whole,15,25
+1358,Cappuccino – Whole,15,25
+1359,Cappuccino – Whole,15,25
+1360,Caramel Latte – Nonfat,15,25
+1361,Caramel Latte – Nonfat,15,25
+1362,Caramel Latte – Nonfat,15,25
+1363,Caramel Latte – Whole,15,25
+1364,Caramel Latte – Whole,15,25
+1365,Caramel Latte – Whole,15,25
+1366,Chai Latte – Nonfat,15,25
+1367,Chai Latte – Nonfat,15,25
+1368,Chai Latte – Nonfat,15,25
+1369,Chai Latte – Whole,15,25
+1370,Chai Latte – Whole,15,25
+1371,Chai Latte – Whole,15,25
+1372,Cheddar Broccoli,15,15
+1373,Cheddar Broccoli  (bowl),15,14
+1374,Cheddar Broccoli  (cup),15,14
+1375,Chicken Apple Sausage Panini (Egg Whites),15,23
+1376,Chicken Apple Sausage Panini (Whole Eggs),15,23
+1377,"Chicken Apple Sausage, 2-patties",15,17
+1378,Chicken Carbonara – (Combo),15,5
+1379,Chicken Carbonara – (Combo),15,12
+1380,Chicken Carbonara – (Entrée),15,5
+1381,Chicken Carbonara – (Whole),15,12
+1382,Chicken Pomodori (Combo),15,30
+1383,Chicken Pomodori (Whole),15,30
+1384,Chocolate Baby Bundt Cake – V,15,4
+1385,Chocolate Chip Cookie – V,15,4
+1386,Chocolate Muffin – V,15,17
+1387,Chocolate Turtle Baby Bundt Cake – V,15,4
+1388,Chopped Salad – G (Café & Combo),15,11
+1389,Chopped Salad – G (Entrée),15,11
+1390,Ciabatta Ficelle – V,15,18
+1391,Cinnamon Creme Cake – Slice (12 slices/cake) – V,15,4
+1392,Cinnamon Crumb Muffin – V,15,17
+1393,Cinnamon Pecan Rugalach – V,15,4
+1394,Cinnamon Raisin – V (slice),15,18
+1395,Cinnamon Raisin – V (whole),15,18
+1396,"Cinnamon Raisin Bagel – LF, VG",15,17
+1397,Cinnamon Roll – V,15,17
+1398,Corned Beef Reuben (Combo),15,30
+1399,Corned Beef Reuben (Whole),15,30
+1400,Corner Club (Combo),15,30
+1401,Corner Club (Whole),15,30
+1402,Country Boule – VG (slice),15,18
+1403,Country Boule – VG (whole),15,18
+1404,Country Bread Boule – Bowl Option  (bowl),15,14
+1405,Country Bread Boule – Bowl Option  (cup),15,14
+1406,Country Large Oblong – VG (slice),15,18
+1407,Country Large Oblong – VG (whole),15,18
+1408,Country Small Oblong – VG (slice),15,18
+1409,Country Small Oblong – VG (whole),15,18
+1410,Cream Cheese Brownie – V,15,4
+1411,Croissant – V,15,17
+1412,D.C. Chicken Salad – G (Side),15,11
+1413,D.C. Chicken Salad – G (Trio),15,11
+1414,D.C. Chicken Salad on Steakhouse Rye Bread – (Combo),15,12
+1415,D.C. Chicken Salad on Steakhouse Rye Bread – (Whole),15,12
+1416,"Egg Salad – V, G (Side)",15,11
+1417,"Egg Salad – V, G (Trio)",15,11
+1418,"Everything Bagel – LF, VG",15,17
+1419,"Farmer’s Scrambler – V, G (Egg Whites)",15,17
+1420,"Farmer’s Scrambler – V, G (Whole Eggs)",15,17
+1421,Focaccia Loaf – VG (slice),15,18
+1422,Focaccia Loaf – VG (whole),15,18
+1423,"Focaccia Roll – LF, VG",15,3
+1424,Frozen Mango Lemonade – VG,15,1
+1425,Frozen Mango Lemonade – VG,15,1
+1426,Frozen Mango Pomegranate Swirl – VG,15,1
+1427,Frozen Mango Pomegranate Swirl – VG,15,1
+1428,Frozen Pomegranate Lemonade – VG,15,1
+1429,Frozen Pomegranate Lemonade – VG,15,1
+1430,Fudge Brownie,15,4
+1431,Garlic Bread (Pasta Entrées Only) – V,15,3
+1432,Grapes – Small Bunch (Kids’ Menu) – G,15,3
+1433,"Greek Vegetable Salad – V, G (Side)",15,11
+1434,"Greek Vegetable Salad – V, G (Trio)",15,11
+1435,Green Chile & Chicken (Combo),15,30
+1436,Green Chile & Chicken (Whole),15,30
+1437,Grilled Cheese Sandwich – V (Combo),15,15
+1438,Grilled Cheese Sandwich – V (Whole),15,15
+1439,Half Moon Cheese Ravioli – V,15,15
+1440,Half Moon Cheese Ravioli – V (Combo),15,5
+1441,Half Moon Cheese Ravioli – V (Entrée),15,5
+1442,Harvest – VG (slice),15,18
+1443,Harvest – VG (whole),15,18
+1444,"Harvest Crisp – LF, VG",15,3
+1445,Harvest Salad – V (Café & Combo),15,11
+1446,Harvest Salad – V (Entrée),15,11
+1447,Harvest Salad w/Roasted Chicken (Café & Combo),15,11
+1448,Harvest Salad w/Roasted Chicken (Entrée),15,11
+1449,"Harvest Toast – LF, VG",15,17
+1450,Horizon Milk – Chocolate,15,15
+1451,Horizon Milk – White,15,15
+1452,Iced Coffee – Black,15,25
+1453,Iced Coffee – Black,15,25
+1454,Iced Coffee – Creamy,15,25
+1455,Iced Coffee – Creamy,15,25
+1456,Italian Wedding Soup,15,15
+1457,Italian Wedding Soup w/ Parmesan Cheese  (bowl),15,14
+1458,Italian Wedding Soup w/ Parmesan Cheese  (cup),15,14
+1459,Kid’s Apple Juice,15,15
+1460,Kid’s Berry Juice,15,15
+1461,Kids’ Cheesy Scrambler w/Toast & Fresh Fruit,15,15
+1462,Kids’ Scrambler w/Toast & Fresh Fruit,15,15
+1463,Latte – Nonfat,15,25
+1464,Latte – Nonfat,15,25
+1465,Latte – Nonfat,15,25
+1466,Latte – Whole,15,25
+1467,Latte – Whole,15,25
+1468,Latte – Whole,15,25
+1469,Lemon Bar – V,15,4
+1470,Lemon Pound Cake – Slice,15,4
+1471,Loaded Baked Potato,15,15
+1472,Loaded Baked Potato w/Cheddar Cheese & Green Onion,15,14
+1473,Loaded Baked Potato w/Cheddar Cheese & Green Onion,15,14
+1474,Macaroni & Cheese – Kraft,15,15
+1475,Maple Pecan Bar – V,15,4
+1476,Mixed Greens Salad – V (Café & Combo),15,11
+1477,Mixed Greens Salad – V (Entrée),15,11
+1478,Mixed Greens Salad w/dressing (side & trio portion) – V,15,11
+1479,Mixed Greens Salad w/dressing – V,15,11
+1480,Mixed Greens w/dressing (garnish) – VG,15,11
+1481,Mom’s Chicken Noodle – LF,15,15
+1482,Mom’s Chicken Noodle – LF  (bowl),15,14
+1483,Mom’s Chicken Noodle – LF  (cup),15,14
+1484,Mom’s Corned Beef on Caraway Rye Bread (Combo),15,12
+1485,Mom’s Corned Beef on Caraway Rye Bread (Whole),15,12
+1486,Mom’s Egg Salad on White Bread (Combo),15,12
+1487,Mom’s Egg Salad on White Bread (Whole),15,12
+1488,Mom’s Roast Beef on Sourdough Bread (Combo),15,12
+1489,Mom’s Roast Beef on Sourdough Bread (Whole),15,12
+1490,Mom’s Roasted Chicken on Harvest Bread (Combo),15,12
+1491,Mom’s Roasted Chicken on Harvest Bread (Whole),15,12
+1492,Mom’s Tuna Salad on Harvest Bread (Combo),15,12
+1493,Mom’s Tuna Salad on Harvest Bread (Whole),15,12
+1494,1/2 lb. FlameThrower® GrillBurger,16,7
+1495,1/2 lb. GrillBurger with Cheese,16,7
+1496,1/4 lb. GrillBurger with Cheese,16,7
+1497,1/4 lb. Mushroom Swiss GrillBurger,16,7
+1498,Applesauce,16,15
+1499,"Arctic Rush Float, All Flavors – Large",16,1
+1500,"Arctic Rush Float, All Flavors – Medium",16,1
+1501,"Arctic Rush Float, All Flavors – Small",16,1
+1502,"Arctic Rush Freeze, All Flavors – Large",16,1
+1503,"Arctic Rush Freeze, All Flavors – Medium",16,1
+1504,"Arctic Rush Freeze, All Flavors – Small",16,1
+1505,"Arctic Rush, All Flavors – Large",16,1
+1506,"Arctic Rush, All Flavors – Medium",16,1
+1507,"Arctic Rush, All Flavors – Small",16,1
+1508,Banana,16,15
+1509,Banana Cream Pie Blizzard – Large,16,4
+1510,Banana Cream Pie Blizzard – Medium,16,4
+1511,Banana Cream Pie Blizzard – Mini,16,4
+1512,Banana Cream Pie Blizzard – Small,16,4
+1513,Banana Slices,16,4
+1514,Banana Split,16,4
+1515,Banana Split Blizzard – Large,16,4
+1516,Banana Split Blizzard – Medium,16,4
+1517,Banana Split Blizzard – Mini,16,4
+1518,Banana Split Blizzard – Small,16,4
+1519,Barbecue Beef Sandwich,16,12
+1520,Biscuits & Gravy,16,17
+1521,Breaded Mushrooms,16,3
+1522,Brownie Pieces,16,4
+1523,Buster Bar® Treat***,16,4
+1524,Butterfinger Blizzard – Large,16,4
+1525,Butterfinger Blizzard – Medium,16,4
+1526,Butterfinger Blizzard – Small,16,4
+1527,Butterfinger Pieces,16,4
+1528,Butterfinger® Blizzard – Mini,16,4
+1529,Butterscotch Dilly Bar,16,4
+1530,Cappuccino MooLatté – Large,16,25
+1531,Cappuccino MooLatté – Medium,16,25
+1532,Cappuccino MooLatté – Small,16,25
+1533,Caramel MooLatté – Large,16,25
+1534,Caramel MooLatté – Medium,16,25
+1535,Caramel MooLatté – Small,16,25
+1536,Caramel Topping,16,4
+1537,Cheese Curds,16,3
+1538,Cheeseburger Kids’,16,15
+1539,Cheesecake Pieces,16,4
+1540,Cherry Dilly Bar,16,4
+1541,Cherry StarKiss® Bar,16,4
+1542,Chick. Strip Basket – 4pc w/ Country Gravy,16,8
+1543,Chick. Strip Basket – 6pc w/ Country Gravy,16,8
+1544,Chicken Quesadilla Basket,16,8
+1545,Chicken Strip Kids’ (2),16,15
+1546,Chili – Bowl,16,14
+1547,Chili – Cup,16,14
+1548,Chili Cheese Fries,16,6
+1549,Choc. Cov. Strawberry Waffle Bowl Sundae,16,4
+1550,"Choc. Xtreme Blizzard Cake, 10”, 1/12 slice***",16,4
+1551,"Choc. Xtreme Blizzard Cake, 8”, 1/8 slice***",16,4
+1552,Choco Cherry Love Blizzard – Large,16,4
+1553,Choco Cherry Love Blizzard – Medium,16,4
+1554,Choco Cherry Love Blizzard – Mini,16,4
+1555,Choco Cherry Love Blizzard – Small,16,4
+1556,Choco Chunks,16,4
+1557,Chocolate Chip Cookie Dough Pieces,16,4
+1558,Chocolate Coated Waffle Cone w/ Soft Serve,16,4
+1559,Chocolate Cone – Kids’,16,4
+1560,Chocolate Cone – Large,16,4
+1561,Chocolate Cone – Medium,16,4
+1562,Chocolate Cone – Small,16,4
+1563,Chocolate Dilly® Bar***,16,4
+1564,Chocolate Mint Dilly Bar,16,4
+1565,Chocolate Topping,16,4
+1566,Chocolate Xtreme Blizzard – Large,16,4
+1567,Chocolate Xtreme Blizzard – Medium,16,4
+1568,Chocolate Xtreme Blizzard – Mini,16,4
+1569,Chocolate Xtreme Blizzard – Small,16,4
+1570,Cocoa Fudge,16,4
+1571,Coconut Flakes,16,4
+1572,Cookie Dough Blizzard – Large,16,4
+1573,Cookie Dough Blizzard – Medium,16,4
+1574,Cookie Dough Blizzard – Mini,16,4
+1575,Cookie Dough Blizzard – Small,16,4
+1576,Country Platter,16,17
+1577,Crispy Chicken Salad,16,11
+1578,Crispy Chicken Sandwich,16,12
+1579,Crispy Chicken Wrap,16,12
+1580,Crispy Fish Sandwich,16,12
+1581,Crispy FlameThrower Chicken Sandwich,16,12
+1582,Deluxe Cheeseburger,16,7
+1583,Deluxe Double Cheeseburger,16,7
+1584,"Dipped Cone, Chocolate – Kids’ ***",16,4
+1585,"Dipped Cone, Chocolate – Large ***",16,4
+1586,"Dipped Cone, Chocolate – Medium ***",16,4
+1587,"Dipped Cone, Chocolate – Small ***",16,4
+1588,Double Fudge Cookie Dough Blizzard – Large,16,4
+1589,Double Fudge Cookie Dough Blizzard – Med,16,4
+1590,Double Fudge Cookie Dough Blizzard – Mini,16,4
+1591,Double Fudge Cookie Dough Blizzard – Small,16,4
+1592,"DQ Cake, 10”, 1/12 slice",16,4
+1593,"DQ Cake, 8”, 1/8 slice",16,4
+1594,"DQ Heart Cake, 1/10 slice",16,4
+1595,DQ Home-Pak,16,4
+1596,"DQ Log Cake, 1/8 slice",16,4
+1597,DQ Sandwich,16,4
+1598,"DQ Sheet Cake, 1/24 slice",16,4
+1599,DQ Ultimate® Burger,16,7
+1600,French Fries – Kids’,16,15
+1601,French Fries – Large,16,6
+1602,French Fries – Regular,16,6
+1603,French Silk Pie Blizzard – Large,16,4
+1604,French Silk Pie Blizzard – Medium,16,4
+1605,French Silk Pie Blizzard – Mini,16,4
+1606,French Silk Pie Blizzard – Small,16,4
+1607,French Vanilla MooLatté – Large,16,25
+1608,French Vanilla MooLatté – Medium,16,25
+1609,French Vanilla MooLatté – Small,16,25
+1610,Fries,16,15
+1611,Fudge Bar,16,4
+1612,Fudge Brownie Temptation Waffle Bowl Sundae,16,4
+1613,Georgia Mud Fudge Blizzard – Large,16,4
+1614,Georgia Mud Fudge Blizzard – Medium,16,4
+1615,Georgia Mud Fudge Blizzard – Small,16,4
+1616,Georgia Mud Fudge® Blizzard – Mini,16,4
+1617,Grilled Cheese Kids’,16,15
+1618,Grilled Chicken Salad,16,11
+1619,Grilled Chicken Sandwich,16,12
+1620,Grilled Chicken Wrap,16,12
+1621,Hashbrowns,16,17
+1622,Hawaiian Blizzard – Large,16,4
+1623,Hawaiian Blizzard – Medium,16,4
+1624,Hawaiian Blizzard – Mini,16,4
+1625,Hawaiian Blizzard – Small,16,4
+1626,Heath Blizzard – Large,16,4
+1627,Heath Blizzard – Medium,16,4
+1628,Heath Blizzard – Small,16,4
+1629,Heath Pieces,16,4
+1630,Heath® Blizzard – Mini,16,4
+1631,Heath® Dilly Bar,16,4
+1632,Hot Fudge Topping,16,4
+1633,Iron Grilled Cheese Sandwich,16,12
+1634,Iron Grilled Classic Club Sandwich,16,12
+1635,Iron Grilled Supreme BLT Sandwich,16,12
+1636,Iron Grilled Turkey Sandwich,16,12
+1637,"Lemonade Chiller, Classic, Large",16,1
+1638,"Lemonade Chiller, Classic, Medium",16,1
+1639,"Lemonade Chiller, Classic, Small",16,1
+1640,"Lemonade Chiller, Strawberry, Large",16,1
+1641,"Lemonade Chiller, Strawberry, Medium",16,1
+1642,"Lemonade Chiller, Strawberry, Small",16,1
+1643,M&M’s Chocolate Candies,16,4
+1644,M&M’s Chocolate Candy Blizzard – Large,16,4
+1645,M&M’s Chocolate Candy Blizzard – Medium,16,4
+1646,M&M’s Chocolate Candy Blizzard – Small,16,4
+1647,M&M’s® Chocolate Candy Blizzard – Mini,16,4
+1648,"Malt, Banana – Large",16,2
+1649,"Malt, Banana – Medium",16,2
+1650,"Malt, Banana – Small",16,2
+1651,"Malt, Caramel – Large",16,2
+1652,"Malt, Caramel – Medium",16,2
+1653,"Malt, Caramel – Small",16,2
+1654,"Malt, Cherry – Large",16,2
+1655,"Malt, Cherry – Medium",16,2
+1656,"Malt, Cherry – Small",16,2
+1657,"Malt, Chocolate – Large",16,2
+1658,"Malt, Chocolate – Medium",16,2
+1659,"Malt, Chocolate – Small",16,2
+1660,"Malt, Hot Fudge – Large",16,2
+1661,"Malt, Hot Fudge – Medium",16,2
+1662,"Malt, Hot Fudge – Small",16,2
+1663,"Malt, Peanut Butter – Large",16,2
+1664,"Malt, Peanut Butter – Medium",16,2
+1665,"Malt, Peanut Butter – Small",16,2
+1666,"Malt, Strawberry – Large",16,2
+1667,"Malt, Strawberry – Medium",16,2
+1668,"Malt, Strawberry – Small",16,2
+1669,"Malt, Vanilla – Large",16,2
+1670,"Malt, Vanilla – Medium",16,2
+1671,"Malt, Vanilla – Small",16,2
+1672,Midnight Truffle Blizzard – Large,16,4
+1673,Midnight Truffle Blizzard – Medium,16,4
+1674,Midnight Truffle Blizzard – Mini,16,4
+1675,Midnight Truffle Blizzard – Small,16,4
+1676,Mint Oreo Blizzard – Large,16,4
+1677,Mint Oreo Blizzard – Medium,16,4
+1678,Mint Oreo Blizzard – Small,16,4
+1679,Mint Oreo® Blizzard – Mini,16,4
+1680,Mocha MooLatté – Large,16,25
+1681,All  –  American Slam® (add choices),17,17
+1682,Apple Dunkers w/ caramel sauce,17,15
+1683,Apple Pie,17,4
+1684,Bagel & Cream Cheese,17,3
+1685,Banana Pecan Pancake Breakfast,17,17
+1686,Banana Split,17,4
+1687,Bananas Foster French Toast Skillet (add meat),17,17
+1688,Basket of Puppies w/o syrup,17,10
+1689,Belgian Waffle Slam®,17,17
+1690,Bowl of Harvest Oatmeal w/ Milk,17,3
+1691,Broccoli,17,3
+1692,Broccoli & Cheddar Soup,17,14
+1693,Buttermilk Biscuit,17,17
+1694,Buttermilk Biscuit,17,3
+1695,Caramel Apple Crisp,17,4
+1696,Caramel Topping,17,4
+1697,Cheddar Cheese Hash Browns,17,3
+1698,Cheese Burger Flatbread,17,10
+1699,Cheesy @ the Plate (add side),17,15
+1700,Cherry Topping,17,4
+1701,Chicken Avocado Sandwich w/ Fit Fare® fresh veggies,17,12
+1702,Chicken Deluxe Salad  –  Chicken Strips (add choices),17,11
+1703,Chicken Deluxe Salad  –  Grilled Chicken (add choices),17,11
+1704,Chicken Noodle Soup,17,14
+1705,Chicken Ranch Melt w/o dressing (add choices),17,12
+1706,Chicken Sausage Patty (1),17,17
+1707,Chicken Sausage Patty (2),17,3
+1708,Chicken Strips w/ bread (add choices),17,5
+1709,Chicken Strips w/ Buffalo Sauce (add dipping sauce),17,10
+1710,Chicken Strips w/ Sweet & Tangy BBQ Sauce (add dipping sauce),17,10
+1711,Chicken Wings w/ Buffalo Sauce (add dipping sauces),17,10
+1712,Chicken Wings w/ Sweet & Tangy BBQ Sauce (add dipping sauce),17,10
+1713,Chocolate Chip  –  In Pancakes,17,15
+1714,Chocolate French Silk Pie,17,4
+1715,Chocolate Peanut Butter Silk Pie,17,4
+1716,Chocolate Topping,17,4
+1717,Chopped Nuts,17,4
+1718,Clam Chowder,17,14
+1719,Classic Cheeseburger (add choices),17,7
+1720,Club Sandwich (add choices),17,12
+1721,Coconut Cream Pie,17,4
+1722,Coffee,17,25
+1723,Coleslaw,17,3
+1724,Cookies & Cream Pie,17,4
+1725,Corn,17,3
+1726,Country  –  Fried Steak & Eggs (add choices),17,17
+1727,Country  –  Fried Steak w/ gravy (add choices),17,5
+1728,Cranberry Apple Chicken Salad w/ balsamic vinaigrette / no bread,17,11
+1729,Dippable Veggies / no dressing,17,3
+1730,Double Cheeseburger (add choices),17,7
+1731,Egg Whites,17,3
+1732,Egg Whites (2),17,17
+1733,Eggs (2),17,17
+1734,Eggs (each) 2 oz = 1 egg,17,3
+1735,English Muffin / no margarine,17,17
+1736,English Muffin / no margarine,17,3
+1737,"Everything Hash Browns w/ onions, cheese & country gravy",17,3
+1738,Fiesta Corn,17,3
+1739,Finish Line Fries,17,15
+1740,Fish & Chips (add dinner bread choice),17,5
+1741,Fishing Goldfish® Crackers,17,15
+1742,Fit Fare® Omelette,17,17
+1743,Fit Fare® Sweet & Tangy BBQ Chicken w/ broccoli & corn,17,5
+1744,Fit Fare® Tilapia Ranchero,17,5
+1745,Fit Slam®,17,17
+1746,Flavored Cappuccino,17,25
+1747,"French Fries, salted",17,6
+1748,"French Fries, salted",17,3
+1749,French Toast Slam®,17,17
+1750,Fruit   –   Banana,17,3
+1751,Fruit   –   Grapes,17,3
+1752,Fudge Topping,17,4
+1753,Game  –  On Grapes,17,15
+1754,Garden Salad w/o dressing,17,11
+1755,Garlic Dinner Bread,17,3
+1756,Garlic Dinner Bread,17,3
+1757,Glazed Pecans,17,4
+1758,Golden  –  Fried Shrimp,17,3
+1759,Green Beans,17,3
+1760,Grilled Shrimp Skewer,17,3
+1761,Grits w/ margarine,17,17
+1762,Grits w/ margarine,17,3
+1763,Grits w/ margarine,17,3
+1764,Groovy Mango,17,2
+1765,Half Size Cranberry Apple Chicken Salad w/ balsamic vinaigrette / no bread,17,11
+1766,Half Size Sampler™ (add sauce),17,10
+1767,Half Size Zesty Nachos,17,10
+1768,Harvest Oatmeal Breakfast,17,17
+1769,Hash Browns,17,17
+1770,Hash Browns,17,3
+1771,Hash Browns,17,3
+1772,Hash Browns,17,3
+1773,Heartland Scramble®,17,17
+1774,Hershey®’s Chocolate Cake,17,4
+1775,Hickory Grilled Chicken Sandwich (add choices),17,12
+1776,High Diving Veggies w/ ranch dressing,17,15
+1777,Home Plate Mashed Potatoes w/ brown gravy,17,15
+1778,Hot Fudge Brownie A La Mode,17,4
+1779,"Ice Cream (Vanilla, Chocolate or Strawberry)",17,4
+1780,Jr. Grand Slam®,17,15
+1781,Key Lime Pie,17,4
+1782,Kids’ OREO® Blender Blaster,17,15
+1783,Lemon Meringue Layer Pie,17,4
+1784,Lemon Pepper Grilled Tilapia w/ bread (add choices),17,5
+1785,Loaded Baked Potato Soup,17,14
+1786,Lumberjack Slam® (add choices),17,17
+1787,Mashed Potatoes,17,3
+1788,Meat Lover’s Scramble,17,17
+1789,"Milk Shakes (Vanilla, Chocolate or Strawberry)",17,2
+1790,"Milk Shakes (Vanilla, Chocolate or Strawberry)",17,2
+1791,Mozzarella Cheese Sticks (add marinara sauce),17,10
+1792,Mushroom Swiss Burger (add choices),17,7
+1793,Mushroom Swiss Chopped Steak w/ bread (add choices),17,5
+1794,New York Style Cheesecake,17,4
+1795,Oatmeal w/ Milk,17,17
+1796,OJ Strawberry Mango,17,1
+1797,Onion Rings,17,3
+1798,Oreo® Blender Blaster™,17,2
+1799,Oreo® Cookie Pieces,17,4
+1800,Pacific Chiller,17,1
+1801,Pancake Puppies®,17,3
+1802,"Pancakes, Buttermilk",17,17
+1803,"Pancakes, Hearty Wheat",17,17
+1804,Patty Melt (add choices),17,7
+1805,Pecan Pie,17,4
+1806,Pineapple Dream™,17,1
+1807,Pit Stop Pizza (add side),17,15
+1808,Prime Rib & Chicken Sizzlin’ Skillet,17,5
+1809,Prime Rib Philly Melt (add choices),17,12
+1810,Prime Rib Skillet,17,17
+1811,Pumpkin Pie,17,4
+1812,Red  –  Skinned Potatoes,17,3
+1813,Red  –  Skinned Potatoes,17,3
+1814,Sampler™ (add sauce),17,10
+1815,Santa Fe Skillet,17,17
+1816,Sausage Links,17,17
+1817,Sausage Links (4),17,3
+1818,Sautéed Spinach,17,3
+1819,Seasonal Fruit,17,17
+1820,Seasonal Fruit,17,3
+1821,Seasoned Fries,17,6
+1822,Senior Belgian Waffle Slam® w/ egg,17,5
+1823,Senior Club Sandwich (add choices),17,5
+1824,Senior Country  –  Fried Steak w/ bread (add choices),17,5
+1825,Senior Fit Fare® Grilled Chicken,17,5
+1826,Senior Fit Fare® Omelette,17,5
+1827,Senior French Toast Slam® w/ egg (add choices),17,5
+1828,Senior Grilled Cheese Deluxe Sandwich (add choices),17,5
+1829,Senior Grilled Chicken w/ bread (add choices),17,5
+1830,Senior Grilled Shrimp Skewer w/ bread (add choices),17,5
+1831,Senior Lemon Pepper Grilled Tilapia w/ bread (add choices),17,5
+1832,Senior Omelette (add choices),17,5
+1833,Senior Scrambled Eggs & Cheddar Breakfast,17,5
+1834,Senior Soup & Salad (add dressing choice),17,5
+1835,Senior Starter™ (add choices),17,5
+1836,Slam® Dribblers,17,15
+1837,Slap Shot Slider (1) (add side),17,15
+1838,Slices of Toast w/ margarine,17,17
+1839,Slices of Toast w/ margarine,17,3
+1840,Smoked Cheddar Mashed Potatoes,17,3
+1841,Smothered Cheese Fries,17,10
+1842,Soccer Shake   –   all flavors,17,15
+1843,Softball Pancake w/ meat,17,15
+1844,Southwestern Steak Burrito w/ hash browns,17,17
+1845,"Spaghetti, Set, Go! (add side)",17,15
+1846,Spicy Buffalo Chicken Melt (add choices),17,12
+1847,Strawberry Banana Bliss,17,2
+1848,Strawberry Lemonade,17,1
+1849,Strawberry Mango Pucker™,17,1
+1850,Strawberry Topping,17,4
+1851,Sundae Sundae Sundae!,17,15
+1852,Sweet & Tangy BBQ Chicken w/ bread & veggies,17,5
+1853,Sweet Georgia Peach,17,2
+1854,T  –  Bone Steak & Breaded Shrimp w/ bread (add choices),17,5
+1855,T  –  Bone Steak & Eggs (add choices),17,17
+1856,T  –  Bone Steak & Shrimp Skewer w/ bread (add choices),17,5
+1857,T  –  Bone Steak w/ bread (add choices),17,5
+1858,The Grand Slamwich® w/ hash browns,17,17
+1859,The Super Bird® (add choices),17,12
+1860,Three  –  Dip & Chips,17,10
+1861,Tilapia Ranchero w/ bread,17,5
+1862,Tomato Slices,17,3
+1863,Track & Cheese (add side),17,15
+1864,Triple Play Nuggets w/ BBQ sauce (add side),17,15
+1865,Tumbling Vanilla Yogurt w/ strawberry topping,17,15
+1866,Turtle Cheesecake,17,4
+1867,12 Piece Chicken Meal (Mixed),18,8
+1868,12 Piece Chicken Only (Mixed),18,8
+1869,2 Legs Kids’ Combo,18,15
+1870,2 Piece Breast and Wing,18,8
+1871,2 Piece Leg and Thigh,18,8
+1872,3 Piece Breast and Wing,18,8
+1873,3 Piece Leg and Thigh,18,8
+1874,4 Piece Breast and Wing,18,8
+1875,4 Piece Leg and Thigh,18,8
+1876,6.5″ Flour Tortillas(12 pack),18,3
+1877,6.5″ Flour Tortillas(2 pack),18,3
+1878,6.5″ Flour Tortillas(8 pack),18,3
+1879,8 Piece Chicken Meal (Mixed),18,8
+1880,8 Piece Chicken Only (Mixed),18,8
+1881,Avocado Salsa (Hot),18,3
+1882,Barbecue Chicken Tostada (no dressing),18,11
+1883,BBQ Black Beans (Small),18,3
+1884,BBQ Black Beans (Small),18,3
+1885,BBQ Black Beans(Large),18,3
+1886,BRC Burrito,18,24
+1887,BRC Burrito,18,24
+1888,BRC Burrito Kids’ Combo,18,15
+1889,Chicken Avocado Burrito,18,24
+1890,Chicken Nuggets Kids’ Combo,18,15
+1891,Chicken Taco Al Carbon,18,27
+1892,Chicken Tortilla Roll,18,27
+1893,Chicken Tortilla Soup,18,14
+1894,Chicken Tortilla Soup (Small),18,14
+1895,Chicken Tortilla Soup Small (no tortilla strips),18,11
+1896,Chicken Tostada (no dressing),18,11
+1897,Chicken Tostada (no shell & no dressing),18,11
+1898,Chicken Tostada (no shell & no dressing),18,11
+1899,Cole Slaw(Large),18,3
+1900,Cole Slaw(Small),18,3
+1901,Corn Cobbettes(Large Side-4 cobs),18,3
+1902,Corn Cobbettes(Small Side-2 cobs),18,3
+1903,El Tradicional,18,24
+1904,Flame Grilled Chicken Leg,18,27
+1905,Flame-Grilled Chicken Breast,18,8
+1906,Flame-Grilled Chicken Breast w/o Skin,18,8
+1907,Flame-Grilled Chicken Leg,18,8
+1908,Flame-Grilled Chicken Thigh,18,8
+1909,Flame-Grilled Chicken Wing,18,8
+1910,Flame-Grilled Corn(Large),18,3
+1911,Flame-Grilled Corn(Small),18,3
+1912,Flan,18,4
+1913,Flan,18,4
+1914,Fosters Freeze Vanilla (Kid’s Cone),18,4
+1915,Fosters Freeze Vanilla (Large Cone),18,4
+1916,Fosters Freeze Vanilla (Regular Cone),18,4
+1917,"Fosters Freeze Vanilla(Regular, in Cup)",18,4
+1918,French Fries(Large),18,3
+1919,French Fries(Small),18,3
+1920,Fresh Vegetables (no margarine),18,11
+1921,Fresh Vegetables (Small w/o margarine),18,3
+1922,Fresh Vegetables(Large),18,3
+1923,Fresh Vegetables(Small),18,3
+1924,Grilled Chicken Salad (no tortilla strips & no dressing),18,11
+1925,Grilled Chicken Salad (no tortilla strips & no dressing),18,11
+1926,Hand-Made Crunchy Chicken Taco,18,27
+1927,Hand-Made Guacamole,18,3
+1928,Hand-Made Guacamole & Chips,18,3
+1929,Hand-Made Guacamole(Large),18,3
+1930,House Salsa (Mild),18,3
+1931,Jalapeno Hot Sauce Packet,18,3
+1932,Loco Side Salad,18,11
+1933,"Loco Side Salad (no dressing, no tortilla strips) – large",18,11
+1934,"Loco Side Salad (no dressing, no tortilla strips) – small",18,11
+1935,Loco Side Salad(Large),18,3
+1936,Loco Side Salad(Small),18,3
+1937,Macaroni & Cheese(Large),18,3
+1938,Macaroni & Cheese(Small),18,3
+1939,Mashed Potatoes w/Gravy(Large),18,3
+1940,Mashed Potatoes w/Gravy(Small),18,3
+1941,Mini Pollo Bowl® Kids’ Combo,18,15
+1942,Mixed Tortillas (12 pack),18,3
+1943,Mixed Tortillas (8 pack),18,3
+1944,Pico de Gallo Salsa (Medium),18,3
+1945,Pinto Beans (Small),18,3
+1946,Pinto Beans(Large),18,3
+1947,Pinto Beans(Small),18,3
+1948,Salsa Roja (Hot),18,3
+1949,Skinless Breast Meal,18,5
+1950,Skinless Breast Meal,18,5
+1951,Skinless Chicken Breast,18,8
+1952,Skinless Chicken Breast,18,8
+1953,Sour Cream,18,3
+1954,Spanish Rice (Small),18,3
+1955,Spanish Rice(Large),18,3
+1956,Spanish Rice(Small),18,3
+1957,Sweet Corn Cake(Large),18,3
+1958,Sweet Corn Cake(Small),18,3
+1959,Sweet Potato Fries(Large),18,3
+1960,Sweet Potato Fries(Small),18,3
+1961,Taquito,18,27
+1962,The Original POLLO BOWL®,18,5
+1963,The Original POLLO BOWL®*,18,5
+1964,The Poblano,18,24
+1965,The Spicy Chipotle,18,24
+1966,Two Churros,18,27
+1967,Two Churros,18,4
+1968,Ultimate POLLO BOWL®,18,5
+1969,Aloha Chicken,19,8
+1970,Asian Chicken Salad,19,11
+1971,"Babyback Ribs, Full Rack",19,5
+1972,"Babyback Ribs, Half Rack",19,5
+1973,Baked Potato,19,3
+1974,Baked Sweet Potato,19,3
+1975,BBQ Slider Tray (per slider),19,12
+1976,Big City Reuben,19,12
+1977,Big Easy Shrimp and Fish Fry,19,9
+1978,Bleu Cheese and Peppercorn Steak Topper,19,3
+1979,Buttermilk Fried Chicken,19,5
+1980,"Cajun Firecracker Sticks, Plating",19,10
+1981,Calabash BLT,19,12
+1982,Calabash Chicken Salad,19,11
+1983,Calabash Chicken Wrap,19,12
+1984,Calabash Popcorn Shrimp,19,9
+1985,Calabash Wrap,19,12
+1986,"Calabash, Wings, and Cheese Fries",19,10
+1987,Carolina Peach Cobbler,19,4
+1988,Certified Angus Beef Ribeye (12 ounces),19,5
+1989,Certified Angus Beef Sirloin (10 ounces),19,5
+1990,Certified Angus Beef Sirloin (6 ounces),19,5
+1991,Certified Angus Beef Tenderloin Tips,19,5
+1992,Cheese Fries,19,10
+1993,Cheese Fries,19,3
+1994,Chicken Pot Pie,19,8
+1995,Chicken Pot Pie w/o salad,19,5
+1996,"Chicken Wings, 12",19,10
+1997,"Chicken Wings, 8",19,10
+1998,Chips and Salsa Tray (per serving),19,3
+1999,Cinnamon Apples,19,3
+2000,Cinnamon Honey Butter (1 ounce),19,3
+2001,Cinnamon Honey Butter (1 ounce),19,3
+2002,Classic Calabash and Gold Ribs,19,5
+2003,Classic Calabash Chicken Dinner,19,5
+2004,Classic Cheeseburger,19,5
+2005,"Classic FATZ Famous Fish, Blackened",19,5
+2006,"Classic FATZ Famous Fish, Fried",19,5
+2007,"Classic FATZ Famous Fish, Key West Style",19,5
+2008,Classic FATZ Fish and Chips,19,5
+2009,Classic Lite GrilledShrimp Skewer,19,5
+2010,Classic Smothered Chopped Steak,19,5
+2011,Club Sandwich Tray with Hoagie Rolls (per 1/2 sandwich),19,12
+2012,Club Sandwich Tray with Texas Toast (per 1/2 sandwich),19,12
+2013,Club Sandwich Tray with Tomato Basil Wraps(per 1/2 sandwich),19,12
+2014,Club Sandwich Tray with Wheat Bread (per 1/2 sandwich),19,12
+2015,Country Fried Steak,19,5
+2016,Double Fudge Brownie,19,4
+2017,Edisto Shrimp and Grits,19,9
+2018,Farmhouse Burger,19,7
+2019,Farmhouse Cheese Burger,19,7
+2020,FATZ Club Sandwich,19,12
+2021,FATZ Cobb Salad,19,11
+2022,"FATZ Famous Fish Platter, Blackened (1 Fillet)",19,9
+2023,"FATZ Famous Fish Platter, Blackened (2 Fillets)",19,9
+2024,"FATZ Famous Fish Platter, Fried (1 Fillet)",19,9
+2025,"FATZ Famous Fish Platter, Fried (2 Fillets)",19,9
+2026,"FATZ Famous Fish Platter, Key West Style (1 Fillet)",19,9
+2027,"FATZ Famous Fish Platter, Key West Style (2 Fillets)",19,9
+2028,"FATZ Famous Fish Sandwich, Blackened",19,12
+2029,"FATZ Famous Fish Sandwich, Fried",19,12
+2030,"FATZ Famous Fish Sandwich, Key West Style",19,12
+2031,FATZ Onyum Burger,19,7
+2032,Fiesta Nachos,19,10
+2033,Fiesta Nachos with Fire Grilled Chipotle Chicken,19,10
+2034,Fiesta Nachos with Tangy Ground Beef,19,10
+2035,French Fries,19,3
+2036,Fresh Grilled Asparagus with Lemon Butter Sauce,19,3
+2037,Fried Chocolate Cream Cookies (3 cookies),19,4
+2038,Fried Green Tomato Slider Tray (per serving),19,3
+2039,Fried Green Tomatoes,19,10
+2040,Fried Shrimp ( 3 pieces),19,3
+2041,Garden Blend Rice,19,3
+2042,Garlic Calamari,19,10
+2043,Grilled Chicken Club,19,12
+2044,"Grilled Salmon with Corn, Tomato and Avocado Relish",19,9
+2045,Grilled Shrimp and Veggie Harpoons,19,9
+2046,Grilled Shrimp Skewer,19,3
+2047,Hickory Burger,19,7
+2048,House Salad,19,11
+2049,"Ice Cream, Vanilla (4 fluid ounces)",19,15
+2050,Kids Banana Freeze,19,15
+2051,Kids Calabash Chicken,19,15
+2052,Kids Cheese Quesadilla,19,15
+2053,Kids Cheeseburger,19,15
+2054,Kids Chicken and Cheese Quesadilla,19,15
+2055,Kids Fish and Chips,19,15
+2056,Kids Grilled Cheese Sandwich,19,15
+2057,Kids Grilled Chicken Sandwich,19,15
+2058,Kids Grilled Salmon with Broccoli,19,15
+2059,Kids Pasta with Alfredo Sauce,19,15
+2060,Kids Pasta with Cheese Sauce,19,15
+2061,Kids Peach Freeze,19,15
+2062,Kids Popcorn Shrimp,19,15
+2063,Kids Salad,19,15
+2064,"Kids Specialty Soda, Cherry Diet Pepsi",19,15
+2065,"Kids Specialty Soda, Cherry Pepsi",19,15
+2066,"Kids Specialty Soda, Cherry Sprite",19,15
+2067,"Kids Specialty Soda, Orange Diet Pepsi",19,15
+2068,"Kids Specialty Soda, Orange Pepsi",19,15
+2069,"Kids Specialty Soda, Orange Sprite",19,15
+2070,Kids Strawberry Freeze,19,15
+2071,Kids Sugar Free Chocolate Mousse Shooter,19,15
+2072,Kids Sundae,19,15
+2073,Killer Shrimp,19,3
+2074,Killer Shrimp and Ribs,19,5
+2075,Large Brownie and Cheesecake Combo Tray (per serving),19,4
+2076,Large Brownie Tray (per serving),19,4
+2077,Large Calabash and Wings Combo Tray (per serving),19,5
+2078,Large Fiesta Nachos,19,10
+2079,Large Fiesta Nachos with Beef,19,10
+2080,Large Fiesta Nachos with Chicken,19,10
+2081,Large Salad Tray (per serving),19,11
+2082,Large Veggie Tray (per serving),19,3
+2083,Large Wing Party Tray (per serving),19,5
+2084,Large World Famous Calabash Chicken Tray (per serving),19,8
+2085,Lite Aloha Chicken,19,8
+2086,Lite Chocolate Mousse,19,4
+2087,"Lite FATZ Famous Fish Sandwich, Blackened",19,5
+2088,"Lite FATZ Famous Fish Sandwich, Key West Style",19,5
+2089,Lite Grilled Chicken Salad,19,11
+2090,Lite Grilled Chopped Steak with Steamed Broccoli,19,5
+2091,"Lite Grilled Salmon with Corn, Tomato & Avocado Relish",19,5
+2092,Lite Grilled Shrimp and Veggie Harpoons,19,5
+2093,Lite Grilled Top Sirloin with Broccoli,19,5
+2094,Lite Key West Basa,19,5
+2095,Lite Shrimp Skewer,19,10
+2096,Lite Side Veggie Skewers (2 skewers),19,3
+2097,Loaded Baked Potato,19,3
+2098,Loaded Potato Soup Bowl,19,14
+2099,Loaded Potato Soup Cup,19,14
+2100,Lunch 1/2 Calabash Wrap,19,12
+2101,Lunch Calabash Chicken,19,8
+2102,Lunch Calabash Combo,19,5
+2103,Lunch Fish and Chips,19,5
+2104,Lunch Grilled Cheese Sandwich,19,12
+2105,Lunch Grilled Shrimp and Veggie Harpoons,19,5
+2106,Lunch Half Calabash BLT,19,12
+2107,Lunch Half Club,19,12
+2108,Lunch Lite Grilled Chicken Salad,19,5
+2109,Lunch1/2 Popcorn Shrimp Wrap,19,12
+2110,Old Fashioned Cheeseburger,19,7
+2111,Parmesan Encrusted Basa,19,9
+2112,Parmesan Encrusted Chicken Pasta,19,5
+2113,Peanut Butter Pie,19,4
+2114,"Pint of Cinnamon Apples, Plating (8 ounces)",19,4
+2115,Pint of Garden Blend Rice (8 ounces),19,3
+2116,Pint of Pasta Salad (16 ounces),19,3
+2117,Pint of Pasta Salad (8 ounces),19,3
+2118,Pint of Sweet Vidalia Coleslaw (8 ounces),19,3
+2119,Popcorn Shrimp Salad,19,11
+2120,Popcorn Shrimp Wrap,19,12
+2121,Popcorn Shrimp Wrap,19,12
+2122,Poppy Seed Rolls (1 roll),19,3
+2123,Poppyseed Bread Pudding,19,4
+2124,Poppyseed Rolls (1 roll),19,3
+2125,Pot Roast,19,5
+2126,"Quart of Cinnamon Apples, Plating (16 ounces)",19,4
+2127,Quart of Garden Blend Rice (16 ounces),19,3
+2128,Quart of Sweet Vidalia Onion Coleslaw (16 ounces),19,3
+2129,Red Skinned Mashed Potatoes,19,3
+2130,Rib Tray (per serving),19,5
+2131,"Ribs, Shrimp and Chicken Trio",19,5
+2132,Salad for Classic Soup and Salad,19,5
+2133,Sauteed Spinach,19,3
+2134,Seabreeze Spinach Salad,19,11
+2135,Seabreeze Spinach Salad with Grilled Aloha Chicken,19,11
+2136,Seasoned Potato Wedge Tray (per wedge),19,3
+2137,Shrimp Po Boy,19,12
+2138,Side Caesar Salad,19,11
+2139,Side House Salad,19,11
+2140,Side Veggie Salad,19,11
+2141,Small Brownie and Cheesecake Combo Tray,19,4
+2142,Small Brownie Tray,19,4
+2143,Small Calabash and Wings Combo Tray,19,5
+2144,Small Salad Tray,19,11
+2145,Small Veggie Tray,19,3
+2146,Small Wing Party Tray,19,5
+2147,Small World Famous Calabash Chicken Tray,19,8
+2148,Smoked Turkey,19,3
+2149,Smothered Chopped Steak,19,5
+2150,Smothered Steak Topper,19,3
+2151,Southern Gold Ribs and Calabash Chicken,19,5
+2152,Southwestern Jalapeño Burger,19,7
+2153,Steak and Ribs,19,5
+2154,Steamed Broccoli,19,3
+2155,Stone Ground Cheese Grits,19,3
+2156,Strawberries and Cheesecake,19,4
+2157,Sugar Free Chocolate Mousse,19,4
+2158,Sweet Potato Fries,19,3
+2159,TCs Hard Cider Sampler,19,5
+2160,The Original FATZ Sampler,19,5
+2161,The Ultimate Chopped Chef Salad,19,11
+2162,Traditional Caesar Salad,19,11
+2163,Baked Spaghetti,20,5
+2164,Baked Spaghetti with Meatballs,20,5
+2165,"Breadstick, Dry (1 each)",20,3
+2166,Broccoli,20,3
+2167,Broccoli and Fire Roasted Tomatoes,20,3
+2168,Cheese Pizza,20,15
+2169,Cheese Stuffed Pizza Sticks,20,19
+2170,Cheesy Baked Ziti,20,5
+2171,Cheesy Meatball Baked Spaghetti,20,5
+2172,Cherry Almond Chicken,20,11
+2173,Chicken Broccoli Florentine,20,19
+2174,Chicken Broccoli Penne,20,5
+2175,Chicken Carbonara,20,5
+2176,Chicken Mushroom Alfredo Bake,20,5
+2177,Chicken Parmigano,20,5
+2178,Chicken Penne & Peppers,20,5
+2179,Chicken Pesto,20,12
+2180,Chicken Pesto,20,12
+2181,Chocolate Chunk Cookie,20,4
+2182,Chocolate Layer Cake,20,4
+2183,Citrus Apple & Roasted Chicken,20,11
+2184,Classic Sampler Platter,20,10
+2185,Club Italiano,20,12
+2186,Club Italiano,20,12
+2187,Country Caesar,20,11
+2188,Croutons (Pack),20,3
+2189,Fazoli’s Italian House,20,11
+2190,Fazoli’s® Original,20,12
+2191,Fazoli’s® Original,20,12
+2192,Fettuccine Alfredo,20,15
+2193,Fettuccine Alfredo,20,5
+2194,Fettuccine with Alfredo,20,5
+2195,Four Cheese Lasagna,20,5
+2196,Garlic Breadstick (1 each),20,3
+2197,Garlic Chicken Baked Spaghetti,20,5
+2198,Italian BLT,20,12
+2199,Italian BLT,20,12
+2200,Italian Lemon Ice – Medium,20,1
+2201,Italian Lemon Ice – Small,20,1
+2202,Italian Lemon Ice with Peach,20,1
+2203,Italian Lemon Ice with Strawberry,20,1
+2204,Italian Lemon Ice with Wildberry,20,1
+2205,Italian Sampler,20,10
+2206,Meat Lasagna,20,5
+2207,Meatballs,20,3
+2208,"Mushroom, Pepper & Onion Blend",20,15
+2209,NY Style Cheesecake with Strawberry Topping,20,4
+2210,Pasta Ranch Italia,20,11
+2211,Penne Romano,20,5
+2212,Penne with Creamy Basil Chicken,20,5
+2213,Pepperoni Classico,20,19
+2214,Pepperoni Classico,20,5
+2215,Pepperoni Pizza,20,15
+2216,Pepperoni Stuffed Pizza Sticks,20,19
+2217,Ravioli with Alfredo,20,5
+2218,Ravioli with Marinara,20,5
+2219,Ravioli with Meat Sauce,20,5
+2220,Ravioli with Meat Sauce,20,5
+2221,Roasted Chicken,20,5
+2222,Roasted Chicken Platter,20,10
+2223,Sausage & Peppers Baked Spaghetti,20,5
+2224,Side Chopped Salad,20,11
+2225,Sliced Italian Sausage,20,3
+2226,Smoked Turkey Basil,20,12
+2227,Smoked Turkey Breast,20,12
+2228,Spaghetti or Penne Marinara,20,5
+2229,Spaghetti with Alfredo,20,5
+2230,Spaghetti with Marinara,20,5
+2231,Spaghetti with Marinara Sauce,20,15
+2232,Spaghetti with Meat Sauce,20,15
+2233,Spaghetti with Meat Sauce,20,5
+2234,Spaghetti with Meatballs,20,5
+2235,"Spaghetti, Fettuccine, Penne or Bowtie with Alfredo",20,5
+2236,"Spaghetti, Fettuccine, Penne or Bowtie with Marinara",20,5
+2237,"Spaghetti, Fettuccine, Penne or Bowtie with Meat Sauce",20,5
+2238,Three Cheese Baked Ravioli,20,5
+2239,Toasted Ravioli (Six),20,3
+2240,Toasted Ravioli (Twelve),20,3
+2241,Triple Cheese,20,19
+2242,Triple Cheese,20,5
+2243,Turtle Cheesecake,20,4
+2244,Tuscan Chicken,20,19
+2245,Twice-Baked Lasagna,20,5
+2246,Ultimate Meatball Smasher,20,12
+2247,Ultimate Sampler,20,10
+2248,Vegetable Fresco,20,12
+2249,Vegetable Fresco,20,12
+2250,Whole Wheat Penne with Alfredo,20,5
+2251,Whole Wheat Penne with Marinara,20,5
+2252,Whole Wheat Penne with Meat Sauce,20,5
+2253,Cheeseburger,21,7
+2254,Grilled Cheese,21,12
+2255,Large Fries,21,6
+2256,Little Cheeseburger,21,7
+2257,One Serving of Fries approx half of regular order,21,6
+2258,Regular Fries,21,6
+2259,Veggie Sandwich,21,12
+2260,Apple Pie Turnover,22,4
+2261,Batter Coat French Fries,22,3
+2262,Buffalo Tender Sandwich,22,12
+2263,Chocolate Chip Cookie,22,4
+2264,Chunky Chicken Salad,22,11
+2265,Chunky Chicken Salad Sandwich,22,12
+2266,Classic Potato Salad,22,3
+2267,Coleslaw,22,3
+2268,Corn Nuggets,22,3
+2269,Corn on the Cob,22,3
+2270,Dirty Rice,22,3
+2271,Fresh Baked Yeast Roll,22,3
+2272,Fresh Brewed Iced Tea Sweetened,22,1
+2273,Fresh Brewed Iced Tea Unsweetened,22,1
+2274,Fried Breaded Catfish,22,9
+2275,Fried Chicken Breast,22,8
+2276,Fried Chicken Leg,22,8
+2277,Fried Chicken Tenders,22,8
+2278,Fried Chicken Thigh,22,8
+2279,Fried Chicken Wing,22,8
+2280,Fried Okra,22,3
+2281,Golden Roast Chicken Breast,22,8
+2282,Golden Roast Chicken Leg,22,8
+2283,Golden Roast Chicken Thigh,22,8
+2284,Golden Roast Chicken Wing,22,8
+2285,Golden Tender Sandwich,22,12
+2286,Green Beans,22,3
+2287,Mac & Cheese,22,3
+2288,Mashed Potatoes,22,3
+2289,Minute Maid Raspberry Lemonade,22,1
+2290,Mozzarella Sticks,22,3
+2291,Oatmeal Raisin Cookie,22,4
+2292,Southwest Style Pinto Beans,22,3
+2293,Tropical Fruit Salad,22,3
+2294,White Chocolate Macadamia Nut Cookie,22,4
+2295,White Cream Peppered Gravy,22,3
+2296,1/3 LB** Cheeseburger Thickburger®,23,7
+2297,1/3 LB** Frisco Thickburger®,23,7
+2298,1/3 LB** Low Carb Thickburger®,23,7
+2299,1/3 LB** Mushroom & Swiss Thickburger®,23,7
+2300,1/3 LB** Original Thickburger®,23,7
+2301,2/3 LB** Double Thickburger®,23,7
+2302,2/3 LB** Monster Thickburger®,23,7
+2303,3 Piece Hand Breaded Chicken Tenders™,23,8
+2304,5 Piece Hand Breaded Chicken Tenders™,23,8
+2305,Apple Turnover (without Cinnamon Sugar Topping),23,4
+2306,Big Roast Beef™,23,12
+2307,Biscuit ‘N’ Gravy™,23,17
+2308,Charbroiled BBQ Chicken Sandwich,23,12
+2309,Charbroiled Chicken Club™ Sandwich,23,12
+2310,Chicken Fillet Biscuit,23,17
+2311,Chocolate Chip Cookie,23,4
+2312,Chocolate Chip Cookie – Fresh Baked,23,4
+2313,Cinnamon ‘N’ Raisin™ Biscuit,23,17
+2314,Cole Slaw (small = 1 serving),23,3
+2315,Country Fried Steak Biscuit,23,17
+2316,Crispy Curls™ – Large,23,6
+2317,Crispy Curls™ – Medium,23,6
+2318,Crispy Curls™ – Small,23,6
+2319,Double Cheeseburger,23,7
+2320,Fish Supreme Sandwich,23,12
+2321,Fried Chicken Breast,23,8
+2322,Fried Chicken Leg,23,8
+2323,Fried Chicken Thigh,23,8
+2324,Fried Chicken Wing,23,8
+2325,Frisco Breakfast Sandwich®,23,17
+2326,Grits,23,17
+2327,Hand Breaded Chicken Fillet™ Sandwich,23,12
+2328,Hand-Scooped Ice Cream Malt™†,23,4
+2329,Hand-Scooped Ice Cream Shake™†,23,4
+2330,Hash Rounds® – Large,23,17
+2331,Hash Rounds® – Medium,23,17
+2332,Hash Rounds® – Small,23,17
+2333,Jelly Biscuit,23,17
+2334,Kids Meal – Cheeseburger,23,15
+2335,Kids Meal – Chicken Tenders,23,15
+2336,Little Thick Cheeseburger,23,7
+2337,Little Thickburger®,23,7
+2338,Loaded Breakfast Burrito,23,17
+2339,Loaded Omelet Biscuit,23,17
+2340,Low Carb Breakfast Bowl®,23,17
+2341,Low Carb Charbroiled Chicken Club™ Sandwich,23,12
+2342,Made from Scratch Biscuit™,23,17
+2343,Mashed Potatoes (small = 1 serving),23,3
+2344,Monster Biscuit®,23,17
+2345,Natural-Cut French Fries – Kids,23,15
+2346,Natural-Cut French Fries – Large,23,6
+2347,Natural-Cut French Fries – Medium,23,6
+2348,Natural-Cut French Fries – Small,23,6
+2349,Original Turkey Burger,23,7
+2350,Pancakes* (3),23,17
+2351,Peach Cobbler (small),23,4
+2352,Regular Roast Beef Sandwich,23,12
+2353,Sausage & Egg Biscuit,23,17
+2354,Sausage Biscuit,23,17
+2355,Side Salad (no dressing),23,3
+2356,Single Scoop Ice Cream Bowl†,23,4
+2357,Single Scoop Ice Cream Cone†,23,4
+2358,Small Cheeseburger,23,7
+2359,Smoked Sausage Biscuit,23,17
+2360,Spicy Chicken Sandwich,23,12
+2361,The Six Dollar Thickburger®,23,7
+2362,(3) Chocolate Chip Pancakes,24,17
+2363,(3) CINN-A-STACK® Pancakes,24,17
+2364,(3) Cinnamon Apple Pancakes,24,17
+2365,(3) Double Blueberry Pancakes,24,17
+2366,(3) Harvest Grain ‘N Nut® Pancakes,24,17
+2367,(3) New York Cheesecake Pancakes,24,17
+2368,(3) Original Buttermilk Pancakes,24,17
+2369,(3) Strawberry Banana Pancakes,24,17
+2370,(3) Strawberry Pancakes,24,17
+2371,1/2 Double BLT Sandwich,24,12
+2372,1/2 Pot Roast Melt Sandwich,24,12
+2373,1/2 Turkey Sandwich,24,12
+2374,Add (1) Portuguese Sausage Link,24,17
+2375,Add (2) Smoked Sausage Links,24,17
+2376,Add (3) Buttermilk Pancakes,24,17
+2377,Add (4) Turkey Sausage Links,24,17
+2378,Add Blueberry Compote w/Whipped Topping,24,15
+2379,Add Cinnamon Apple Compote w/Whipped Topping,24,15
+2380,Add Corn Tortillas,24,17
+2381,Add Corned Beef Hash,24,17
+2382,Add Country/Chicken Fried Steak & Country Gravy,24,17
+2383,Add Country/Chicken Fried Steak & Sausage Gravy,24,17
+2384,Add Flour Tortillas,24,17
+2385,Add Hot Fudge,24,4
+2386,Add Hot Fudge,24,15
+2387,"Add Ice Cream, Chocolate, (1) scoop",24,4
+2388,"Add Ice Cream, Chocolate, (1) scoop",24,4
+2389,"Add Ice Cream, Strawberry, (1) scoop",24,4
+2390,"Add Ice Cream, Strawberry, (1) scoop",24,4
+2391,"Add Ice Cream, Vanilla, (1) scoop",24,4
+2392,"Add Ice Cream, Vanilla, (1) scoop",24,4
+2393,Add Side of Scrapple,24,17
+2394,Add Side of Spam®,24,17
+2395,Add Strawberry Topping,24,4
+2396,Add Strawberry Topping,24,15
+2397,Add Strawberry Topping w/Whipped Topping,24,15
+2398,Add Top Sirloin Steak,24,17
+2399,Add Top Sirloin Steak,24,17
+2400,Appetizer Sampler,24,10
+2401,"Apple Juice, 10 fl oz",24,1
+2402,"Apple Juice, 12 fl oz (Kid’s Cup)",24,1
+2403,"Apple Juice, 16 fl oz",24,1
+2404,"Apple Juice, Carafe",24,1
+2405,Baby Cakes,24,15
+2406,Baked Potato,24,3
+2407,Belgian Waffle Combo,24,17
+2408,Belgian Waffle w/Butter,24,17
+2409,"Belgian Waffle, Plain",24,17
+2410,Big Country Breakfast,24,17
+2411,Big Country Breakfast,24,17
+2412,Big Steak Omelette,24,17
+2413,Big Two-Egg Breakfast,24,17
+2414,Biscuits & Gravy Combo w/Country Gravy,24,17
+2415,Biscuits & Gravy Combo w/Sausage Gravy,24,17
+2416,Breakfast Sampler,24,17
+2417,Broccoli Cheese Soup,24,14
+2418,Broccoli Cheese Soup,24,14
+2419,Broccoli Cheese Soup,24,14
+2420,Broccoli Cheese Soup,24,14
+2421,Cheese Blintzes,24,17
+2422,Cheese Omelette,24,15
+2423,Cheeseburger,24,15
+2424,Cheesy Western Omelette with Fresh Fruit,24,17
+2425,Cheesy Western Omelette with Pancakes,24,17
+2426,Chicken & Spinach Salad,24,11
+2427,Chicken & Waffles,24,5
+2428,Chicken Clubhouse Super Stacker,24,12
+2429,Chicken Fajita Omelette,24,17
+2430,Chicken Fajita Quesadilla,24,10
+2431,Chicken Fajita Salad,24,11
+2432,Chicken Fajita Salad w/Avocado,24,11
+2433,Chicken Florentine Crepes,24,17
+2434,Chicken Fried Chicken & Eggs w/Country Gravy,24,17
+2435,Chicken Fried Chicken & Eggs w/Sausage Gravy,24,17
+2436,Chicken Fried Chicken w/Country Gravy,24,5
+2437,Chicken Fried Chicken w/Sausage Gravy,24,5
+2438,Chicken Noodle Soup,24,14
+2439,Chicken Noodle Soup,24,14
+2440,Chicken Noodle Soup,24,14
+2441,Chicken Noodle Soup,24,14
+2442,Chicken Tortilla Soup,24,14
+2443,Chicken Tortilla Soup,24,14
+2444,Chicken Tortilla Soup,24,14
+2445,Chicken Tortilla Soup,24,14
+2446,Chocolate Chip Pancakes (4),24,17
+2447,Chorizo & Eggs,24,17
+2448,CINN-A-STACK® French Toast,24,17
+2449,CINN-A-STACK® Pancakes (4),24,17
+2450,Cinnamon Swirl French Toast Combo,24,17
+2451,Classic Skillets,24,17
+2452,"Coffee, Cup",24,25
+2453,"Coffee, Full Carafe",24,25
+2454,Colorado Omelette,24,17
+2455,Corned Beef Hash & Cheese Omelette,24,17
+2456,Corned Beef Hash & Eggs,24,17
+2457,Country Omelette,24,17
+2458,Country/Chicken Fried Steak & Eggs w/Country Gravy,24,17
+2459,Country/Chicken Fried Steak & Eggs w/Sausage Gravy,24,17
+2460,Country/Chicken Fried Steak Dinner w/Country Gravy,24,5
+2461,Country/Chicken Fried Steak Dinner w/Sausage Gravy,24,5
+2462,"Cranberry Juice, 10 fl oz",24,1
+2463,"Cranberry Juice, 12 fl oz (Kid’s Cup)",24,1
+2464,"Cranberry Juice, 16 fl oz",24,1
+2465,"Cranberry Juice, Carafe",24,1
+2466,"Create Your Own Omelette, Plain",24,17
+2467,"Create Your Own Omelette, Plain w/Egg Substitute",24,17
+2468,"Create Your Own Viva La French Toast Combo, Blueberry",24,17
+2469,"Create Your Own Viva La French Toast Combo, CINN-A-STACK®",24,17
+2470,"Create Your Own Viva La French Toast Combo, Cinnamon Apple",24,17
+2471,"Create Your Own Viva La French Toast Combo, Original",24,17
+2472,"Create Your Own Viva La French Toast Combo, Strawberry",24,17
+2473,"Create Your Own Viva La French Toast Combo, Strawberry Banana",24,17
+2474,"Create Your Own Viva La French Toast Combo, Whole Wheat",24,17
+2475,Create-A-Face Pancake,24,15
+2476,Crispy Chicken Salad w/Fried Chicken,24,11
+2477,Crispy Chicken Salad w/Grilled Chicken,24,11
+2478,Crispy Chicken Strips,24,5
+2479,Crispy Chicken Strips,24,15
+2480,Crispy Chicken Strips & Fries,24,10
+2481,Crispy Strawberry Banana Cheesecake,24,4
+2482,Dill Pickle Spear,24,3
+2483,Double BLT,24,12
+2484,Double Blueberry Pancakes (4),24,17
+2485,Eggs Benedict,24,17
+2486,"Flavored Coffee, French Vanilla",24,25
+2487,"Flavored Coffee, Swiss Mocha",24,25
+2488,French Onion Pot Roast,24,5
+2489,French Toast,24,17
+2490,French Toast,24,15
+2491,Fruit Crepe w/Blueberry Compote,24,4
+2492,Fruit Crepe w/Cinnamon Apple Compote,24,4
+2493,Fruit Crepe w/Strawberry Topping,24,4
+2494,Funny Face® (Buttermilk),24,15
+2495,Funny Face® (Chocolate),24,15
+2496,Garden Omelette,24,17
+2497,Garden Stuffed Crepes,24,17
+2498,Garlic Bread,24,3
+2499,German Crepes,24,17
+2500,"Grapefruit Juice, 10 fl oz",24,1
+2501,"Grapefruit Juice, 12 fl oz (Kid’s Cup)",24,1
+2502,"Grapefruit Juice, 16 fl oz",24,1
+2503,"Grapefruit Juice, Carafe",24,1
+2504,Grilled Cheese Sandwich,24,15
+2505,Grilled Chicken Caesar Salad,24,11
+2506,"Grilled Chicken Caesar Salad, No Chicken",24,11
+2507,Grilled Liver,24,5
+2508,Grilled Tilapia Hollandaise,24,5
+2509,Harvest Grain ‘N Nut® Pancakes (4),24,17
+2510,Hash Brown Crusted Chicken with Country Gravy,24,17
+2511,Hash Brown Crusted Chicken with Sausage Gravy,24,17
+2512,Herbal Tea,24,1
+2513,Hot Chocolate,24,1
+2514,Hot Tea,24,1
+2515,House Salad,24,11
+2516,House Salad,24,11
+2517,House Salad,24,11
+2518,House Salad,24,11
+2519,Huevos Rancheros,24,17
+2520,"Ice Cream Sundae (Ice Cream, Whipped Topping & Cherry)",24,4
+2521,"Ice Cream, Chocolate, (1) scoop",24,4
+2522,"Ice Cream, Strawberry, (1) scoop",24,4
+2523,"Ice Cream, Vanilla, (1) scoop",24,4
+2524,"Iced Coffee, Mocha",24,25
+2525,"Iced Coffee, Original",24,25
+2526,"Iced Coffee, Vanilla",24,25
+2527,"Iced Tea, 10 fl oz",24,1
+2528,"Iced Tea, 12 fl oz (Kid’s Cup)",24,1
+2529,"Iced Tea, 16 fl oz",24,1
+2530,"International Crepe Passport, Fresh Fruit",24,17
+2531,"International Crepe Passport, German",24,17
+2532,"International Crepe Passport, Nutella®",24,17
+2533,"International Crepe Passport, Strawberry Banana Danish",24,17
+2534,Cheeseburger – Protein® Style (Bun replaced with Lettuce),25,7
+2535,Cheeseburger w/Mustard & Ketchup Instead of Spread,25,7
+2536,Cheeseburger w/Onion,25,7
+2537,Chocolate Shake,25,2
+2538,Double-Double® – Protein® Style (Bun replaced with Lettuce),25,7
+2539,Double-Double® w/Mustard & Ketchup Instead of Spread,25,7
+2540,Double-Double® w/Onion,25,7
+2541,French Fries,25,6
+2542,Strawberry Shake,25,2
+2543,Vanilla Shake,25,2
+2544,Beef Taco (1 Taco),26,3
+2545,Beef Taco (2 Tacos),26,26
+2546,Big Cheeseburger,26,7
+2547,Big Cheeseburger,26,7
+2548,Breakfast Jack®,26,17
+2549,Breakfast Jack®,26,15
+2550,Breakfast Pita Pocket,26,17
+2551,Chicken Club Salad w/ Crispy Chicken Strips**,26,11
+2552,Chicken Club Salad w/ Grilled Chicken Strips**,26,11
+2553,Chicken Fajita Pita made w/ Whole Grain (no salsa),26,8
+2554,Chicken Fajita Pita made w/ Whole Grain (no salsa),26,8
+2555,Chicken Fajita Pita made w/ Whole Grain (w/ salsa),26,8
+2556,Chicken Sandwich,26,8
+2557,Chicken Sandwich,26,12
+2558,"Chicken Strips, Crispy 2 pc.",26,15
+2559,"Chicken Strips, Crispy 4 pc.",26,8
+2560,"Chicken Strips, Grilled 2 pc.",26,15
+2561,"Chicken Strips, Grilled 4 pc.",26,8
+2562,Chicken Teriyaki Bowl,26,8
+2563,Chicken Teriyaki Bowl,26,8
+2564,Chiquita® Apple Bites with Caramel,26,4
+2565,Chiquita® Apple Bites with Caramel,26,3
+2566,Chiquita® Apple Bites with Caramel,26,15
+2567,Chocolate Lowfat Milk Chug 1%,26,1
+2568,Chocolate Overload™ Cake,26,4
+2569,Creamy Southwest Dressing,26,11
+2570,Egg Roll 1 pc.,26,3
+2571,Egg Roll 3 pc.,26,3
+2572,Extreme Sausage® Sandwich,26,17
+2573,Fish and Chips (Seasonal) w/ large French Fries,26,9
+2574,Fish and Chips (Seasonal) w/ medium French Fries,26,9
+2575,Fish and Chips (Seasonal) w/ small French Fries,26,9
+2576,Fish Sandwich (Seasonal),26,12
+2577,"Flavored Iced Tea, Mango 24 fl oz.",26,1
+2578,"Flavored Iced Tea, Peach 24 fl oz.",26,1
+2579,"Flavored Iced Tea, Raspberry 24 fl oz.",26,1
+2580,French Fries (Kid’s),26,15
+2581,"French Fries, large",26,6
+2582,"French Fries, medium",26,6
+2583,"French Fries, small",26,6
+2584,French Toast Sticks 2 pc.,26,15
+2585,French Toast Sticks 4 pc.,26,17
+2586,Gourmet Seasoned Croutons,26,11
+2587,Grilled Breakfast Sandwich,26,17
+2588,Grilled Cheese Sandwich,26,15
+2589,Grilled Cheese Sandwich,26,12
+2590,Grilled Chicken Salad**,26,11
+2591,Grilled Chicken Salad**,26,11
+2592,Grilled Chicken Strips w/ Teriyaki Dipping Sauce,26,8
+2593,"Grilled Sandwich, Deli Trio",26,12
+2594,Hashbrown Sticks 5 pc.,26,17
+2595,Hearty Breakfast Bowl,26,17
+2596,Homestyle Ranch Chicken Club,26,12
+2597,"Iced Coffee, Caramel (regular) 24 fl oz.",26,25
+2598,"Iced Coffee, Original (regular) 24 fl oz.",26,25
+2599,"Iced Coffee, Vanilla (regular) 24 fl oz.",26,25
+2600,Jack’s Spicy Chicken®,26,12
+2601,Jack’s Spicy Chicken® w/ Cheese,26,12
+2602,Jumbo Jack®,26,7
+2603,Jumbo Jack®,26,7
+2604,Jumbo Jack® with Cheese,26,7
+2605,Jumbo Jack® with Cheese,26,7
+2606,Kona Classic® Coffee (decaf) 12 fl oz.,26,25
+2607,Kona Classic® Coffee (decaf) 16 fl oz.,26,25
+2608,Kona Classic® Coffee (regular) 12 fl oz.,26,25
+2609,Kona Classic® Coffee (regular) 16 fl oz.,26,25
+2610,Lite Ranch Dressing,26,11
+2611,Low-Fat Balsamic Vinaigrette,26,11
+2612,Meaty Breakfast Burrito (no salsa),26,17
+2613,Meaty Breakfast Burrito (w/ salsa),26,17
+2614,Mini Churros 10 pc.,26,4
+2615,Mini Churros 5 pc.,26,4
+2616,Mozzarella Cheese Sticks 3 pc.,26,3
+2617,Mozzarella Cheese Sticks 6 pc.,26,3
+2618,New York Style Cheesecake,26,4
+2619,Onion Rings,26,3
+2620,Reduced Fat Milk Chug 2%*,26,1
+2621,Sausage Biscuit,26,17
+2622,Sausage Breakfast Jack®,26,17
+2623,Sausage Croissant,26,17
+2624,"Sausage, Egg & Cheese Biscuit",26,17
+2625,Seasoned Curly Fries (Kid’s),26,15
+2626,"Seasoned Curly Fries, large",26,6
+2627,"Seasoned Curly Fries, medium",26,6
+2628,"Seasoned Curly Fries, small",26,6
+2629,"Shake, Chocolate w/ Whipped Topping 16 oz.",26,2
+2630,"Shake, Chocolate w/ Whipped Topping 24 oz.",26,2
+2631,"Shake, Oreo® Cookie w/ Whipped Topping 16 oz.",26,2
+2632,"Shake, Oreo® Cookie w/ Whipped Topping 24 oz.",26,2
+2633,"Shake, Strawberry w/ Whipped Topping 16 oz.",26,2
+2634,"Shake, Strawberry w/ Whipped Topping 24 oz.",26,2
+2635,"Shake, Vanilla w/ Whipped Topping 16 oz.",26,2
+2636,"Shake, Vanilla w/ Whipped Topping 24 oz.",26,2
+2637,Side Salad,26,11
+2638,Side Salad**,26,11
+2639,Side Salad**,26,11
+2640,Sirloin Cheeseburger,26,7
+2641,Sirloin Swiss & Grilled Onion Burger,26,7
+2642,"Smoothie, Mango 16 fl oz.",26,2
+2643,"Smoothie, Mango 16 oz.",26,2
+2644,"Smoothie, Mango 24 fl oz.",26,2
+2645,"Smoothie, Strawberry 16 fl oz.",26,2
+2646,"Smoothie, Strawberry 16 oz.",26,2
+2647,"Smoothie, Strawberry 24 fl oz.",26,2
+2648,"Smoothie, Strawberry Banana 16 fl oz.",26,2
+2649,"Smoothie, Strawberry Banana 16 oz.",26,2
+2650,"Smoothie, Strawberry Banana 24 fl oz.",26,2
+2651,Sourdough Breakfast Sandwich,26,17
+2652,Sourdough Grilled Chicken Club,26,12
+2653,Sourdough Jack®,26,7
+2654,Sourdough Steak Melt,26,7
+2655,Sourdough Ultimate Cheeseburger™,26,7
+2656,Southwest Chicken Salad w/ Crispy Chicken Strips**,26,11
+2657,Southwest Chicken Salad w/ Grilled Chicken Strips**,26,11
+2658,Spicy Corn Sticks,26,11
+2659,Steak & Egg Burrito (no salsa),26,17
+2660,Steak & Egg Burrito (w/ salsa),26,17
+2661,Stuffed Jalapeños 3 pc.,26,3
+2662,Stuffed Jalapeños 7 pc.,26,3
+2663,Supreme Croissant,26,17
+2664,Ultimate Breakfast Sandwich,26,17
+2665,Ultimate Cheeseburger™,26,7
+2666,#1 Pepe®,27,12
+2667,#10 Hunter’s Club®,27,12
+2668,#11 Country Club®,27,12
+2669,#12 Beach Club®,27,12
+2670,#13 Gourmet Veggie Club®,27,12
+2671,#14 Bootlegger Club®,27,12
+2672,#15 Club Tuna®,27,12
+2673,#16 Club Lulu®,27,12
+2674,#2 Big John®,27,12
+2675,#3 Totally Tuna®,27,12
+2676,#4 Turkey Tom®,27,12
+2677,#4 Turkey Tom®,27,12
+2678,#5 Vito®,27,12
+2679,#6 Vegetarian,27,12
+2680,#8 Billy Club®,27,12
+2681,#9 Italian Night Club®,27,12
+2682,BBQ Jimmy Chips,27,3
+2683,Chocolate Chunk Cookie,27,3
+2684,Hunter’s Club® Unwich,27,12
+2685,Iced Tea,27,1
+2686,Iced Tea,27,1
+2687,J.J.B.L.T.®,27,12
+2688,Jalapeño Chips,27,3
+2689,Lemonade,27,1
+2690,Lemonade,27,1
+2691,Light Lemonade,27,1
+2692,Light Lemonade,27,1
+2693,"Pickle, Spear",27,3
+2694,"Pickle, Whole",27,3
+2695,Raisin Oatmeal Cookie,27,3
+2696,Raspberry Iced Tea,27,1
+2697,Raspberry Iced Tea,27,1
+2698,Regular Chips,27,3
+2699,Sea Salt & Vinegar Chips,27,3
+2700,Slim 2 Roast Beef,27,12
+2701,Slim 3 Tuna salad,27,12
+2702,Slim 4 Turkey breast,27,12
+2703,Slim 4 Turkey breast,27,12
+2704,"Slim 5 Salami, capicola, cheese",27,12
+2705,Slim 6 Double provolone,27,12
+2706,The J.J. Gargantuan®,27,12
+2707,The J.J. Gargantuan® Unwich,27,12
+2708,Thinny Chips,27,3
+2709,Add Coconut Shrimp,28,3
+2710,Add Fried Shrimp,28,3
+2711,Add Snow Crab,28,3
+2712,Apple Sauce,28,15
+2713,Aruba Chicken Salad,28,11
+2714,Aruba Shrimp Salad,28,11
+2715,Bean Town Bake,28,9
+2716,Big Cheese Cheesecake,28,4
+2717,Big Shrimp Platter,28,9
+2718,Blackened Mahi Sandwich,28,12
+2719,Blackened Tilapia,28,9
+2720,Broccoli Florets,28,3
+2721,Bucket of Shrimp,28,10
+2722,Bucket of Shrimp,28,10
+2723,Caesar Salad,28,11
+2724,Caesar Salad – Chicken,28,11
+2725,Caesar Salad – Shrimp,28,11
+2726,Caesar Side Salad,28,11
+2727,"Calamari, Fried",28,10
+2728,Captain’s Catch,28,15
+2729,Caribbean Feast,28,9
+2730,Celery & Ranch,28,15
+2731,Cheesy Mac,28,15
+2732,Cheesy New Potatoes,28,3
+2733,Chicken Chipotle Caesar,28,11
+2734,Chicken Club Sandwich – Blackened,28,12
+2735,Chicken Club Sandwich – Grilled,28,12
+2736,Chicken Dippers,28,15
+2737,Chocolate Shack Attack,28,4
+2738,Chocolate Sundae,28,15
+2739,Clam Chowder,28,10
+2740,Classic Cobb Salad – Chicken,28,11
+2741,Classic Cobb Salad – Shrimp,28,11
+2742,Classic Cobb Salad – Snow,28,11
+2743,Classic Sampler,28,10
+2744,Coconut Shrimp,28,9
+2745,Coleslaw,28,3
+2746,Corn on the Cob,28,15
+2747,Crab Cake Chipotle Caesar,28,11
+2748,Crab Cake Dinner,28,5
+2749,Crab Cake Sandwich,28,12
+2750,Crab Daddy Feast – excluding side of butter,28,9
+2751,Crab Nachos,28,10
+2752,Crab Stuffed Mushrooms,28,10
+2753,Crab Stuffed Shrimp,28,9
+2754,Crabby Apple Crumble,28,4
+2755,Crawfish Half ‘n Half,28,5
+2756,Crazy Good Crab Dip,28,10
+2757,Crispy Shrimp,28,9
+2758,Crunchy Catfish,28,9
+2759,Diablo Mussels,28,10
+2760,Dipping Butter,28,9
+2761,Dirty Rice,28,3
+2762,Double Dip,28,10
+2763,Dungeness Crab – excluding side of butter,28,9
+2764,Ear of Corn,28,3
+2765,East Coast Platter,28,9
+2766,Fire-Grilled,28,9
+2767,Fish & Chips,28,9
+2768,Fish & Shrimp,28,9
+2769,Fish Fingers,28,15
+2770,Fisherman’s Platter,28,9
+2771,French Fries,28,3
+2772,French Fries,28,15
+2773,Fried Oysters,28,10
+2774,Garlic Herb,28,9
+2775,Garlicky Mussels,28,10
+2776,Get Stuffed Snapper,28,9
+2777,Great Balls of Fire,28,10
+2778,Grilled Malibu Shrimp,28,9
+2779,Grilled Sunset Salmon,28,9
+2780,Homestyle Chicken Tenders,28,5
+2781,House Side Salad,28,11
+2782,Hush Puppies,28,3
+2783,Joe’s Classic Steampot,28,9
+2784,Joe’s Classic Steampot For 2 (Nutritionals for 1 serving),28,9
+2785,Joe’s Famous BBQ,28,9
+2786,Joe’s Steak Deal,28,5
+2787,Key Lime Wave,28,4
+2788,Kid’s Snow Crab,28,15
+2789,King Crab – excluding side of butter,28,9
+2790,Lobster Daddy Feast – excluding side of butter,28,9
+2791,Maui Mahi,28,9
+2792,Mini Beach Burgers,28,15
+2793,Mini Steampot,28,15
+2794,Mozzarella Sticks,28,10
+2795,New England Clam Chowder,28,10
+2796,Old Bay Steampot,28,9
+2797,Onion Strings,28,3
+2798,Paint a Crab,28,15
+2799,Pan Fried Cheesy Chicken,28,5
+2800,Pasta-laya,28,5
+2801,Pizza,28,15
+2802,Popcorn Shrimp,28,9
+2803,Ragin’ Cajun,28,9
+2804,Ribeye,28,5
+2805,Rice,28,15
+2806,Rockin Popcorn Shrimp,28,15
+2807,Salmon Orleans,28,9
+2808,Samuel Adams Steampot,28,9
+2809,Sea Turtle Sundae,28,4
+2810,Seafood Fun-Do,28,10
+2811,Seaside Platter,28,9
+2812,Shrimp Pasta Alfredo,28,5
+2813,Shrimp Trio,28,9
+2814,Shrimply Grilled Shrimp,28,15
+2815,Skillet Paella,28,5
+2816,Snapper Pontchartrain,28,9
+2817,Snow Crab – excluding side of butter,28,9
+2818,Spicy Boil,28,9
+2819,Steak & Malibu Shrimp,28,5
+2820,Strawberry Sundae,28,15
+2821,Sunset Fire-Grilled Steampot,28,9
+2822,Sunset Fire-Grilled Steampot For 2 (Nutritionals for 1 serving),28,9
+2823,Surf ‘n Turf Burger,28,7
+2824,The Big Hook Up,28,9
+2825,The Diablo Steampot,28,9
+2826,The KJ Steampot,28,9
+2827,The Orleans,28,9
+2828,Veggies,28,15
+2829,Apple Turnover (1),29,4
+2830,BBQ Baked Beans,29,3
+2831,Biscuit,29,3
+2832,Caesar Side Salad without Dressing & Croutons,29,11
+2833,Café Valley Bakery® Chocolate Chip Cake (6 slices per cake),29,4
+2834,Chicken Pot Pie,29,8
+2835,Cole Slaw,29,3
+2836,Corn on the Cob (3″),29,3
+2837,Corn on the Cob (5.5″),29,3
+2838,Country Fried Steak with Peppered White Gravy,29,5
+2839,Country Fried Steak without Peppered White Gravy,29,5
+2840,Crispy Chicken BLT Salad without Dressing,29,11
+2841,Crispy Chicken Caesar Salad without Dressing & Croutons,29,11
+2842,Crispy Strips (2),29,8
+2843,Crispy Strips (3),29,8
+2844,Crispy Twister®,29,12
+2845,Crispy Twister® without Sauce,29,12
+2846,Double Down with OR Filet,29,12
+2847,Doublicious with OR Filet,29,12
+2848,EC Chicken- Breast,29,8
+2849,EC Chicken- Drumstick,29,8
+2850,EC Chicken- Thigh,29,8
+2851,EC Chicken- Whole Wing,29,8
+2852,EC Drumstick Value Box,29,5
+2853,EC Thigh Value Box,29,5
+2854,Fiery Buffalo Hot Wings® (1),29,21
+2855,Fiery Buffalo Hot Wings® Value Box,29,5
+2856,Green Beans,29,3
+2857,Grilled Chicken- Breast,29,8
+2858,Grilled Chicken- Drumstick,29,8
+2859,Grilled Chicken- Thigh,29,8
+2860,Grilled Chicken- Whole Wing,29,8
+2861,Grilled Drumstick Value Box,29,5
+2862,Grilled Thigh Value Box,29,5
+2863,HBBQ Hot Wings® (1),29,21
+2864,HBBQ Hot Wings® Value Box,29,5
+2865,Heinz Buttermilk Ranch Dressing (1),29,11
+2866,Hidden Valley® The Original Ranch® Fat Free Dressing (1),29,11
+2867,Honey BBQ Sandwich,29,12
+2868,Hot Wings® (1),29,21
+2869,Hot Wings® Value Box,29,5
+2870,House Side Salad without Dressing,29,11
+2871,Jalapeno Peppers,29,3
+2872,KFC Famous Bowls®-Mashed Potato with Gravy,29,5
+2873,KFC Snacker® with Crispy Strip,29,12
+2874,KFC Snacker® with Crispy Strip without Sauce,29,12
+2875,"KFC Snacker® with Crispy Strip, Buffalo",29,12
+2876,"KFC Snacker® with Crispy Strip, Ultimate Cheese",29,12
+2877,"KFC Snacker®, Honey BBQ",29,12
+2878,KFC® Cornbread Muffin,29,3
+2879,KFC® Creamy Parmesan Caesar Dressing (1),29,11
+2880,KFC® Gizzards,29,3
+2881,KFC® Livers,29,3
+2882,KFC® OR Filet,29,8
+2883,Lil’ Bucket™ Chocolate Crème Parfait Cup,29,4
+2884,Lil’ Bucket™ Lemon Crème Parfait Cup,29,4
+2885,Lil’ Bucket™ Strawberry Shortcake Parfait Cup,29,4
+2886,Macaroni and Cheese,29,3
+2887,Macaroni Salad,29,3
+2888,Marzetti Light Italian Dressing (1),29,11
+2889,Mashed Potatoes with Gravy,29,3
+2890,Mashed Potatoes without Gravy,29,3
+2891,OR Chicken- Breast,29,8
+2892,OR Chicken- Drumstick,29,8
+2893,OR Chicken- Thigh,29,8
+2894,OR Chicken- Whole Wing,29,8
+2895,OR Chicken-Breast without skin or breading,29,8
+2896,OR Drumstick Value Box,29,5
+2897,OR Thigh Value Box,29,5
+2898,Oreo® Cookies and Crème Pie Slice,29,4
+2899,Parmesan Garlic Croutons Pouch (1),29,11
+2900,Popcorn Chicken Value Box,29,5
+2901,Popcorn Chicken-Individual,29,8
+2902,Popcorn Chicken-Kids,29,8
+2903,Popcorn Chicken-Large,29,8
+2904,Potato Salad,29,3
+2905,Potato Wedges,29,3
+2906,Reese’s® Peanut Butter Pie Slice,29,4
+2907,Sargento® Light String Cheese,29,3
+2908,Snack-Size Bowl,29,5
+2909,Spicy Crispy- Breast,29,8
+2910,Spicy Crispy- Drumstick,29,8
+2911,Spicy Crispy- Thigh,29,8
+2912,Spicy Crispy- Whole Wing,29,8
+2913,Sweet Kernel Corn,29,3
+2914,Sweet Life® Chocolate Chip Cookie,29,4
+2915,Sweet Life® Oatmeal Raisin Cookie,29,4
+2916,Angus Deluxe,30,7
+2917,Angus Deluxe Snack Wrap,30,16
+2918,Angus Mushroom & Swiss,30,7
+2919,Angus Mushroom & Swiss Snack Wrap,30,16
+2920,Apple Dippers with Low Fat Caramel Dip,30,4
+2921,Baked Hot Apple Pie,30,4
+2922,Big Breakfast with Hotcakes,30,17
+2923,Big Breakfast with Hotcakes,30,17
+2924,Big Breakfast®,30,17
+2925,Big Breakfast®,30,17
+2926,Big Mac®,30,7
+2927,Big N’ Tasty®,30,7
+2928,Big N’ Tasty® with Cheese,30,7
+2929,Cappuccino,30,25
+2930,Cappuccino,30,25
+2931,Cappuccino,30,25
+2932,Cappuccino with Sugar Free Vanilla Syrup,30,25
+2933,Cappuccino with Sugar Free Vanilla Syrup,30,25
+2934,Cappuccino with Sugar Free Vanilla Syrup,30,25
+2935,Caramel Cappuccino,30,25
+2936,Caramel Cappuccino,30,25
+2937,Caramel Cappuccino,30,25
+2938,Caramel Latte,30,25
+2939,Caramel Latte,30,25
+2940,Caramel Latte,30,25
+2941,Caramel Mocha,30,25
+2942,Caramel Mocha,30,25
+2943,Caramel Mocha,30,25
+2944,Cheeseburger,30,7
+2945,Chicken McNuggets®,30,31
+2946,Chicken McNuggets®,30,31
+2947,Chicken McNuggets®,30,31
+2948,Chicken Selects® Premium Breast Strips,30,8
+2949,Chicken Selects® Premium Breast Strips,30,8
+2950,Chipotle BBQ Snack Wrap® (Crispy),30,16
+2951,Chipotle BBQ Snack Wrap® (Grilled),30,16
+2952,Chocolate Chip Cookie,30,4
+2953,Chocolate McCafe® Shake,30,2
+2954,Chocolate McCafe® Shake,30,2
+2955,Chocolate McCafe® Shake,30,2
+2956,Chocolate Triple Thick® Shake,30,2
+2957,Chocolate Triple Thick® Shake,30,2
+2958,Chocolate Triple Thick® Shake,30,2
+2959,Chocolate Triple Thick® Shake,30,2
+2960,Cinnamon Melts,30,4
+2961,Coffee,30,25
+2962,Coffee,30,25
+2963,Double Cheeseburger,30,7
+2964,Double Quarter Pounder® with Cheese,30,7
+2965,Egg McMuffin®,30,23
+2966,English Muffin,30,23
+2967,Filet-O-Fish®,30,12
+2968,Frappe Caramel,30,25
+2969,Frappe Caramel,30,25
+2970,Frappe Caramel,30,25
+2971,Frappe Mocha,30,25
+2972,Frappe Mocha,30,25
+2973,Frappe Mocha,30,25
+2974,Fruit & Maple Oatmeal,30,23
+2975,Fruit & Maple Oatmeal without Brown Sugar,30,23
+2976,Fruit ‘n Yogurt Parfait,30,4
+2977,Hash Brown,30,17
+2978,Hazelnut Cappuccino,30,25
+2979,Hazelnut Cappuccino,30,25
+2980,Hazelnut Cappuccino,30,25
+2981,Hazelnut Latte,30,25
+2982,Hazelnut Latte,30,25
+2983,Hazelnut Latte,30,25
+2984,Honey Mustard Snack Wrap® (Crispy),30,16
+2985,Honey Mustard Snack Wrap® (Grilled),30,16
+2986,Hot Caramel Sundae,30,4
+2987,Hot Chocolate,30,1
+2988,Hot Chocolate,30,1
+2989,Hot Chocolate,30,1
+2990,Hot Chocolate with Nonfat Milk,30,1
+2991,Hot Chocolate with Nonfat Milk,30,1
+2992,Hot Chocolate with Nonfat Milk,30,1
+2993,Hot Fudge Sundae,30,4
+2994,Hotcakes,30,17
+2995,Hotcakes and Sausage,30,17
+2996,Iced Caramel Latte,30,25
+2997,Iced Caramel Latte,30,25
+2998,Iced Caramel Latte,30,25
+2999,Iced Caramel Mocha,30,25
+3000,Iced Caramel Mocha,30,25
+3001,Iced Caramel Mocha,30,25
+3002,Iced Coffee Caramel,30,25
+3003,Iced Coffee Caramel,30,25
+3004,Iced Coffee Caramel,30,25
+3005,Iced Coffee Hazelnut,30,25
+3006,Iced Coffee Hazelnut,30,25
+3007,Iced Coffee Hazelnut,30,25
+3008,Iced Coffee Regular,30,25
+3009,Iced Coffee Regular,30,25
+3010,Iced Coffee Regular,30,25
+3011,Iced Coffee Vanilla,30,25
+3012,Iced Coffee Vanilla,30,25
+3013,Iced Coffee Vanilla,30,25
+3014,Iced Coffee with Sugar Free Vanilla Syrup,30,25
+3015,Iced Coffee with Sugar Free Vanilla Syrup,30,25
+3016,Iced Coffee with Sugar Free Vanilla Syrup,30,25
+3017,Iced Hazelnut Latte,30,25
+3018,Iced Hazelnut Latte,30,25
+3019,Iced Hazelnut Latte,30,25
+3020,Iced Latte,30,25
+3021,Iced Latte,30,25
+3022,Iced Latte,30,25
+3023,Iced Latte with Sugar Free Vanilla Syrup,30,25
+3024,Iced Latte with Sugar Free Vanilla Syrup,30,25
+3025,Iced Latte with Sugar Free Vanilla Syrup,30,25
+3026,Iced Mocha,30,25
+3027,Iced Mocha with Nonfat Milk,30,25
+3028,Iced Nonfat Caramel Latte,30,25
+3029,Iced Nonfat Caramel Latte,30,25
+3030,Iced Nonfat Caramel Latte,30,25
+3031,Iced Nonfat Caramel Mocha,30,25
+3032,Iced Nonfat Caramel Mocha,30,25
+3033,Iced Nonfat Caramel Mocha,30,25
+3034,Iced Nonfat Hazelnut Latte,30,25
+3035,Iced Nonfat Hazelnut Latte,30,25
+3036,Iced Nonfat Hazelnut Latte,30,25
+3037,Iced Nonfat Latte,30,25
+3038,Iced Nonfat Latte,30,25
+3039,Iced Nonfat Latte,30,25
+3040,Iced Nonfat Latte with Sugar Free Vanilla Syrup,30,25
+3041,Iced Nonfat Latte with Sugar Free Vanilla Syrup,30,25
+3042,Iced Nonfat Latte with Sugar Free Vanilla Syrup,30,25
+3043,Iced Nonfat Vanilla Latte,30,25
+3044,Iced Nonfat Vanilla Latte,30,25
+3045,Iced Nonfat Vanilla Latte,30,25
+3046,Iced Vanilla Latte,30,25
+3047,Iced Vanilla Latte,30,25
+3048,Iced Vanilla Latte,30,25
+3049,Kiddie Cone,30,4
+3050,Large French Fries,30,6
+3051,Latte,30,25
+3052,Latte,30,25
+3053,Latte,30,25
+3054,Latte with Sugar Free Vanilla Syrup,30,25
+3055,Latte with Sugar Free Vanilla Syrup,30,25
+3056,Latte with Sugar Free Vanilla Syrup,30,25
+3057,Low Fat Caramel Dip,30,4
+3058,Mac Snack Wrap,30,16
+3059,McChicken ®,30,12
+3060,McDonaldland® Cookies,30,4
+3061,McDouble,30,7
+3062,McFlurry® with M&M’S® Candies,30,4
+3063,McFlurry® with OREO® Cookies,30,4
+3064,McRib ®,30,12
+3065,McSkillet™ Burrito with Sausage,30,22
+3066,Medium French Fries,30,6
+3067,Mocha,30,25
+3068,Mocha,30,25
+3069,Mocha,30,25
+3070,Mocha with Nonfat Milk,30,25
+3071,Mocha with Nonfat Milk,30,25
+3072,Mocha with Nonfat Milk,30,25
+3073,Nonfat Cappuccino,30,25
+3074,Nonfat Cappuccino,30,25
+3075,Nonfat Cappuccino,30,25
+3076,Nonfat Cappuccino with Sugar Free Vanilla Syrup,30,25
+3077,Nonfat Cappuccino with Sugar Free Vanilla Syrup,30,25
+3078,Nonfat Cappuccino with Sugar Free Vanilla Syrup,30,25
+3079,Nonfat Caramel Cappuccino,30,25
+3080,Nonfat Caramel Cappuccino,30,25
+3081,Nonfat Caramel Cappuccino,30,25
+3082,Nonfat Caramel Latte,30,25
+3083,Nonfat Caramel Latte,30,25
+3084,Nonfat Caramel Latte,30,25
+3085,Nonfat Caramel Mocha,30,25
+3086,Nonfat Caramel Mocha,30,25
+3087,Nonfat Caramel Mocha,30,25
+3088,Nonfat Hazelnut Cappuccino,30,25
+3089,Nonfat Hazelnut Cappuccino,30,25
+3090,Nonfat Hazelnut Cappuccino,30,25
+3091,Nonfat Hazelnut Latte,30,25
+3092,Nonfat Hazelnut Latte,30,25
+3093,Nonfat Hazelnut Latte,30,25
+3094,Nonfat Latte,30,25
+3095,Nonfat Latte,30,25
+3096,Nonfat Latte,30,25
+3097,Nonfat Latte with Sugar Free Vanilla Syrup,30,25
+3098,Nonfat Latte with Sugar Free Vanilla Syrup,30,25
+3099,Nonfat Latte with Sugar Free Vanilla Syrup,30,25
+3100,Nonfat Vanilla Cappuccino,30,25
+3101,Nonfat Vanilla Cappuccino,30,25
+3102,Nonfat Vanilla Cappuccino,30,25
+3103,Nonfat Vanilla Latte,30,25
+3104,Nonfat Vanilla Latte,30,25
+3105,Nonfat Vanilla Latte,30,25
+3106,Oatmeal Raisin Cookie,30,4
+3107,12 oz. Grilled Top Sirloin,31,5
+3108,6 oz. Grilled Top Sirloin,31,5
+3109,9 oz. Grilled Top Sirloin,31,5
+3110,Apple Caramel Cobbler,31,4
+3111,"Apple Caramel Cobbler, Mini",31,4
+3112,Authentic Spinach & Artichoke Dip,31,10
+3113,Baked Potato (plain),31,5
+3114,Black & Bleu Caesar Salad,31,11
+3115,Broccoli,31,3
+3116,Broccoli Cheese Casserole,31,5
+3117,Brownie Lover’s Brownie,31,4
+3118,Add Grilled Chicken,32,15
+3119,Add Italian Sausage,32,15
+3120,Add Meatball,32,15
+3121,Add Shrimp,32,15
+3122,Alfredo Dipping Sauce,32,10
+3123,Alfredo Sauce,32,15
+3124,Amaretto Tiramisu with Almond Cookie Crumble,32,4
+3125,Black Tie Mousse Cake,32,4
+3126,Braised Beef & Tortelloni,32,5
+3127,Braised Beef & Tortelloni,32,5
+3128,Breadstick (with garlic-butter spread),32,10
+3129,Bruschetta,32,10
+3130,Caesar Salad without croutons,32,11
+3131,Calamari,32,10
+3132,Capellini di Mare,32,5
+3133,Capellini Pomodoro,32,5
+3134,Capellini Pomodoro,32,5
+3135,Cappuccino Viva Italiano,32,5
+3136,Caprese Flatbread,32,10
+3137,Cheese Pizza,32,15
+3138,Cheese Ravioli,32,15
+3139,Cheese Ravioli With Marinara Sauce,32,5
+3140,Cheese Ravioli with Marinara Sauce,32,5
+3141,Cheese Ravioli With Meat Sauce,32,5
+3142,Cheese Ravioli with Meat Sauce,32,5
+3143,Chianti Braised Short Ribs,32,5
+3144,Chicken & Gnocchi (one serving),32,14
+3145,Chicken & Shrimp Carbonara,32,5
+3146,Chicken Alfredo,32,5
+3147,Chicken Alfredo,32,5
+3148,Chicken Alfredo Pizza,32,19
+3149,Chicken Fingers & Pasta,32,15
+3150,Chicken Marsala,32,5
+3151,Chicken Parmigiana,32,5
+3152,Chicken Parmigiana,32,5
+3153,Chicken Scampi,32,5
+3154,Chicken Scampi,32,5
+3155,Chicken Vino Bianco,32,5
+3156,Chocolate Mousse with Dark Chocolate Cookie Crust,32,4
+3157,Chocolate Sauce,32,4
+3158,Create Your Own Pizza (with cheese and sauce only),32,19
+3159,Dark Chocolate Cake with Chocolate Mousse & Caramel Cream,32,4
+3160,Eggplant Parmigiana,32,5
+3161,Eggplant Parmigiana,32,5
+3162,Eggplant Parmigiana,32,5
+3163,Fettuccine,32,15
+3164,Fettuccine Alfredo,32,5
+3165,Fettuccine Alfredo,32,5
+3166,Five Cheese Marinara Dipping Sauce,32,10
+3167,Five Cheese Ziti al Forno,32,5
+3168,Five Cheese Ziti al Forno,32,5
+3169,Garden-Fresh Salad (one serving with dressing),32,11
+3170,Garden-Fresh Salad (one serving without dressing),32,11
+3171,Garden-Fresh Salad without croutons,32,11
+3172,Garlic Mashed Potatoes,32,15
+3173,Grapes,32,15
+3174,Grilled Chicken Caesar Salad,32,11
+3175,Grilled Chicken Caprese,32,12
+3176,Grilled Chicken Flatbread,32,10
+3177,Grilled Chicken Florentine,32,12
+3178,Grilled Chicken Parmesan,32,5
+3179,Grilled Chicken Parmesan with Marinara Sauce,32,5
+3180,Grilled Sausage & Peppers Rustica,32,5
+3181,Grilled Shrimp Caprese,32,5
+3182,Grilled Shrimp Caprese,32,5
+3183,Grilled Steak & Portobello,32,12
+3184,Herb-Grilled Salmon,32,5
+3185,Herb-Grilled Salmon,32,5
+3186,Hot Artichoke-Spinach Dip,32,10
+3187,Kids’ Grilled Chicken,32,8
+3188,Kids’ Penne Rigate with Marinara,32,5
+3189,Lasagna Classico,32,5
+3190,Lasagna Classico,32,5
+3191,Lasagna Fritta,32,10
+3192,Lasagna Rollata al Forno,32,5
+3193,Lasagna Rollata al Forno,32,5
+3194,Lemon Cream Cake,32,4
+3195,Limoncello Mousse with Vanilla Cookie Crust,32,4
+3196,Linguine alla Marinara,32,5
+3197,Linguine alla Marinara,32,5
+3198,Macaroni & Cheese,32,15
+3199,Marinara Dipping Sauce,32,10
+3200,Marinara Sauce,32,10
+3201,Meat Sauce,32,15
+3202,Mediterranean Grilled Chicken,32,5
+3203,Minestrone (one serving),32,14
+3204,Mixed Grill,32,5
+3205,Mixed Grill,32,5
+3206,Mixed Grill (all chicken),32,5
+3207,Mussels di Napoli,32,10
+3208,Parmesan Crusted Bistecca,32,5
+3209,Parmesan Crusted Shrimp,32,9
+3210,Parmesan Crusted Steak,32,5
+3211,Parmesan Crusted Tilapia,32,5
+3212,Parmesan-Butter Sauce,32,15
+3213,Parmesan-Peppercorn Sauce,32,10
+3214,Pasta e Fagioli (one serving),32,14
+3215,Peach-Mango Smoothie,32,15
+3216,Penne,32,15
+3217,Penne Rigate Pomodoro (Dinner),32,5
+3218,Penne Rigate Pomodoro (Lunch),32,5
+3219,Penne Rigate with Marinara (Dinner),32,5
+3220,Penne Rigate with Marinara (Lunch),32,5
+3221,Pepperoni Pizza,32,15
+3222,Ravioli di Portobello,32,5
+3223,Ravioli di Portobello,32,5
+3224,Sampler Italiano – Chicken Fingers,32,10
+3225,Sampler Italiano – Fried Mozzarella,32,10
+3226,Sampler Italiano – Fried Zucchini,32,10
+3227,Sampler Italiano – Marinara Sauce,32,10
+3228,Sampler Italiano – Parmesan-Peppercorn Sauce,32,10
+3229,Sampler Italiano – Tomato Sauce,32,10
+3230,Sampler Italiano -Calamari,32,10
+3231,Sampler Italiano -Stuffed Mushrooms,32,10
+3232,Seafood Alfredo,32,5
+3233,Seafood Alfredo,32,5
+3234,Seafood Brodetto,32,5
+3235,Seafood Portofino,32,5
+3236,Shrimp & Crab Tortelli Romana,32,5
+3237,Shrimp Mezzaluna,32,5
+3238,Shrimp Primavera,32,5
+3239,Shrimp Primavera,32,5
+3240,Shrimp Scampi Fritta,32,10
+3241,Sicilian Scampi,32,10
+3242,Small Shells,32,15
+3243,Smoked Mozzarella Fonduta,32,10
+3244,Spaghetti,32,15
+3245,Spaghetti & Italian Sausage,32,5
+3246,Spaghetti & Italian Sausage,32,5
+3247,Spaghetti & Meatballs,32,5
+3248,Spaghetti & Meatballs,32,5
+3249,Spaghetti with Meat Sauce,32,5
+3250,Spaghetti with Meat Sauce,32,5
+3251,Steak Gorgonzola-Alfredo,32,5
+3252,Steak Toscano,32,5
+3253,Steak Toscano,32,5
+3254,Steamed Broccoli,32,15
+3255,Strawberry & White Chocolate Cream Cake,32,4
+3256,Strawberry Smoothie,32,15
+3257,Stuffed Chicken Marsala,32,5
+3258,Stuffed Mushrooms,32,10
+3259,Sundae,32,15
+3260,Tiramisu,32,4
+3261,Tomato Sauce,32,15
+3262,Tour of Italy,32,5
+3263,Tour of Italy,32,5
+3264,Triple Chocolate Strata,32,4
+3265,Venetian Apricot Chicken,32,5
+3266,Venetian Apricot Chicken,32,5
+3267,Warm Apple Crostata,32,4
+3268,White Chocolate Raspberry Cheesecake,32,4
+3269,Whole Wheat Linguine,32,15
+3270,Wild Berry Smoothie,32,15
+3271,Zeppoli,32,4
+3272,Zuppa Toscana (one serving),32,14
+3273,2 Lobster Tails With Tangy Tomato Salad No Croutons And Broccoli No Butter,33,5
+3274,6 oz Sirloin With Broccoli No Butter And Tangy Tomato Salad No Croutons,33,5
+3275,7 oz Salmon With Seasonal Veggies No Butter,33,5
+3276,Alice Springs Chicken Quesadillas ® Regular,33,10
+3277,Alice Springs Chicken Quesadillas ® Small,33,10
+3278,Alice Springs Chicken®,33,5
+3279,Aussie Cheese Fries Regular,33,10
+3280,Aussie Cheese Fries Small,33,10
+3281,Aussie Chicken Cobb Salad Crispy,33,11
+3282,Aussie Chicken Cobb Salad Crispy with Blue Cheese Dressing,33,11
+3283,Aussie Chicken Cobb Salad Crispy with Honey Mustard Dressing,33,11
+3284,Aussie Chicken Cobb Salad Crispy with Tangy Tomato Dressing,33,11
+3285,Aussie Chicken Cobb Salad Crispy with Thousand Island Dressing,33,11
+3286,Aussie Chicken Cobb Salad Grilled,33,11
+3287,Aussie Chicken Cobb Salad Grilled with Blue Cheese Dressing,33,11
+3288,Aussie Chicken Cobb Salad Grilled with Honey Mustard Dressing,33,11
+3289,Aussie Chicken Cobb Salad Grilled with Mustard Vinagrette,33,11
+3290,Aussie Chicken Cobb Salad Grilled with Oil And Vinegar,33,11
+3291,Aussie Chicken Cobb Salad Grilled with Ranch Dressing,33,11
+3292,Aussie Chicken Cobb Salad Grilled with Tangy Tomato Dressing,33,11
+3293,Aussie Chicken Cobb Salad Grilled with Thousand Island Dressing,33,11
+3294,Aussie Fries,33,3
+3295,Baby Back Ribs 1/2 Order,33,5
+3296,Baby Back Ribs Full Order,33,5
+3297,Bloomin’ Onion®,33,10
+3298,Blue Cheese Crumb Crust,33,3
+3299,Blue Cheese Pecan Chopped Salad,33,3
+3300,Boomerang Cheese Burger,33,15
+3301,Caesar Salad,33,3
+3302,Caesar Salad Chicken,33,11
+3303,Caesar Salad Shrimp,33,11
+3304,California Chicken Salad,33,11
+3305,Carrot Cake,33,4
+3306,Chicken Artichoke Flatbread,33,10
+3307,Chicken Fingers,33,15
+3308,Chicken On The Barbie With Seasonal Veggies,33,5
+3309,Chocolate Thunder From Down Under®,33,4
+3310,Classic Blue Cheese Wedge Salad,33,3
+3311,Classic Cheesecake,33,4
+3312,Coconut Shrimp,33,10
+3313,Dressed Baked Potato,33,3
+3314,Filet & Grilled Shrimp On The Barbie,33,5
+3315,Filet 5 oz And Grilled Shrimp With Broccoli No Butter,33,5
+3316,Filet 6 oz & Lobster Tail 4 oz,33,5
+3317,Filet Focaccia Sandwich,33,12
+3318,Filet Wedge Salad,33,11
+3319,Filet With Wild Mushroom Sauce,33,5
+3320,Fresh Seasonal Mixed Veggies,33,3
+3321,Fresh Steamed Broccoli,33,3
+3322,Fresh Steamed French Green Beans,33,3
+3323,Fresh Tilapia With Pure Lump Crabmeat,33,5
+3324,Garlic Mashed Potatoes,33,3
+3325,Grilled Asparagus,33,3
+3326,Grilled Cheese-A-Roo,33,15
+3327,Grilled Chicken & Swiss Sandwich,33,12
+3328,Grilled Chicken On The Barbie,33,5
+3329,Grilled Chicken on the Barbie,33,15
+3330,Grilled Chicken Sandwich With Broccoli No Butter,33,5
+3331,Grilled Scallops,33,3
+3332,Grilled Shrimp,33,3
+3333,Grilled Shrimp On The Barbie,33,10
+3334,Hearts Of Gold Mahi,33,5
+3335,Horseradish Crumb Crust,33,3
+3336,House Salad,33,3
+3337,House Salad with Blue Cheese Dressing,33,3
+3338,House Salad with Honey Mustard Dressing,33,3
+3339,House Salad with Mustard Vinaigrette Dressing,33,3
+3340,House Salad with Ranch Dressing,33,3
+3341,House Salad with TangyTomato Dressing,33,3
+3342,House Salad with Thousand Island Dressing,33,3
+3343,Joey Sirloin,33,15
+3344,Junior Ribs,33,15
+3345,Lobster Tail,33,3
+3346,Lobster Tails 4 oz,33,5
+3347,Mac-A-Roo ‘N Cheese,33,15
+3348,New York Strip 10 oz,33,5
+3349,New York Strip 14 oz,33,5
+3350,New Zealand Rack Of Lamb,33,5
+3351,No Rules Parmesan Pasta,33,5
+3352,No Rules Parmesan Pasta with Grilled Chicken,33,5
+3353,No Rules Parmesan Pasta with Grilled Chicken And Grilled Scallops,33,5
+3354,No Rules Parmesan Pasta with Grilled Chicken And Grilled Shrimp,33,5
+3355,No Rules Parmesan Pasta with Grilled Scallops,33,5
+3356,No Rules Parmesan Pasta with Grilled Shrimp,33,5
+3357,No Rules Parmesan Pasta with Grilled Shrimp And Grilled Scallops,33,5
+3358,No Rules Parmesan Pasta with Steamed Veggies,33,5
+3359,Norwegian Salmon,33,5
+3360,Outback Special® 12 oz,33,5
+3361,Outback Special® 6 oz,33,5
+3362,Outback Special® 9 oz,33,5
+3363,Porterhouse 20 oz,33,5
+3364,Prime Rib 12 oz,33,5
+3365,Prime Rib 16 oz,33,5
+3366,Prime Rib 8 oz,33,5
+3367,Ribeye 10 oz,33,5
+3368,Ribeye 14 oz,33,5
+3369,Ribs & Chicken On The Barbie,33,5
+3370,Rice,33,3
+3371,Sautéed Mushrooms,33,3
+3372,Seared Ahi Tuna Regular,33,10
+3373,Seared Ahi Tuna Small,33,10
+3374,Simply Grilled 8 oz Mahi With Rice Garnish And Steamed Veggies,33,5
+3375,Simply Grilled Tilapia With Steamed Veggies,33,5
+3376,Sirloin 12 oz & Coconut Shrimp,33,5
+3377,Sirloin 12 oz & Grilled Shrimp,33,5
+3378,Sirloin 6 oz & Coconut Shrimp,33,5
+3379,Sirloin 6 oz & Grilled Shrimp,33,5
+3380,Sirloin 9 oz & Coconut Shrimp,33,5
+3381,Sirloin 9 oz & Grilled Shrimp,33,5
+3382,Spinach Artichoke Dip,33,10
+3383,Sweet Adventure Sampler Trio®,33,4
+3384,Sweet Potato,33,3
+3385,Sweet Potato Fries,33,3
+3386,Sweet Potato with Brown Sugar,33,3
+3387,Sweet Potato with Honey Butter,33,3
+3388,Sweet Potato with Honey Butter & Brown Sugar,33,3
+3389,Sydney’S Sinful Sundae®,33,4
+3390,Teriyaki Filet Medallions,33,5
+3391,The Bloomin’ Burger®,33,7
+3392,The Outbacker Burger,33,7
+3393,The Outbacker Burger With American Cheese,33,7
+3394,The Outbacker Burger With Swiss Cheese,33,7
+3395,Victoria’S Filet® 6 oz,33,5
+3396,Victoria’S Filet® 8 oz,33,5
+3397,Walkabout Soup® Of The Day Chicken Tortilla Soup  –  Bowl,33,14
+3398,Walkabout Soup® Of The Day Chicken Tortilla Soup  – Cup,33,14
+3399,Walkabout Soup® Of The Day Clam Chowder  – Bowl,33,14
+3400,Walkabout Soup® Of The Day Clam Chowder  – Cup,33,14
+3401,Walkabout Soup® Of The Day Creamy Onion Soup  –  Bowl,33,14
+3402,Walkabout Soup® Of The Day Creamy Onion Soup  – Cup,33,14
+3403,Walkabout Soup® Of The Day Potato Soup   –  Cup,33,14
+3404,Walkabout Soup® Of The Day Potato Soup  – Bowl,33,14
+3405,Walkabout Soup® Of The Day Too Right French Onion Soup,33,14
+3406,Walkabout Soup® Of The Day White Bean Sausage Soup  – Cup,33,14
+3407,Walkabout Soup® Of The Day White Bean Sausage Soup-Bowl,33,14
+3408,Wings,33,10
+3409,Wings with Hot Sauce,33,10
+3410,Wings with Medium Sauce,33,10
+3411,Wings with Mild Sauce,33,10
+3412,Wood Fire Prime Rib 12 oz,33,5
+3413,Wood Fire Prime Rib 16 oz,33,5
+3414,Wood-Fire Grilled Ahi Tuna,33,5
+3415,Beijing Beef™,34,5
+3416,Black Pepper Chicken,34,8
+3417,Broccoli Beef,34,5
+3418,Chicken Egg Roll,34,10
+3419,Chicken Potsticker,34,10
+3420,Chow Mein,34,3
+3421,Cream Cheese Rangoon,34,10
+3422,Crispy Shrimp,34,5
+3423,Eggplant & Tofu,34,3
+3424,Fortune Cookies,34,4
+3425,Fried Rice,34,3
+3426,Golden Treasure Shrimp™,34,5
+3427,Honey Walnut Shrimp,34,5
+3428,Hot & Sour Soup,34,14
+3429,Kobari™ Beef,34,5
+3430,Kung Pao Chicken,34,8
+3431,Mandarin Chicken,34,8
+3432,Mixed Veggies (Entree),34,5
+3433,Mixed Veggies (Side),34,3
+3434,Mushroom Chicken,34,8
+3435,Orange Chicken,34,8
+3436,Peppercorn Shrimp,34,5
+3437,Potato Chicken,34,8
+3438,Steamed Rice,34,3
+3439,String Bean Chicken Breast,34,8
+3440,Sweet & Sour Chicken Breast,34,8
+3441,SweetFire Chicken Breast™,34,8
+3442,Veggie Spring Roll,34,10
+3443,All Natural Low-Fat Chicken Noodle,35,14
+3444,All Natural Low-Fat Chicken Noodle – You Pick Two®,35,14
+3445,All Natural Sonoma Chicken Stew with 1 Mini Dry Jack Biscuit-You Pick Two®,35,14
+3446,All Natural Sonoma Chicken Stew with 2 Mini Dry Jack Biscuits,35,14
+3447,All Natural Steak Chili with Cornbread,35,14
+3448,All Natural Steak Chili with Cornbread – You Pick Two®,35,14
+3449,Apple,35,3
+3450,Apple Crunch Muffin,35,17
+3451,Asiago Cheese,35,18
+3452,Asiago Cheese Bagel with Egg and Cheese,35,23
+3453,Asiago Cheese Bagel with Sausage,35,23
+3454,Asiago Cheese Demi,35,18
+3455,Asiago Cheese Loaf,35,18
+3456,Baked lays potato chips,35,3
+3457,Baked Potato,35,3
+3458,Baked Potato – You Pick Two®,35,14
+3459,Bear Claw,35,17
+3460,Blueberry,35,18
+3461,Breakfast Power on Whole Grain,35,23
+3462,Brewed Tea – Acai,35,1
+3463,Brewed Tea – Black,35,1
+3464,Brewed Tea- Acai,35,1
+3465,Brewed Tea- Black,35,1
+3466,Broccoli Cheddar,35,14
+3467,Broccoli Cheddar – You Pick Two®,35,14
+3468,Caffe Latte,35,25
+3469,Caffe Mocha,35,25
+3470,Candy,35,4
+3471,Cappuccino,35,25
+3472,Caramel,35,1
+3473,Caramel Latte,35,25
+3474,Carrot Cake with Walnuts,35,17
+3475,Chai Tea Latte,35,25
+3476,Cheese Pastries,35,17
+3477,Cherry Pastries,35,17
+3478,Chive & Onion,35,32
+3479,Chive & Onion,35,32
+3480,Chocolate Chip Bagel,35,18
+3481,Chocolate Chip Muffie,35,17
+3482,Chocolate Chipper,35,4
+3483,Chocolate Chipper Petites,35,4
+3484,Chocolate Pastries,35,17
+3485,Ciabatta,35,18
+3486,Cinnamon Chip Scones,35,17
+3487,Cinnamon Coffee Crumb Cake- café serving,35,4
+3488,Cinnamon Coffee Crumb Cake- whole unsliced serving,35,4
+3489,Cinnamon Crunch,35,18
+3490,Cinnamon Raisin Loaf,35,18
+3491,Cinnamon Roll,35,4
+3492,Cinnamon Swirl & Raisin,35,18
+3493,Cobblestone,35,4
+3494,Coffee,35,25
+3495,Coffee,35,25
+3496,Coffee,35,25
+3497,"Coffee, Decaf",35,25
+3498,"Coffee, Decaf",35,25
+3499,"Coffee, Decaf",35,25
+3500,Cornbread Muffie,35,17
+3501,Country Loaf,35,18
+3502,Country Miche,35,18
+3503,Cranberry Orange Muffin,35,17
+3504,Cream of Chicken & Wild Rice,35,14
+3505,Cream of Chicken & Wild Rice – You Pick Two®,35,14
+3506,Creamy Tomato,35,14
+3507,Creamy Tomato – You Pick Two®,35,14
+3508,Double Fudge Brownie with Icing,35,4
+3509,"Dry Jack Cheese Biscuit, mini",35,18
+3510,Easter Egg Shaped Shortbread,35,4
+3511,Egg & Cheese on Ciabatta,35,23
+3512,Everything,35,18
+3513,Focaccia,35,18
+3514,Focaccia with Asiago Cheese,35,18
+3515,Four Cheese,35,17
+3516,French Baguette,35,18
+3517,French baguette,35,3
+3518,French Croissant,35,17
+3519,French Miche,35,18
+3520,French Onion,35,14
+3521,French Onion – You Pick Two®,35,14
+3522,French Toast,35,18
+3523,French Toast Bagel Breakfast with Sausage,35,23
+3524,Fresh Apple Pastries,35,17
+3525,Fresh Fruit Cup,35,17
+3526,Full Asiago Roast Beef on Asiago Cheese,35,12
+3527,Full Asian Sesame Chicken,35,11
+3528,Full BBQ Chopped Chicken,35,11
+3529,Full Caesar,35,11
+3530,Full Chicken Caesar,35,11
+3531,Full Chicken Caesar on Three Cheese,35,12
+3532,Full Chipotle Chicken on Artisan French,35,12
+3533,Full Chopped Chicken Cobb,35,11
+3534,Full Chopped Steak & Blue Cheese,35,11
+3535,Full Classic Cafe,35,11
+3536,Full Cuban Chicken Panini,35,12
+3537,Full Frontega Chicken® on Focaccia,35,12
+3538,Full Fuji Apple with Chicken,35,11
+3539,Full Greek,35,11
+3540,Full Italian Combo on Ciabatta,35,12
+3541,Full Mediterranean Salmon,35,11
+3542,Full Mediterranean Veggie on XL Tomato Basil,35,12
+3543,Full Napa Almond Chicken Salad on Sesame Semolina,35,12
+3544,Full Roasted Turkey Artichoke on Foccacia with Asiago Cheese,35,12
+3545,Full Salmon Caesar,35,11
+3546,Full Salmon Club Croissant,35,12
+3547,Full Sierra Turkey on Focaccia with Asiago Cheese,35,12
+3548,Full Smoked Turkey Breast on Country,35,12
+3549,Full Smokehouse Turkey® on Three Cheese,35,12
+3550,Full Steak & White Cheddar on French Baguette,35,12
+3551,Full Steak Balsamico,35,12
+3552,Full Thai Chopped Chicken,35,11
+3553,Full Tomato & Mozzarella on Ciabatta,35,12
+3554,Full Tuna Salad on Honey Wheat,35,12
+3555,Half Asiago Roast Beef on Asiago Cheese,35,12
+3556,Half Asian Sesame Chicken,35,11
+3557,Half BBQ Chopped Chicken,35,11
+3558,Half Caesar,35,11
+3559,Half Chicken Caesar,35,11
+3560,Half Chicken Caesar on Three Cheese,35,12
+3561,Half Chipotle Chicken on Artisan French,35,12
+3562,Half Chopped Chicken Cobb,35,11
+3563,Half Chopped Steak & Blue Cheese,35,11
+3564,Half Classic Cafe,35,11
+3565,Half Cuban Chicken Panini,35,12
+3566,Half Frontega Chicken® on Focaccia,35,12
+3567,Half Fuji Apple with Chicken,35,11
+3568,Half Greek,35,11
+3569,Half Italian Combo on Ciabatta,35,12
+3570,Half Mediterranean Salmon,35,11
+3571,Half Mediterranean Veggie on XL Tomato Basil,35,12
+3572,Half Napa Almond Chicken Salad on Sesame Semolina,35,12
+3573,Half Roasted Turkey Artichoke on Foccacia with Asiago Cheese,35,12
+3574,Half Salmon Caesar,35,11
+3575,Half Salmon Club Croissant,35,12
+3576,Half Sierra Turkey on Focaccia with Asiago Cheese,35,12
+3577,Half Smoked Turkey Breast on Country,35,12
+3578,Half Smokehouse Turkey® on Three Cheese,35,12
+3579,Half Steak & White Cheddar on French Baguette,35,12
+3580,Half Steak Balsamico,35,12
+3581,Half Thai Chopped Chicken,35,11
+3582,Half Tomato & Mozzarella on Ciabatta,35,12
+3583,Half Tuna Salad on Honey Wheat,35,12
+3584,Honey Wheat Loaf,35,18
+3585,Hot Chocolate,35,1
+3586,Hot Cross Buns,35,18
+3587,Iced Chai Tea Latte,35,1
+3588,Iced Infused Green Tea (with passionfruit & papaya),35,1
+3589,Jalapeno & Cheddar,35,18
+3590,Jalapeno & Cheddar Bagel with Egg and Cheese,35,23
+3591,Jalapeno & Cheddar Bagel with Sausage,35,23
+3592,Lemonade,35,1
+3593,Low Fat Cranberry Orange Smoothie,35,1
+3594,Low Fat Garden Vegetable with Pesto,35,14
+3595,Low Fat Garden Vegetable with Pesto – You Pick Two®,35,14
+3596,Low Fat Mango Smoothie,35,1
+3597,Low Fat Strawberry Smoothie with Ginseng,35,1
+3598,Low Fat Wild Berry Smoothie,35,1
+3599,Low-Fat Vegetarian Black Bean,35,14
+3600,Low-Fat Vegetarian Black Bean – You Pick Two®,35,14
+3601,Mango,35,1
+3602,Mediterranean Egg White on Ciabatta,35,23
+3603,Mint Crinkle,35,4
+3604,Mocha,35,1
+3605,New England Clam Chowder,35,14
+3606,New England Clam Chowder – You Pick Two®,35,14
+3607,Oatmeal Raisin,35,4
+3608,Orange Juice – Large,35,1
+3609,Orange Juice – Small,35,1
+3610,Orange Scones,35,17
+3611,Orange- mini Scones,35,17
+3612,Organic Apple Juice,35,1
+3613,Organic Chocolate Milk,35,1
+3614,Organic Milk,35,1
+3615,Panera Kids Deli Sandwich – Roast Beef,35,15
+3616,Panera Kids Deli Sandwich – Smoked Turkey,35,15
+3617,Panera Kids Grilled Cheese Sandwich,35,15
+3618,Panera Kids Mac & Cheese,35,15
+3619,"Panera Kids Organic Yogurt (blueberry, strawberry)",35,15
+3620,Panera Kids Peanut Butter & Jelly Sandwich,35,15
+3621,Panera potato chips,35,3
+3622,Pastry Ring – Apple Cherry Cheese,35,17
+3623,Pecan Braid Pastries,35,17
+3624,Pecan Roll,35,4
+3625,Pickle spear,35,3
+3626,Plain,35,18
+3627,Plain,35,32
+3628,Plain,35,32
+3629,Pumpkin Muffie,35,17
+3630,Pumpkin Muffin,35,17
+3631,Reduced Fat Hazelnut,35,32
+3632,Reduced Fat Hazelnut,35,32
+3633,Baguette,36,3
+3634,Biscuit,36,3
+3635,Blackened Bbq Chicken Po’ Boy,36,12
+3636,Blackened Tenders (3 Pcs),36,8
+3637,Bonafide Mild Chicken (Breast),36,8
+3638,Bonafide Mild Chicken (Leg),36,8
+3639,Bonafide Mild Chicken (Thigh),36,8
+3640,Bonafide Mild Chicken (Wing),36,8
+3641,Bonafide Spicy Chicken (Breast),36,8
+3642,Bonafide Spicy Chicken (Leg),36,8
+3643,Bonafide Spicy Chicken (Thigh),36,8
+3644,Bonafide Spicy Chicken (Wing),36,8
+3645,Butterfly Shrimp (8 Shrimp),36,9
+3646,Cajun Fries,36,6
+3647,Cajun Fries,36,6
+3648,Cajun Rice,36,3
+3649,Cajun Rice,36,3
+3650,Catfish Fillet,36,9
+3651,Cheddar Cheese Tortilla,36,3
+3652,Chicken & Sausage Jambalaya,36,8
+3653,Chicken Biscuit,36,17
+3654,Chicken Livers (10),36,8
+3655,Chicken Po’ Boy,36,12
+3656,Cole Slaw,36,3
+3657,Cole Slaw,36,3
+3658,Corn On The Cob,36,3
+3659,Egg & Sausage Biscuit,36,17
+3660,Egg Biscuit,36,17
+3661,Green Beans,36,3
+3662,Green Beans,36,3
+3663,Grits,36,17
+3664,Hashbrowns,36,17
+3665,Hot Cinnamon Apple Pie,36,4
+3666,Hot Sweet Potato Pie,36,4
+3667,Loaded Chicken Wrap,36,8
+3668,Macaroni & Cheese,36,3
+3669,Macaroni & Cheese,36,3
+3670,Mardi Gras Cheesecake,36,4
+3671,Mashed Potatoes,36,3
+3672,Mashed Potatoes,36,3
+3673,Mild Tenders (3 Pcs),36,8
+3674,Mississippi Mud Pie,36,4
+3675,Nuggets (4 Pcs),36,8
+3676,Nuggets (6 Pcs),36,8
+3677,Onion Rings,36,3
+3678,Onion Rings,36,3
+3679,Onion Rings,36,3
+3680,Popcorn Shrimp,36,9
+3681,Red Beans& Rice,36,3
+3682,Red Beans& Rice,36,3
+3683,Sausage & Gravy Biscuit,36,17
+3684,Sausage Biscuit,36,17
+3685,Shrimp Po’ Boy,36,12
+3686,Sliced Pecan Pie,36,4
+3687,Spicy Tenders (3 Pcs),36,8
+3688,6 Meat Deli Stack (Large),37,5
+3689,6 Meat Deli Stack (Regular),37,5
+3690,6 Meat Deli Stack (Small),37,5
+3691,Baja Chicken  (Regular),37,12
+3692,Baja Chicken (Large),37,12
+3693,Baja Chicken (Small),37,12
+3694,Basil Pesto Chicken (Large),37,12
+3695,Basil Pesto Chicken (Small),37,12
+3696,Black Angus on Rosemary Parmesan (Large),37,12
+3697,Black Angus on Rosemary Parmesan (Regular),37,12
+3698,Black Angus on Rosemary Parmesan (Small),37,12
+3699,BLT Classic (Slider),37,12
+3700,Broccoli Cheese (Bread Bowl),37,14
+3701,Broccoli Cheese (Large),37,14
+3702,Broccoli Cheese (Small),37,14
+3703,California Chicken Club (Large),37,12
+3704,California Chicken Club (Regular),37,12
+3705,California Chicken Club (Small),37,12
+3706,Chicken Carbonara (Large),37,12
+3707,Chicken Carbonara (Regular),37,12
+3708,Chicken Carbonara (Small),37,12
+3709,Chicken Noodle (Large),37,14
+3710,Chicken Noodle (Small),37,14
+3711,Chili (Bread Bowl),37,14
+3712,Chili (Large),37,14
+3713,Chili (Small),37,14
+3714,Chocolate Brownie,37,4
+3715,Cinnamon Sugar Cookie,37,4
+3716,Classic Italian (Large),37,12
+3717,Classic Italian (Regular),37,12
+3718,Classic Italian (Small),37,12
+3719,Cobb (Large),37,11
+3720,Cobb (Small),37,11
+3721,Cobb (Wrap),37,16
+3722,Double Cheese Prime Rib (Large),37,12
+3723,Double Cheese Prime Rib (Regular),37,12
+3724,Double Cheese Prime Rib (Small),37,12
+3725,French Dip (Large),37,12
+3726,French Dip (Regular),37,12
+3727,French Dip (Small),37,12
+3728,Greek Chicken (Large),37,12
+3729,Greek Chicken (Small),37,12
+3730,Harvest Chicken (Large),37,11
+3731,Harvest Chicken (Small),37,11
+3732,Harvest Chicken (Wrap),37,16
+3733,Honey Mustard Chicken  (Large),37,11
+3734,Honey Mustard Chicken (Small),37,11
+3735,Honey Mustard Chicken (Wrap),37,16
+3736,Little Italy (Large),37,12
+3737,Little Italy (Small),37,12
+3738,Lobster & Seafood Salad (Large),37,11
+3739,Lobster & Seafood Salad (Small),37,11
+3740,Lobster & Seafood Salad (Wrap),37,16
+3741,Lobster & Seafood Salad Sub (Large),37,12
+3742,Lobster & Seafood Salad Sub (Regular),37,12
+3743,Lobster & Seafood Salad Sub (Small),37,12
+3744,Marinara,37,12
+3745,Marshmallow Treat,37,4
+3746,Meatball (Large),37,12
+3747,Meatball (Regular),37,12
+3748,Meatball (Slider),37,12
+3749,Meatball (Small),37,12
+3750,Mediterranean Chicken (Large),37,11
+3751,Mediterranean Chicken (Small),37,11
+3752,Mediterranean Chicken (Wrap),37,16
+3753,Mesquite Chicken (Large),37,12
+3754,Mesquite Chicken (Regular),37,12
+3755,Mesquite Chicken (Small),37,12
+3756,Monster Meatball,37,15
+3757,Peppercorn Caesar with Chicken (Large),37,11
+3758,Peppercorn Caesar with Chicken (Small),37,11
+3759,Peppercorn Caesar with Chicken (Wrap),37,16
+3760,Peppercorn Prime Rib (Large),37,12
+3761,Peppercorn Prime Rib (Regular),37,12
+3762,Peppercorn Prime Rib (Small),37,12
+3763,Pestos (Large),37,12
+3764,Pestos (Regular),37,12
+3765,Pestos (Small),37,12
+3766,Prime Rib Philly (Large),37,12
+3767,Prime Rib Philly (Regular),37,12
+3768,Prime Rib Philly (Small),37,12
+3769,Qkidz Cookie,37,1
+3770,Smoky Chipotle Turkey (Slider),37,12
+3771,Sonoma Turkey (Large),37,12
+3772,Sonoma Turkey (Small),37,12
+3773,The Traditional (Large),37,12
+3774,The Traditional (Regular),37,12
+3775,The Traditional (Small),37,12
+3776,Triple Play Cheese Melt,37,12
+3777,Turkey Club (Slider),37,12
+3778,Ultimate Chocolate Chunk Cookie,37,4
+3779,Ultimate Turkey Club (Large),37,12
+3780,Ultimate Turkey Club (Regular),37,12
+3781,Ultimate Turkey Club (Small),37,12
+3782,A.1.® Peppercorn Burger,38,7
+3783,Absolut Lemonade,38,1
+3784,Absolutely Absolut Freckled Lemonade,38,1
+3785,All-American Patty Melt,38,7
+3786,Apple Harvest Chicken Salad,38,11
+3787,Arctic Cod Fish & Chips,38,5
+3788,Avo-Cobb-o Salad,38,11
+3789,Bailey’s Irish Cream Shake,38,1
+3790,Banana Daiquiri,38,1
+3791,Birthday Sundae,38,4
+3792,Blackened Chicken Sandwich,38,12
+3793,Bleu Ribbon Burger,38,7
+3794,BLTA Croissant,38,12
+3795,Bruschetta Chicken Sandwich,38,12
+3796,Buffalo Clucks & Fries,38,5
+3797,Burnin Love Burger,38,7
+3798,Caesar’s Chicken Wrap,38,16
+3799,California Chicken Sandwich,38,12
+3800,Cheesy Mac ‘n Cheesy,38,15
+3801,Cherry Lime Flip,38,1
+3802,Chick On A Stick,38,15
+3803,Chick-Chick-Chicken Fingers Kid’s Meal,38,15
+3804,Chick-n-Cheese Quesadilla,38,15
+3805,Chicken Caprese Sandwich,38,12
+3806,Chicken Tortilla Soup Bowl,38,14
+3807,Chicken Tortilla Soup Cup,38,14
+3808,Chili Chili con Queso,38,10
+3809,"Clam Chowder Soup, Bowl",38,14
+3810,"Clam Chowder Soup, Cup",38,14
+3811,Clam Strips,38,9
+3812,Classic Banana Malt,38,2
+3813,Classic Banana Milkshake,38,2
+3814,Classic Chocolate Malt,38,2
+3815,Classic Chocolate Milkshake,38,2
+3816,Classic Creamy Mac ‘N’ Cheese,38,5
+3817,Classic Creamy Mac n Cheese,38,3
+3818,Classic Mint Brownie Shake,38,2
+3819,Classic Mojito,38,1
+3820,Classic Peach Malt,38,2
+3821,Classic Peach Milkshake,38,2
+3822,Classic Raspberry Malt,38,2
+3823,Classic Raspberry Milkshake,38,2
+3824,Classic Rookie Magic Shake,38,2
+3825,Classic Strawberry Malt,38,2
+3826,Classic Strawberry Milkshake,38,2
+3827,Classic Vanilla Malt,38,2
+3828,Classic Vanilla Milkshake,38,2
+3829,Clucks & Fries,38,5
+3830,Clucks & Shrimp Combo,38,5
+3831,Coleslaw,38,3
+3832,Creamy Spinach & Artichoke Dip,38,10
+3833,Crispy Arctic Cod Sandwich,38,12
+3834,Crispy Chicken Sandwich,38,12
+3835,Crispy Chicken Tender Salad,38,11
+3836,Electric Watermelon,38,1
+3837,Ensenada Chicken Platter 1pc,38,5
+3838,Ensenada Chicken Platter 2pc,38,5
+3839,Flat On Your Beak,38,1
+3840,Freckled Lemonade,38,1
+3841,Freckled Lemonade Light,38,1
+3842,"French Onion Soup, Bowl",38,14
+3843,"French Onion Soup, Cup",38,14
+3844,Garden Burger,38,7
+3845,Gold Margarita – Frozen,38,1
+3846,Gold Margarita – Mango,38,1
+3847,Gold Margarita – Peach,38,1
+3848,Gold Margarita – Raspberry,38,1
+3849,Gold Margarita – Rocks,38,1
+3850,Gold Margarita – Strawberry,38,1
+3851,Gourmet Cheeseburger,38,7
+3852,Grilled Cheesewich,38,15
+3853,Grilled Chicken alla Caprese,38,11
+3854,Grilled Salmon Sandwich,38,12
+3855,Grilled Turkey Burger,38,7
+3856,Groovy Smoothie,38,2
+3857,Guacamole & Salsa with Chips,38,10
+3858,Hawaiian Heart Throb Smoothie,38,2
+3859,Hot Apple Crisp,38,4
+3860,Hot Fudge Sundae,38,4
+3861,House Salad,38,11
+3862,Jumbo Shrimp & Slaw Platter,38,5
+3863,Jump Starter Cheese Sticks,38,10
+3864,Jump Starter Clam Strips,38,10
+3865,Jump Starter Jalapeno Coins,38,10
+3866,Jump Starter Kettle-Cooked Chips,38,10
+3867,Jump Starter Mushrooms,38,10
+3868,Jump Starter Onion Rings,38,10
+3869,Jump Starter Zucchini,38,10
+3870,Jungle Shake,38,2
+3871,Just-In Quesadilla Vegetarian,38,10
+3872,Just-In Quesadilla w/Chicken,38,10
+3873,Kahlua Jamaican Shake,38,2
+3874,Kettle-Cooked Chips,38,3
+3875,Kid’s Apple Slices,38,15
+3876,Kid’s Banana Malt,38,15
+3877,Kid’s Banana Milkshake,38,15
+3878,Kid’s Chocolate Malt,38,15
+3879,Kid’s Chocolate Milk,38,15
+3880,Kid’s Chocolate Milkshake,38,15
+3881,Kid’s Freckled Lemonade,38,15
+3882,Kid’s Freckled Lemonade light,38,15
+3883,Kid’s Mandarin Oranges,38,15
+3884,Kid’s Melon Wedges,38,15
+3885,Kid’s Milk,38,15
+3886,Kid’s Mint Brownie Shake,38,15
+3887,Kid’s Peach Malt,38,15
+3888,Kid’s Peach Milkshake,38,15
+3889,Kid’s Raspberry Malt,38,15
+3890,Kid’s Raspberry Milkshake,38,15
+3891,Kid’s Rookie Magic Milkshake,38,15
+3892,Kid’s Side Baby Carrots & Ranch,38,15
+3893,Kid’s Side Broccoli,38,15
+3894,Kid’s Side Salad,38,15
+3895,Kid’s Steak Fries,38,15
+3896,Kid’s Strawberry Malt,38,15
+3897,Kid’s Strawberry Milkshake,38,15
+3898,Kid’s Strawberry Smoothie,38,15
+3899,Kid’s Sundae,38,15
+3900,Kid’s Vanilla Malt,38,15
+3901,Kid’s Vanilla Milkshake,38,15
+3902,Kids Groovy Smoothie,38,15
+3903,Kids Hawaiian Heart Throb Smoothie,38,15
+3904,Kids Raspberry Limeade,38,15
+3905,Lettuce-Wrap Your Burger,38,7
+3906,Melon Wedges,38,3
+3907,Mighty Caesar Salad,38,11
+3908,Mighty Caesar w/ Blackened Chicken Salad,38,11
+3909,Mighty Caesar w/ Blackened Salmon Salad,38,11
+3910,Mighty Caesar w/ Grilled Chicken Salad,38,11
+3911,Mighty Caesar w/ Grilled Salmon Salad,38,11
+3912,Monster Malt Banana,38,2
+3913,Monster Malt Chocolate,38,2
+3914,Monster Malt Peach,38,2
+3915,Monster Malt Raspberry,38,2
+3916,Monster Malt Strawberry,38,2
+3917,Monster Malt Vanilla,38,2
+3918,Monster Rookie Magic Shake,38,2
+3919,Monster Shake Banana,38,2
+3920,Monster Shake Chocolate,38,2
+3921,Monster Shake Mint Brownie,38,2
+3922,Monster Shake Peach,38,2
+3923,Monster Shake Raspberry,38,2
+3924,Monster Shake Strawberry,38,2
+3925,Monster Shake Vanilla,38,2
+3926,Mountain High Mudd Pie,38,4
+3927,Nacho Ordinary Chili Nachos,38,10
+3928,Nacho Ordinary Chili Nachos w/Chicken,38,10
+3929,Natural Burger,38,7
+3930,Nuclear Ice Tea,38,1
+3931,One Great Margarita – Peach,38,1
+3932,One Great Margarita – Raspberry,38,1
+3933,One Great Margarita – Rocks,38,1
+3934,One Great Margarita – Strawberry,38,1
+3935,One Great Margarita-Frozen,38,1
+3936,One Great Margarita-Mango,38,1
+3937,Parmesan Noodles,38,15
+3938,Peach Daiquiri,38,1
+3939,Peach Iced Tea,38,1
+3940,Platinum Patron Margarita,38,1
+3941,Pomegranate Iced Tea,38,1
+3942,Prime Rib Dip,38,5
+3943,Pub Burger,38,7
+3944,Rad Chicken Burger,38,15
+3945,Rad Garden Burger,38,15
+3946,Rad Robin Burger,38,15
+3947,Rad Turkey Burger,38,15
+3948,Rad Vegan Boca Burger,38,15
+3949,Raspberry Daiquiri,38,1
+3950,Raspberry Iced Tea,38,1
+3951,Red Robin Steak Fries,38,3
+3952,Red Robinetti Spaghetti,38,15
+3953,Red’s Cheese Pizza,38,15
+3954,Red’s Homemade Chili Chili™ – Bowl,38,14
+3955,Red’s Homemade Chili Chili™ – Cup,38,14
+3956,Red’s Pizzeria Pizza,38,15
+3957,Reds Nantucket Seafood Scatter,38,9
+3958,Royal Red Robin Burger®,38,7
+3959,RR’s Buzzard Wings®,38,10
+3960,Sand In Your Shorts,38,1
+3961,Sautéed ‘Shroom Burger,38,7
+3962,Screaming Red Zombie,38,1
+3963,Side Caesar Salad,38,11
+3964,Simply Grilled Chicken Salad,38,11
+3965,Simply Grilled Chicken Sandwich,38,12
+3966,Southwest Chicken Pasta,38,5
+3967,Southwest Grilled Chicken Salad,38,11
+3968,Southwest Pasta w/o Chicken,38,5
+3969,Steamed Broccoli,38,3
+3970,Steamed Carrots,38,3
+3971,Strawberry Daiquiri,38,1
+3972,Strawberry Lemon Vojito,38,1
+3973,T.N.T.,38,1
+3974,Teriyaki Chicken Sandwich,38,12
+3975,The Banzai Burger®,38,7
+3976,Towering Onion Rings®,38,10
+3977,Triple S Riblet & Classic Creamy Mac n Cheese,38,5
+3978,Add Chicken,39,3
+3979,Add Scallops,39,3
+3980,Add Shrimp,39,3
+3981,Alfredo Sauce,39,5
+3982,Arrabbiata Sauce,39,5
+3983,Asparagus,39,5
+3984,Baked Prosciutto & Mozzarella,39,10
+3985,Basil Pesto Sauce,39,5
+3986,Bellini Cipriani,39,1
+3987,Bibb & Blue (Includes Dressing),39,11
+3988,Blood Orange Cosmo,39,1
+3989,Blood Orange Italian Soda,39,1
+3990,Bolognese Sauce,39,5
+3991,Broccolini,39,5
+3992,Bruschetta Crostini,39,10
+3993,Caesar (Includes Dressing),39,11
+3994,Caesar Salad (Includes Dressing),39,5
+3995,Calamari Fritti,39,10
+3996,Cannellini Beans,39,5
+3997,Capellini,39,5
+3998,Capellini Pomodoro,39,5
+3999,Caprese,39,10
+4000,Caprese Panini,39,12
+4001,Carbonara,39,5
+4002,Carmela’S Chicken,39,5
+4003,Carmela’S Chicken,39,8
+4004,Chicken & Mushroom Cannelloni,39,5
+4005,Chicken Marsala,39,5
+4006,Chicken Parmesan,39,5
+4007,Chicken Scaloppine,39,5
+4008,Chicken Strips With Broccolini,39,15
+4009,Chicken Strips With Fries,39,15
+4010,Chicken Strips With Salad,39,15
+4011,Chicken Under A Brick,39,5
+4012,Coffee,39,1
+4013,Cranberry Orange Spritz,39,1
+4014,Crispy Artichoke Potato Cakes,39,10
+4015,Crispy Fresh Mozzarella,39,10
+4016,Eggplant Parmesan,39,5
+4017,Eggplant Quadratini,39,5
+4018,Farfalle,39,5
+4019,Fettuccine Alfredo,39,5
+4020,Fettuccine Alfredo With Chicken,39,5
+4021,Fettuccine Alfredo With Shrimp,39,5
+4022,Florentine Steak & Frites,39,5
+4023,Fresh Greens Salad (Includes Dressing),39,5
+4024,Fresh Spinach,39,5
+4025,Garlic Cream Sauce,39,5
+4026,Gelato: Dark Chocolate,39,4
+4027,Gelato: Double Vanilla,39,4
+4028,Ginger Root Soda,39,1
+4029,Gluten-Free Penne,39,5
+4030,Goat Cheese Peppadew Peppers,39,10
+4031,Grilled Chicken & Pasta,39,15
+4032,Grilled Chicken Spiedini,39,5
+4033,Grilled King Salmon,39,5
+4034,Grilled Shrimp Spiedini,39,5
+4035,Half Caprese Panini,39,5
+4036,Half Roasted Turkey,39,5
+4037,Homemade Chocolate Cake,39,4
+4038,Italian Mojito,39,1
+4039,Italian Sausage,39,5
+4040,Italian Sausage Pizza,39,19
+4041,Lasagna Bolognese,39,5
+4042,Lemon Passion,39,4
+4043,Lentil Soup,39,5
+4044,Lentil Soup,39,14
+4045,Limonata Nojito,39,1
+4046,Lobster Ravioli,39,5
+4047,Mac & Cheese,39,15
+4048,"Mac & Cheese Bites, Truffle Dip",39,10
+4049,Mama’S Trio,39,5
+4050,Margarita Prima,39,1
+4051,Margherita Pizza,39,19
+4052,Market Chop (Includes Dressing),39,5
+4053,Market Chop (Includes Dressing),39,11
+4054,Mediterranean Olives (Without Bread),39,10
+4055,Minute Maid® Lemonade,39,1
+4056,Mom’S Ricotta Meatballs & Spaghetti (Bolognese),39,5
+4057,Mom’S Ricotta Meatballs & Spaghetti (Pomodoro),39,5
+4058,Mushroom Ravioli,39,5
+4059,New York Style Cheesecake,39,4
+4060,Pan-Seared Branzino,39,5
+4061,Pancetta,39,5
+4062,Parmesan Fries,39,10
+4063,Parmesan-Crusted Chicken (Includes Dressing),39,11
+4064,Parmesan-Crusted Sole,39,5
+4065,Pasta Di Mare,39,5
+4066,Pasta Milano,39,5
+4067,Peasant Bread,39,10
+4068,Penne,39,5
+4069,Penne Rustica,39,5
+4070,Pepperoni Pizza,39,15
+4071,Perfect Martini,39,1
+4072,Pesto Spaghetti,39,5
+4073,Pollo Caprese,39,5
+4074,Pomegranate Italian Soda,39,1
+4075,Pomodorina Soup,39,5
+4076,Pomodorina Soup,39,14
+4077,Pomodoro Sauce,39,5
+4078,Primo Pepperoni Pizza,39,19
+4079,Quattro Cannoli,39,4
+4080,Ricotta Meatball Sliders,39,12
+4081,Ricotta Meatballs,39,5
+4082,Rigatoni,39,5
+4083,Roasted Chicken,39,5
+4084,Roasted Chicken & Arugula Flatbread,39,19
+4085,Roasted Mushroom Soup,39,5
+4086,Roasted Mushroom Soup,39,14
+4087,Roasted Mushrooms,39,5
+4088,Roasted Peppers,39,5
+4089,Roasted Tomatoes,39,5
+4090,Roasted Turkey,39,12
+4091,Salad Sampler (Includes Dressing),39,11
+4092,San Pellegrino® Sparkling Mineral Water,39,1
+4093,Sausage & Kale Soup,39,5
+4094,Sausage & Kale Soup,39,14
+4095,Shrimp,39,5
+4096,Shrimp Portofino,39,5
+4097,"Shrimp, Cannellini Bean & Avocado Crostini",39,10
+4098,Side Caesar Salad (Includes Dressing),39,12
+4099,Side Fresh Greens Salad (Includes Dressing),39,12
+4100,Side Of Parmesan Fries,39,12
+4101,Smoky Shrimp Flatbread,39,19
+4102,Snap Peas,39,5
+4103,Sorbet: White Peach,39,4
+4104,Sorrento Lemonade,39,1
+4105,Spaghetti,39,5
+4106,Spaghetti & Meat Sauce,39,15
+4107,Spaghetti & Meatballs,39,15
+4108,Spaghetti & Pomodoro,39,15
+4109,Spicy Herb-Roasted Mussels,39,10
+4110,Spicy Ricotta Meatballs,39,10
+4111,Stuffed Mushrooms,39,10
+4112,Tiramisu,39,4
+4113,Veal Saltimbocca,39,5
+4114,"Warm Spinach Salad (Includes Dressing, No Protein)",39,11
+4115,White Peach Italian Soda,39,1
+4116,Whole Wheat Fettuccine,39,5
+4117,Whole Wheat Fettuccine,39,5
+4118,Whole Wheat Fettuccine,39,5
+4119,Wild Mushroom & Goat Cheese Flatbread,39,19
+4120,Zucchini Fritti,39,10
+4121,Alpine Swiss Burger*,40,7
+4122,Asiago Peppercorn Sirloin*,40,5
+4123,Asiago Peppercorn Sirloin*,40,5
+4124,Asian Chicken Lettuce Wraps,40,10
+4125,Asian Chicken Lettuce Wraps,40,12
+4126,Asian Dumplings,40,3
+4127,Asian Glazed Salmon,40,9
+4128,Asian Sesame Glazed Half-Rack,40,5
+4129,Avocado Grilled Chicken Sandwich,40,7
+4130,Avocado Turkey Burger,40,7
+4131,Baja Chicken Quesadilla,40,10
+4132,Baja Chicken Quesadilla,40,8
+4133,Baja Chicken Tacos,40,10
+4134,Baked Mac ‘n Cheese,40,3
+4135,Baked Potato – Plain,40,3
+4136,Baked Potato – Plain,40,3
+4137,Baked Potato – with butter & sour cream,40,3
+4138,Barbecue Grilled Chicken,40,8
+4139,Barbecue Grilled Chicken – F&T,40,8
+4140,Bella Chicken Crepê,40,17
+4141,Bella Chicken Omelet,40,17
+4142,Berry Fusion,40,1
+4143,Berry Good Yogurt Parfait,40,17
+4144,Berry Good Yogurt Parfait,40,4
+4145,Blackened Tilapia with mango salsa,40,9
+4146,Blondie for One,40,4
+4147,Blondie for Two,40,4
+4148,Blue Cheese Iceberg Tower – add-on,40,11
+4149,Blue Cheese Iceberg Tower – entrée,40,11
+4150,Boston Blue Burger*,40,7
+4151,Boston Blue Triple Prime Burger*,40,7
+4152,Broccoli & Cheese Soup,40,14
+4153,Brown-Rice Pilaf,40,3
+4154,Brown-Rice Pilaf,40,3
+4155,Buffalo Chicken Burger,40,7
+4156,Buffalo Chicken Minis,40,8
+4157,Cajun Jambalaya Pasta,40,5
+4158,Carolina Chicken Salad,40,11
+4159,Carrot Cake Cupcake,40,4
+4160,Chef’s Cut Sirloin*,40,5
+4161,Chicken & Broccoli Pasta,40,5
+4162,Chicken & Broccoli Pasta (with linguini),40,5
+4163,Chicken & Mushroom Alfredo,40,5
+4164,Chicken Bella,40,8
+4165,Chicken Bella,40,8
+4166,Chicken Bella – F&T,40,8
+4167,Chicken BLT,40,7
+4168,Chicken Fresco,40,8
+4169,Chicken Tenders – Traditional,40,8
+4170,Chicken Three Ways,40,8
+4171,Chicken Vegetable Harvest Soup,40,14
+4172,Chocolate Chip Cookie (each),40,4
+4173,Classic Barbecue Half-Rack,40,5
+4174,Classic Cheeseburger*,40,7
+4175,Crab Cake Dinner,40,9
+4176,Crabacado Omelet,40,17
+4177,Cranapple Crepês,40,17
+4178,Creamy Mashed Cauliflower,40,3
+4179,Creamy Mashed Cauliflower,40,3
+4180,Creamy Mashed Cauliflower – F&T,40,3
+4181,Creole Catch,40,9
+4182,Creole Catch,40,9
+4183,Creole Catch – F&T,40,9
+4184,Cupcakes – Four Pack (2 of each),40,4
+4185,Dockside Grill Trio,40,5
+4186,Double Chocolate Cake,40,4
+4187,Filet*,40,5
+4188,Fire Wings,40,5
+4189,Four Way Sampler,40,10
+4190,French Fries,40,3
+4191,French Toast,40,17
+4192,Fresh Grilled Asparagus (when in season),40,3
+4193,Fresh Grilled Asparagus (when in season) – F&T,40,3
+4194,Fresh Grilled Green Beans,40,3
+4195,Fresh Grilled Green Beans,40,15
+4196,Fresh Grilled Green Beans – F&T,40,3
+4197,Fresh Grilled Zucchini,40,3
+4198,Fresh Grilled Zucchini,40,15
+4199,Fresh Grilled Zucchini – F&T,40,3
+4200,Fresh Guacamole Dip,40,10
+4201,Fresh Steamed Broccoli,40,3
+4202,Fresh Steamed Broccoli,40,3
+4203,Fresh Steamed Broccoli,40,15
+4204,Fresh Steamed Broccoli – F&T,40,3
+4205,Freshly Made Lemonade – Blackberry,40,1
+4206,Freshly Made Lemonade – Blackberry,40,1
+4207,Freshly Made Lemonade – Mixed Berry,40,1
+4208,Freshly Made Lemonade – Pomegranate,40,1
+4209,Freshly Made Lemonade – Pomegranate,40,1
+4210,Freshly Made Lemonade – Raspberry,40,1
+4211,Freshly Made Lemonade – Raspberry,40,1
+4212,Freshly Made Lemonade – Strawberry,40,1
+4213,Freshly Made Lemonade – Strawberry,40,1
+4214,Freshly Made Lemonade – Wild Berry,40,1
+4215,Fried Mozzarella,40,10
+4216,Garlic Cheese Biscuit,40,3
+4217,Garlic Cheese Biscuit,40,17
+4218,Grilled Chicken Salad,40,11
+4219,Grilled Chicken Salad,40,11
+4220,Grilled Chicken Wrap,40,12
+4221,Grilled Salmon,40,9
+4222,Grilled Salmon – F&T,40,9
+4223,Handcrafted Fruit Tea – Blackberry,40,1
+4224,Handcrafted Fruit Tea – Blackberry,40,1
+4225,Handcrafted Fruit Tea – Mango,40,1
+4226,Handcrafted Fruit Tea – Mango,40,1
+4227,Handcrafted Fruit Tea – Mixed Berry,40,1
+4228,Handcrafted Fruit Tea – Peach,40,1
+4229,Handcrafted Fruit Tea – Peach,40,1
+4230,Handcrafted Fruit Tea – Raspberry,40,1
+4231,Handcrafted Fruit Tea – Raspberry,40,1
+4232,Handcrafted Fruit Tea – Wild Berry,40,1
+4233,Herb-Crusted Tilapia,40,9
+4234,Honest Kids Super Fruit Punch,40,15
+4235,Italian Cream Cake,40,4
+4236,Jamaican Jerk Shrimp,40,9
+4237,Jumbo Lump Crab Burger,40,7
+4238,Jumbo Lump Crab Cake,40,10
+4239,Jumbo Lump Crab Cake – F&T,40,9
+4240,Jumbo Shrimp Skewer add-on – 1 skewer,40,5
+4241,Jumbo Shrimp Skewer add-on – 2 skewers,40,5
+4242,Jumbo Skewered Shrimp,40,9
+4243,Kid Beef Minis,40,15
+4244,Kid Chicken Breast,40,15
+4245,Kid Chicken Tenders,40,15
+4246,Kid Chop Steak,40,15
+4247,Kid Fried Shrimp,40,15
+4248,Kid Grilled Cheese,40,15
+4249,Kid Mac ‘n Cheese,40,15
+4250,Kid Pasta Marinara,40,15
+4251,Kid Pasta Marinara (with linguini),40,15
+4252,Kid Side of Apples,40,15
+4253,Kid Side of Grapes,40,15
+4254,Kid Side of White Cheddar Mashed Potatoes,40,15
+4255,Kid Sundae,40,15
+4256,Kid Turkey Minis,40,15
+4257,Kids Eggscellent Combo,40,15
+4258,Kids French Toast,40,15
+4259,Kids Patty Cakes,40,15
+4260,Large Fried Shrimp add-on,40,5
+4261,Loaded Baked Potato,40,3
+4262,Lobster Carbonara,40,5
+4263,Lobster Mac ‘n Cheese & Garden Bar,40,5
+4264,Louisiana Fried Shrimp,40,9
+4265,Mediterranean Shrimp Pasta,40,5
+4266,Memphis Dry Rub Half-Rack,40,5
+4267,Mini Benedicts – Crispy Southern Chicken,40,17
+4268,Mini Benedicts – Steak,40,17
+4269,New Orleans Seafood,40,9
+4270,New Orleans Seafood,40,9
+4271,New Orleans Seafood,40,9
+4272,New York Cheesecake,40,4
+4273,Onion Rings,40,3
+4274,Parmesan Chicken Pasta,40,5
+4275,Parmesan Shrimp Pasta,40,5
+4276,Parmesan Shrimp Pasta (with linguini),40,5
+4277,Peach Splash,40,1
+4278,Peach Splash,40,1
+4279,Petite Carolina Chicken Salad,40,11
+4280,Petite Carolina Chicken Salad – F&T,40,11
+4281,Petite Chicken Fresco,40,8
+4282,Petite Chicken Fresco – F&T,40,8
+4283,Petite Creole Catch,40,9
+4284,Petite Creole Catch – F&T,40,9
+4285,Petite Grilled Chicken Salad,40,11
+4286,Petite Grilled Chicken Salad – F&T,40,11
+4287,Petite Jumbo Shrimp Scampi,40,9
+4288,Petite Jumbo Shrimp Scampi – F&T,40,9
+4289,Petite Parmesan Shrimp Pasta,40,5
+4290,Petite Parmesan Shrimp Pasta – F&T,40,5
+4291,Petite Sirloin*,40,5
+4292,Petite Sirloin* & Jumbo Skewered Shrimp,40,5
+4293,Petite Sirloin* & Lobster Mac ‘n Cheese,40,5
+4294,Petite Sirloin* & Lobster Tail,40,5
+4295,Petite Sirloin* & Lobster Tail,40,5
+4296,Petite Sirloin* – F&T,40,5
+4297,Petite Sliced Sirloin*,40,5
+4298,Petite Sliced Sirloin* – F&T,40,5
+4299,Petite Spaghetti Squash Marinara,40,5
+4300,Petite Spaghetti Squash Marinara – F&T,40,5
+4301,Petite Zucchini Cakes,40,5
+4302,Petite Zucchini Cakes – F&T,40,5
+4303,Plain Grilled Chicken,40,8
+4304,Plain Grilled Petite Sirloin*,40,5
+4305,Plain Grilled Salmon,40,9
+4306,Plain Grilled Top Sirloin*,40,5
+4307,POM Tea,40,1
+4308,POM Tea,40,1
+4309,Queso & Chips,40,10
+4310,Red Velvet Cupcake,40,4
+4311,Rib Eye*,40,5
+4312,Roasted Spaghetti Squash,40,3
+4313,Roasted Spaghetti Squash – F&T,40,3
+4314,RT Palmer,40,1
+4315,RT Palmer,40,1
+4316,Ruby Minis,40,12
+4317,Ruby’s Classic Burger*,40,7
+4318,Salmon Florentine,40,9
+4319,Sauteed Baby Portabella Mushrooms,40,3
+4320,6″ B.L.T.,41,12
+4321,6″ Big Hot Pastrami,41,12
+4322,6″ Big Philly Cheesesteak,41,12
+4323,6″ Breakfast B.M.T.® Melt (with Egg White) Omelet Sandwich,41,23
+4324,6″ Breakfast B.M.T.® Melt Omelet Sandwich,41,23
+4325,6″ Chicken Cordon Bleu Melt,41,12
+4326,6″ Chipotle Steak & Cheese with Avocado,41,12
+4327,6″ Cold Cut Combo,41,12
+4328,6″ Egg & Cheese Omelet Sandwich,41,23
+4329,6″ Egg (White) & Cheese Omelet Sandwich,41,23
+4330,6″ Egg White with Cheese and Avocado Omelet Sandwich,41,23
+4331,6″ Fritos® Chicken Enchilada Melt,41,12
+4332,6″ Italian B.M.T.®,41,12
+4333,6″ Meatball Marinara,41,12
+4334,6″ Oven Roasted Chicken,41,12
+4335,6″ Roast Beef,41,12
+4336,6″ Spicy Italian,41,12
+4337,6″ Spicy Tuna,41,12
+4338,6″ Sriracha Chicken Melt,41,12
+4339,6″ Sriracha Steak Melt,41,12
+4340,6″ Steak and Cheese,41,12
+4341,"6″ Steak, Egg & Cheese Omelet Sandwich",41,23
+4342,"6″ Steak, Egg (White) & Cheese Omelet Sandwich",41,23
+4343,6″ Subway Club®,41,12
+4344,6″ Subway Melt® (includes cheese),41,12
+4345,6″ Sunrise Subway Melt ®  (with Egg White) Omelet Sandwich,41,23
+4346,6″ Sunrise Subway Melt ® Omelet Sandwich,41,23
+4347,6″ Sweet Onion Chicken Teriyaki,41,12
+4348,6″ Tuna,41,12
+4349,6″ Turkey Breast,41,12
+4350,6″ Turkey Jalapeno Melt,41,12
+4351,6″ Tuscan Chicken Melt,41,12
+4352,6″ Veggie Delite®,41,12
+4353,"6″ Western, Egg & Cheese Omelet Sandwich",41,23
+4354,"6″ Western, Egg (White) & Cheese Omelet Sandwich",41,23
+4355,Apple Slices – 1 package,41,4
+4356,B.L.T. with Avocado Salad,41,11
+4357,Beef Chili (8 oz),41,14
+4358,Big Hot Pastrami Melt Salad,41,11
+4359,Big Philly Cheesesteak Salad,41,11
+4360,Birthday Berry Cookie,41,4
+4361,Breakfast B.M.T. ® Melt (with Egg White) 3″ Flatbread,41,23
+4362,Breakfast B.M.T. ® Melt (with regular egg) 3″ Flatbread,41,23
+4363,Cheese Flatizza™,41,19
+4364,Chicken Cordon Bleu Melt Salad,41,11
+4365,Chicken Noodle (8 oz),41,14
+4366,Chicken Teriyaki with Spinach,41,11
+4367,Chili Con Carne (10 oz),41,14
+4368,Chipotle Chicken & Cheese Salad,41,11
+4369,Chipotle Steak & Cheese Salad,41,11
+4370,Chocolate Chip Cookie,41,4
+4371,Chocolate Chunk Cookie,41,4
+4372,Clam Chowder (8 oz),41,14
+4373,Creamy Chicken and Dumplings (8 oz),41,14
+4374,Creamy Wild and Brown Rice (8 oz),41,14
+4375,Double Chicken Salad,41,11
+4376,Double Chocolate Cookie,41,4
+4377,Egg & Cheese 3″ Flatbread,41,23
+4378,Egg (White) & Cheese 3″ Flatbread,41,23
+4379,Egg White with Cheese and Avocado 3″ Flatbread,41,23
+4380,Egg White with Cheese and Avocado 3″ Flatbread,41,23
+4381,Fritos® Chicken Enchilada Melt Salad,41,11
+4382,Gingerbread Cookie,41,4
+4383,Golden Broccoli and Cheese (8 oz),41,14
+4384,Green Chili and Tomato (8 oz),41,14
+4385,Loaded Baked Potato (8 oz),41,14
+4386,M & M™ Cookie,41,4
+4387,Minestrone (8 oz),41,14
+4388,Oatmeal Raisin Cookie,41,4
+4389,Oven Roasted Chicken Salad,41,11
+4390,Peanut Butter Cookie,41,4
+4391,Pepperoni Flatizza™,41,19
+4392,Poblano Corn Chowder (8 oz),41,14
+4393,Raspberry Cheesecake Cookie,41,4
+4394,Roast Beef Mini Sub,41,12
+4395,Roast Beef Salad,41,11
+4396,Spicy Italian Flatizza™,41,19
+4397,Spicy Tuna Salad,41,11
+4398,Sriracha Chicken Melt Salad,41,11
+4399,Sriracha Steak Melt Salad,41,11
+4400,"Steak, Egg (White) and Cheese 3″ Flatbread",41,23
+4401,"Steak, Egg and Cheese 3″ Flatbread",41,23
+4402,Subway Club® Salad,41,11
+4403,Sugar Cookie,41,4
+4404,Sunrise Subway Melt® (with Egg White) 3″ Flatbread,41,23
+4405,Sunrise Subway Melt® 3″ Flatbread,41,23
+4406,Sweet Onion Chicken Teriyaki Salad,41,11
+4407,Turkey Breast Mini Sub,41,12
+4408,Turkey Breast Salad,41,11
+4409,Turkey Jalapeno Melt Salad,41,11
+4410,Tuscan Chicken Salad,41,11
+4411,Vegetable Beef (8 oz),41,14
+4412,Veggie Delite® Mini Sub,41,12
+4413,Veggie Delite® Salad,41,11
+4414,Veggie Flatizza™,41,19
+4415,White Macadamia Nut Cookie,41,4
+4416,1/2 lb.* Cheesy Potato Burrito,42,24
+4417,1/2 lb.* Combo Burrito,42,24
+4418,7-Layer Burrito,42,24
+4419,Bean Burrito,42,24
+4420,Bean Burrito,42,24
+4421,Beefy 5-Layer Burrito,42,24
+4422,Beefy 5-Layer Burrito,42,24
+4423,Berry Pomegranate Frutista Freeze®,42,1
+4424,Berry Pomegranate Frutista Freeze® 16 oz,42,1
+4425,Burrito Supreme® – Beef,42,24
+4426,Burrito Supreme® – Chicken,42,24
+4427,Burrito Supreme® – Steak,42,24
+4428,Caramel Apple Empanada,42,3
+4429,Caramel Apple Empanada,42,4
+4430,Chalupa Supreme – Chicken,42,27
+4431,Chalupa Supreme – Steak,42,27
+4432,Chalupa Supreme–Beef,42,27
+4433,Cheese Quesadilla,42,27
+4434,Cheese Roll-Up,42,27
+4435,Cheese Roll-Up,42,3
+4436,Cheesy Fiesta Potatoes,42,3
+4437,Cheesy Gordita Crunch,42,27
+4438,Cheesy Nachos,42,27
+4439,Cheesy Nachos,42,3
+4440,Cherry Limeade Sparkler 20 oz,42,1
+4441,Cherry Limeade Sparkler 20 oz,42,1
+4442,Chicken Quesadilla,42,27
+4443,Chicken Soft Taco,42,26
+4444,Chili Cheese Burrito,42,24
+4445,Chili Cheese Burrito,42,24
+4446,Cinnamon Twists,42,3
+4447,Cinnamon Twists,42,3
+4448,Classic Limeade Sparkler 16 oz,42,1
+4449,Classic Limeade Sparkler 20 oz,42,1
+4450,Crispy Potato Soft Taco,42,26
+4451,Crispy Potato Soft Taco,42,26
+4452,Crunchwrap Supreme®,42,27
+4453,Crunchy Taco,42,26
+4454,Crunchy Taco,42,26
+4455,Crunchy Taco Supreme®,42,26
+4456,Doritos® Locos Tacos,42,26
+4457,Doritos® Locos Tacos Supreme,42,26
+4458,Double Decker® Taco,42,26
+4459,DOUBLE DECKER® Taco Supreme®,42,26
+4460,Enchirito® – Chicken,42,27
+4461,Enchirito® – Steak,42,27
+4462,Enchirito® – Beef,42,27
+4463,Express Taco Salad w/ Chips,42,11
+4464,Express Taco Salad w/ Chips,42,11
+4465,Fiesta Taco Salad-Beef,42,11
+4466,Fiesta Taco Salad-Chicken,42,11
+4467,Fiesta Taco Salad-Steak,42,11
+4468,Fresco Bean Burrito,42,24
+4469,Fresco Bean Burrito,42,24
+4470,Fresco Burrito Supreme® – Chicken,42,24
+4471,Fresco Burrito Supreme® – Steak,42,24
+4472,Fresco Chicken Soft Taco,42,26
+4473,Fresco Chicken Soft Taco,42,26
+4474,Fresco Crunchy Taco,42,26
+4475,Fresco Crunchy Taco,42,26
+4476,Fresco Grilled Steak Soft Taco,42,26
+4477,Fresco Soft Taco,42,26
+4478,Gordita Supreme® – Chicken,42,27
+4479,Gordita Supreme® – Steak,42,27
+4480,Gordita Supreme® – Beef,42,27
+4481,Grilled Chicken Burrito,42,24
+4482,Grilled Steak Soft Taco,42,26
+4483,Mango Strawberry Frutista Freeze®,42,1
+4484,Mango Strawberry Frutista Freeze® 16 oz,42,1
+4485,Mexican Pizza,42,27
+4486,Mexican Rice,42,3
+4487,MexiMelt®,42,27
+4488,Nachos,42,27
+4489,Nachos BellGrande®,42,27
+4490,Nachos Supreme,42,27
+4491,Pintos n Cheese,42,3
+4492,Soft Taco Supreme® – Beef,42,26
+4493,Soft Taco-Beef,42,26
+4494,Soft Taco-Beef,42,26
+4495,Steak Quesadilla,42,27
+4496,Strawberry Frutista Freeze®,42,1
+4497,Strawberry Frutista Freeze® 16 oz,42,1
+4498,Tostada,42,27
+4499,Volcano Burrito,42,24
+4500,Volcano Nachos,42,27
+4501,Volcano Nachos,42,27
+4502,Volcano Taco,42,26
+4503,XXL Grilled Stuft Burrito – Beef,42,24
+4504,XXL Grilled Stuft Burrito – Chicken,42,24
+4505,XXL Grilled Stuft Burrito – Steak,42,24
+4506,BC Chicken Fajita Taco With Pico De Gallo (no cheese),43,26
+4507,BC Chicken Tortilla Soup- Bowl Without Tortilla Strips and cheese,43,14
+4508,BC Chicken Tortilla Soup- Cup Without Tortilla Strips and cheese,43,14
+4509,BC Crispy Beef Taco With Pico De Gallo (no cheese),43,26
+4510,BC Crispy Chicken Taco With Pico De Gallo (no cheese),43,26
+4511,BC Soft Beef Taco With Pico De Gallo (no cheese),43,26
+4512,BC Soft Chicken Taco With Pico De Gallo (no cheese),43,26
+4513,BC Steak Fajita Taco With Pico De Gallo (no cheese),43,26
+4514,BC Vegetarian Black Bean Burrito Without Sour Cream and cheese,43,24
+4515,Bean Burrito,43,24
+4516,Beef Big Ol’ Burrito (B.O.B.™),43,24
+4517,Beef Bueno Chilada®,43,5
+4518,Beef Burrito,43,24
+4519,Beef Crispy Taco,43,26
+4520,Beef Muchaco®,43,27
+4521,Beef Mucho Nachos®,43,27
+4522,Beef Nacho Salad,43,11
+4523,Beef Potato Burrito,43,24
+4524,Beef Quesadilla,43,27
+4525,Beef Soft Taco,43,26
+4526,Beef Taco Rollup™,43,26
+4527,Beef Taco Rollup™,43,15
+4528,Beef Taco Salad,43,11
+4529,Black Bean Burrito,43,24
+4530,Black Beans – Platter Portion,43,3
+4531,Black Beans – Side Portion,43,3
+4532,Cheese Nachos,43,27
+4533,Cheese Quesadilla,43,27
+4534,Cheesecake Chimichanga,43,4
+4535,Chicken Big Ol’ Burrito (B.O.B.™),43,24
+4536,Chicken Bueno Chilada®,43,5
+4537,Chicken Crispy Taco,43,26
+4538,Chicken Muchaco®,43,27
+4539,Chicken Mucho Nachos®,43,27
+4540,Chicken Nacho Salad,43,11
+4541,Chicken Potato Burrito,43,24
+4542,Chicken Quesadilla,43,27
+4543,Chicken Soft Taco,43,26
+4544,Chicken Taco Rollup™,43,26
+4545,Chicken Taco Rollup™,43,15
+4546,Chicken Taco Salad,43,11
+4547,Chicken Tortilla Soup – Bowl,43,14
+4548,Chicken Tortilla Soup – Cup,43,14
+4549,Cilantro Lime Rice – Platter Portion,43,3
+4550,Cilantro Lime Rice – Side Portion,43,3
+4551,Combination Burrito,43,24
+4552,Flame-Grilled Chicken Fajita Taco,43,26
+4553,Flame-Grilled Steak Fajita Taco,43,26
+4554,Kids Cheese Quesadilla,43,27
+4555,Kids Cheese Quesadilla,43,15
+4556,Meat Lovers Burrito,43,22
+4557,Meat Lovers Taco,43,22
+4558,Mexican Rice,43,3
+4559,MexiDips & Chips®,43,3
+4560,Mini Cheese Quesadilla,43,27
+4561,Muchaco Without Cheddar Cheese,43,27
+4562,Muchaco Without Cheddar Cheese,43,27
+4563,Muchaco Without Refried Beans,43,27
+4564,Party Burrito®,43,24
+4565,Party Burrito®,43,15
+4566,Party Taco®,43,26
+4567,Party Taco®,43,15
+4568,Potato Egg Burrito,43,22
+4569,Potato Egg Taco,43,22
+4570,Potato Stix,43,22
+4571,Queso,43,3
+4572,Refried Beans,43,3
+4573,Sausage Egg Burrito,43,22
+4574,Sausage Egg Taco,43,22
+4575,Small Mexican Rice (Available only with Platters),43,3
+4576,Small Refried Beans (Available only with Platters),43,3
+4577,Strawberry,43,2
+4578,Strawberry,43,2
+4579,Strawberry Smoothie,43,15
+4580,Tostada,43,27
+4581,10-piece Chicken Nuggets,44,8
+4582,10-piece Spicy Chicken Nuggets,44,8
+4583,4-piece Chicken Nuggets,44,8
+4584,4-piece Spicy Chicken Nuggets,44,8
+4585,6-piece Chicken Nuggets,44,8
+4586,6-piece Spicy Chicken Nuggets,44,8
+4587,Apple Pecan Chicken Salad,44,11
+4588,Apple Pecan Chicken Salad Half-Size,44,11
+4589,Apple Slices,44,4
+4590,Asiago Ranch Chicken Club,44,12
+4591,Asian Cashew Chicken Salad,44,11
+4592,"Asian Cashew Chicken Salad, Half-Size",44,11
+4593,BBQ Ranch Chicken Salad,44,11
+4594,"BBQ Ranch Chicken Salad, Half Size",44,11
+4595,Broccoli Cheese Potato,44,3
+4596,Caesar Side Salad,44,11
+4597,Chili Cheese Fries,44,6
+4598,Chocolate Frosty Waffle Cone,44,2
+4599,Crispy Chicken Caesar Wrap,44,16
+4600,Crispy Chicken Sandwich,44,12
+4601,Dave’s Hot ‘N Juicy™ 1/2 lb.* Double,44,7
+4602,Dave’s Hot ‘N Juicy™ 1/4 lb.* Single,44,7
+4603,Dave’s Hot ‘N Juicy™ 3/4 lb.* Triple,44,7
+4604,Double Stack™,44,7
+4605,Garden Side Salad,44,11
+4606,Grilled Chicken Go Wrap,44,16
+4607,Homestyle Chicken Fillet,44,12
+4608,Jr. Cheeseburger,44,7
+4609,Jr. Cheeseburger Deluxe,44,7
+4610,Jr. Original Chocolate Frosty™,44,2
+4611,Jr. Original Chocolate Frosty™,44,2
+4612,Jr. Vanilla Frosty™,44,2
+4613,Kids’ Cheeseburger,44,7
+4614,Kids’ French Fries,44,6
+4615,Large Caramel Frosty™ Shake,44,2
+4616,Large Chili,44,5
+4617,Large Chocolate Frosty™ Shake,44,2
+4618,Large French Fries,44,6
+4619,Large Original Chocolate Frosty™,44,2
+4620,Large Strawberry Frosty™ Shake,44,2
+4621,Large Vanilla Frosty™,44,2
+4622,Medium French Fries,44,6
+4623,Medium Original Chocolate Frosty™,44,2
+4624,Medium Vanilla Frosty™,44,2
+4625,Premium Cod Fillet Sandwich,44,12
+4626,Small Caramel Frosty™ Shake,44,2
+4627,Small Chili,44,5
+4628,Small Chocolate Frosty™ Shake,44,2
+4629,Small French Fries,44,6
+4630,Small Original Chocolate Frosty™,44,2
+4631,Small Strawberry Frosty™ Shake,44,2
+4632,Small Vanilla Frosty™,44,2
+4633,Sour Cream and Chive Potato,44,3
+4634,Spicy Chicken Caesar Salad,44,11
+4635,Spicy Chicken Caesar Salad Half-Size,44,11
+4636,Spicy Chicken Go Wrap,44,16
+4637,Spicy Chicken Sandwich,44,12
+4638,Ultimate Chicken Grill,44,12
+4639,Value French Fries,44,6
+4640,Value French Fries,44,6
+4641,Vanilla Frosty Waffle Cone,44,2
